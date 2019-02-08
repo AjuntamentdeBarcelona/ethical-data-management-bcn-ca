@@ -7,7 +7,19 @@ include::{partialsdir}/README.adoc[tag=metadata]
 // to see listed in the navigation menu for this document. See
 // https://docs.antora.org/antora/navigation/list-structures/ for more details
 // on the syntax of this file.
+.$$MAIN
+* xref:summary.adoc[Resum Executiu]
+* xref:introduction.adoc[Introducció i justificació]
+* xref:objectives.adoc[Objectives of the measure]
+* xref:context.adoc[Context]
+* xref:values.adoc[Essential values of the programme]
+* xref:scope.adoc[Scope of application]
+* xref:governance.adoc[Governance of municipal data: The municipal data office]
+* xref:areas.adoc[Startegic areas]
+* xref:projects.adoc[Emblematic projects]
+* xref:references.adoc[References]
 
-* xref:glossary.adoc[_Guides glossary_]
+.$$BOTTOM
+* xref:{lang}/glossary:ROOT:glossary.adoc[Guides glossary]
+* link:{attachmentsdir}/barcelona_data_management_{revnumber}.{lang}.pdf[Download PDF]
 * xref:index.adoc[_Authors and other document information_]
-* link:{attachmentsdir}/barcelona_{component-name}_{revnumber}.{lang}.pdf[Download PDF]

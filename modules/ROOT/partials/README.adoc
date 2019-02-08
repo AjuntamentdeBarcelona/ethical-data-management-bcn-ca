@@ -9,7 +9,7 @@
 // MANDATORY. A language label supported by Asciidoctor,
 // https://asciidoctor.org/docs/user-manual/#customizing-labels, e.g.,
 // en, es, or ca.
-:lang:
+:lang: ca
 //
 // MANDATORY. Numeric revision in X.Y.Z format, where X, Y and Z are numbers,
 // and Z is optional.
@@ -17,28 +17,26 @@
 //
 // MANDATORY. URL pointing to a Git repository with the source code of the
 // document. Something like 'https://github.com/USERNAME/REPONAME'.
-:uri-public-repo:
+:uri-public-repo: https://github.com/AjuntamentdeBarcelona/ethical-data-management-bcn-ca
 //
-// MANDATORY. Usually
-// {uri-public-website-root}/{lang}/COMPONENT_NAME/, where COMPONENT_NAME is
-// defined in file antora.yml in this repo.
-:uri-public-website:
+// MANDATORY. Exactly the same value you give to key "name" in file antora.yml.
+:component-name:
 //
 // MANDATORY. Title of the document. In web format, it appears as a heading of
 // level 1. In PDF format, it appears in a title page.
-:_title:
+:_title: Mesura Gov. Gestió Ètica de les Dades
 //
 // OPTIONAL. Subtitle of the document.
 :_subtitle:
 //
 // MANDATORY. Semi-colon-separated list of names.
-:authors:
+:authors: Francesca Bria, Màrius Boada, Malcolm Bain and Pau Balcells
 //
 // OPTIONAL. Semi-colon-separated list of names.
 :_contributors:
 //
 // OPTIONAL. Semi-colon-separated list of names.
-:_reviewers:
+:_reviewers: Roberto di Cosmo
 //
 // OPTIONAL. Publication date of the revision. When the default value
 // ("{docdate}") is used, the current date in format YYYY-MM-DD is automatically
@@ -47,12 +45,12 @@
 :revdate: {docdate}
 //
 // MANDATORY. Short summary of the contents of the document.
-:_summary:
+:_summary: Mesura de Govern de Gestió Ètica i Responsable de Dades: Barcelona Data Commons
 //
 // MANDATORY. Comma-separated list of terms to help classifying and searching
 // the document. In web format, this terms are integrated as SEO enabling
 // metadata. In PDF format, they are shown near the other metadata.
-:keywords: ethical digital standards, technology rights, barcelona, city council
+:keywords: ethical digital standards, digital rights, Barcelona, City Council, gestió dades, dades pel bé comú, rendició de comptes, ètica de dades
 //
 // MANDATORY. Document's history.
 :_dochistory:
@@ -72,10 +70,8 @@
 //
 // DO NOT TOUCH.
 :page-lang: {lang}
+:uri-public-website: {uri-public-website-root}/{component-name}/
 // end::metadata[]
-
-
-// tag::metadata-table[]
 
 = {_title}
 
