@@ -11,7 +11,7 @@ This document establishes the defining plan for the programme and all the action
 This plan is led by Barcelona City Council’s Commission for Digital Technology and Innovation.
 The document describes the programme’s scope, its relation to the DTP, its objectives and the implementation schedule for each task and action.
 The programme for open digitalisation is completed by free software and agile service development, published in a government measure in October 2017.
-aaaaz
+
 Through this government measure and the action plan it contains, Barcelona becomes *the first Spanish city to develop a Municipal Data Office*, making it possible to structure informed public policies using information provided by data, the proper treatment of that data and its resulting analysis.
 The responsible and ethical use of data is a key element of Barcelona City Council’s Digital Transformation Plan, especially the Open Data and Data Commons strategies, data-driven projects and interoperability based on open-data formats.
 
