@@ -3,27 +3,25 @@ include::_partials/README.adoc[tag=metadata]
 
 Al setembre de 2016 l’Ajuntament de Barcelona endegà un important procés de transformació digital: va anunciar que els serveis públics han de ser proveïts, ja des de l’inici, a través de canals digitals seguint una nova directriu basada en l’orientació al ciutadà, l’ús d’estàndards oberts i programari obert, i d’acord amb una estratègia de dades ètica que posa la privacitat, transparència i els drets digitals al bell mig.
 
-The decision taken by the municipal government is based on the “Barcelona Digital City” Plan, approved in the “*Transition Towards Technological Sovereignty*” government measure in October 2016 and the new Spanish Act 39/2015 on Common Administrative Procedures for Public Authorities.
-This Act states that, by 2020, digital channels must take priority in the provision of public services in Spain.
-The Barcelona Digital City Plan establishes a radical improvement in digital public services as one of its main objectives, with the aim of providing services to city residents on a 24/7 basis that are of higher quality and better adapted to their needs.
+La decisió del govern de la ciutat està basada en el Pla Barcelona Ciutat Digital aprovat el passat mes d’octubre de 2016 a la mesura de govern “*Transició cap a la Sobirania Tecnològica*” i la nova llei espanyola 39/2015 de Procediment Administratiu Comú de les Administracions Públiques.
+Aquesta estableix que a l’any 2020 els canals digitals han de ser prioritaris a l’Estat Espanyol a l’hora de proveir els serveis públics.
+El Pla Barcelona Ciutat Digital estableix com un dels seus objectius prioritaris la millora radical dels serveis púbics digitals amb la finalitat de proveir als ciutadans serveis 24x7 de més qualitat i més ajustats a les seves necessitats.
 
-This document establishes the defining plan for the programme and all the actions and tasks that make up *the responsible and ethical use of data strategy*, developed as part of Barcelona’s Digital Transformation Plan (DTP).
-This plan is led by Barcelona City Council’s Commission for Digital Technology and Innovation.
-The document describes the programme’s scope, its relation to the DTP, its objectives and the implementation schedule for each task and action.
-The programme for open digitalisation is completed by free software and agile service development, published in a government measure in October 2017.
+Aquest document estableix el pla que defineix el programa, totes les accions i tasques que formen part de *l'Estratègia de l’Ús Responsable i Ètica de Dades*, un programa desenvolupat en el marc del «BCN-Pla de Transformació Digital» (el PTD).
+Aquest pla està liderat pel Comissionat de Tecnologia i Innovació Digital de l'Ajuntament de Barcelona.
+El document descriu l'abast del programa, la seva relació amb el PTD, els objectius i el calendari de desplegament de cada tasca i acció.
+Completa el Programa per a la Digitalització Oberta: Programari Lliure i Desenvolupament Àgil de Serveis, publicat a la Mesura de Govern en Octubre 2017.
 
-Through this government measure and the action plan it contains, Barcelona becomes *the first Spanish city to develop a Municipal Data Office*, making it possible to structure informed public policies using information provided by data, the proper treatment of that data and its resulting analysis.
-The responsible and ethical use of data is a key element of Barcelona City Council’s Digital Transformation Plan, especially the Open Data and Data Commons strategies, data-driven projects and interoperability based on open-data formats.
+Barcelona, mitjançant aquesta Mesura de Govern i el pla d’acció que conté, es posiciona com *a la primera ciutat espanyola en desenvolupar una Oficina Municipal de Dades*, que ha de permetre desenvolupar polítiques públiques informades mitjançant l’evidència que aporten les dades, el seu correcte tractament i l’anàlisi que se’n deriva.
+L’ús responsable i ètic de dades és un element essencial del Pla de Transformació Digital de l’Ajuntament, en especial el _Data Commons_ i l’estratègia de Dades Obertes, els projectes “_data driven_” i la interoperabilitat basada en formats de dades oberts.
 
-This government measure provides a global vision of the City Council’s data-management plan and the proposed changes for putting it into practice.
-It explains the governance mechanisms for this data management, the fundamental values for ensuring data sovereignty, privacy and security, and also presents the actions geared towards internal and external data enhancement, a practical approach based on establishing specific projects with a roadmap, a budget and a schedule.
+Aquesta mesura de govern proporciona una visió global del pla de gestió de dades a l’Ajuntament i dels canvis proposats per implementar-lo, exposa l’estructura de governança d’aquesta gestió de dades, els valors fonamentals per a assegurar la sobirania de dades, la privacitat i la seguretat de les mateixes, així com presenta les accions orientades a enfortir el valor intern i extern de les dades – una orientació eminentment pràctica basada en l’establiment de projectes específics amb un clar full de ruta, pressupost i calendari.
 
-Ethical and responsible data management, together with the use of free software tools indicated in the previous government measure of October 2017, ensure universal access and improved transparency.
-We are also laying the foundations for new initiatives based on making the best use of data, which will strengthen the administration and make it more independent.
+Amb la gestió ètica i responsable de les dades, juntament amb l’ús de les eines de programari lliure que s’indiquen a l’anterior Mesura d’octubre 2017, garantirem l’accés universal així com la millora de la transparència i estarem posant les bases per noves iniciatives que es basen en l’aprofitament de les dades que aportarà fortalesa i independència a l’administració.
 
-The Code of Practice provided in an appendix to the government measure of October 2017 establishes the more technological directives aimed at putting the lines of action into practice, along with the measure’s requirements for the responsible use of data.
+El Codi de Pràctiques Tecnològiques annexat a l’esmentada Mesura de Govern d’octubre 2017, estableix les directrius i les tècniques orientades a implementar les línies d’acció i els requisits d’aquesta Mesura sobre l’ús responsable de dades. Aquesta Mesura es complementarà amb  una Instrucció sobre l’Oficina Municipal de Dades, que definirà el model de governança, els rols i responsabilitats d’aquells persones responsables de la planificació i supervisió de la gestió de dades a l’Ajuntament.
 
-This measure is accompanied by an directive concerning the Municipal Data Office, which defines the governance model and the roles and responsibilities of the people in charge of planning and supervising data management in the City Council.
+El Programa de Transformació Àgil en el que s’integra l’Estratègia de l’Ús Responsable i Ètica de Dades evoluciona contínuament, per tant, les disposicions generals d’aquesta Mesura de Govern seran actualitzades i implementades a mesura que s’implementi el Programa, i la nostra ambició és seguir endavant i fer molt més del que aquesta mesura de govern exposa, doncs aquesta estableix només les bases d’un procés de millora continua.
 
 The agile transformation programme, which contains the responsible and ethical use of data strategy, is continually evolving.
 Therefore, the general provisions of this government measure will be updated and put into practice as the programme is applied.
