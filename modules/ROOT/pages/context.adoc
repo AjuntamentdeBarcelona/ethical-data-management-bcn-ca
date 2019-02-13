@@ -4,77 +4,68 @@ include::_attributes.adoc[]
 endif::[]
 include::{partialsdir}/README.adoc[tag=metadata]
 
-== Current situation
+== La situació actual
 
-The City Council currently manages a lot of data including many kinds of information content that need to be properly identified and supervised, in order to ensure compliance with the inherent functions of public service, while respecting, and not infringing, the regulations concerning privacy, confidentiality, security, transparency, access and reuse that current legislation requires.
-Furthermore, we have to be able to work on and manage this data in a sustainable and appropriate way, in order to provide it with added value and a social aspect, transforming it into a real asset for city residents and for the municipal council itself.
-In the City Council, data is often kept in “informative silos” or in vertical piles, which means it cannot be easily shared between departments.
-This has had a major effect on the organisation and it is something that this measure aims to change.
+Actualment, l'Ajuntament gestiona moltes dades, molts tipus de continguts d’informació, que cal tenir ben identificats i supervisats per poder assegurar l’acompliment de les funcions de servei públic que li són pròpies, sense infringir i respectant la normativa sobre privacitat, confidencialitat, seguretat, transparència, accés i reutilització que ens exigeix la legalitat vigent.
+A més, hem de poder treballar i gestionar aquestes dades adequadament i de forma sostenible, per tal d’afegir-hi valor, una dimensió social i, transformar-les en un actiu real per la ciutadania i per la pròpia Corporació municipal.
+A l’Ajuntament sovint, les dades es mantenen en _«sitges informatives»_ o en piles verticals, de manera que no es pot compartir fàcilment entre departaments, i això ha tingut un gran impacte en l'organització fins avui, que es desitja canviar mitjançant aquesta Mesura.
 
-From a cultural point of view, in recent years, the municipal organisation has gradually assumed the fact that municipal information is an asset of common interest to the City Council and city residents.
-Permanent access to the data, whether it is public or restricted or confidential, empowers the communities that have access to it, because it allows them to take duly informed decisions and means that they can be freer.
+Des del punt de vista cultural, en els darrers anys, l’organització municipal ha anat assumint la visió que la informació municipal és un bé d’interès comú per l’Ajuntament i pels ciutadans.
+L’accés permanent a les dades, siguin públiques, restringides o confidencials, apodera a les comunitats que hi accedeixen perquè els permet prendre decisions degudament informats i els capacita per ser més lliures.
 
-For city residents, municipal data is a source of wealth that can help to break the cycle of poverty and can form a basis for sustainable human development.
-Access to public content is a basic democratic right that helps to reduce the digital gap and empowers city residents to decide and act freely in their social, work and leisure activities, from an individual and collective viewpoint.
-Correctly managing and disseminating this data must make it possible for city residents to have more formed opinions and a desire to participate in local affairs, guarantee a return on public investment in society, facilitate control of the Administration by city residents, accelerate access to knowledge, foster collaborative work, encourage innovation, which enriches education and stimulates the economy, increases productivity and helps to find new solutions to tackle the challenges facing new societies, which are constantly changing, in order to increase competitiveness and promote the progress of knowledge at a global level.
+Per la ciutadania, les dades municipals són una font de riquesa que pot contribuir a trencar el cicle de la pobresa i pot ser la base del desenvolupament humà sostenible.
+L’accés als continguts públics és un dret democràtic bàsic que contribueix a disminuir l’escletxa digital i capacita per decidir i actuar lliurement a la vida social, laboral i el lleure, des d’un punt de vista individual i/o col·lectiu.
+La correcta gestió i difusió d’aquestes dades ha de possibilitar al ciutadà tenir més formació d’opinió i voluntat de participació en els assumptes locals, garantir el retorn a la societat de la inversió pública, facilitar el control de l’administració municipal per part d’aquest, accelerar la descoberta de coneixement, fomentar el treball en col·laboració, encoratjar la innovació, la qual cosa enriqueix l’educació i estimula l’economia, incrementar la productivitat i ajudar a trobar noves solucions per abordar els reptes de les noves societats constantment canviants, augmentar la competitivitat i promoure l’avenç del coneixement a nivell global.
 
-For the City Council, in the broadest sense of the concept, the data that we generate, collect, receive, store, process and share also has a high intrinsic value.
-This places us in a privileged position that we need to know how to make the most of in order to share it with everyone.
-It is necessary to manage these information resources systematically and intelligently, taking into account their entire life cycle, in order to successfully transform them into an asset and to construct the necessary tools and services to get just-in-time data and make it available to the departments and people who need it, beyond the limits imposed by right of access.
-For the City Council, the benefits of this systematic process are also numerous: efficiency and responsibility are increased, the institution’s profile is raised and our knowledge is increased.
-It is a permanent and continual source of knowledge, because it is preserved properly, it guarantees the institution’s reputation, it improves transparency and accountability, it promotes reuse for the benefit of everyone and helps to improve productivity.
+Per l’Ajuntament, les dades, en el sentit més ampli del concepte, que generem, col·leccionem, rebem, emmagatzemem, processem i/o compartim tenen, també, un gran valor intrínsec, la qual cosa ens situa en una posició de privilegi, que cal saber aprofitar per compartir-les amb tothom.
+Cal gestionar aquests recursos d’informació de forma sistemàtica i intel·ligent, tenint en compte tot el seu cicle de vida, per arribar a transformar-los en un actiu i construir les eines i serveis necessaris per disposar d’elles “just-in-time” a disposició dels departaments o dels individus que les requereixin, més enllà dels límits del dret d’accés.
+Els beneficis d’aquest procés sistèmic, per l’Ajuntament, també són molts: s’incrementa l’eficiència i la responsabilitat, s’augmenta la visibilitat de la institució, és una font de coneixement permanent i persistent perquè es preserva de forma adequada, garanteix la reputació de la institució, millora la transparència i la rendició de comptes, potencia la reutilització en benefici de tots i totes i, contribueix a millorar la productivitat.
 
-From an architectural point of view, the City Council now has to rethink and develop flexible infrastructures, content and data, interoperable procedures and services that make it possible to change the data model and strategy in order to share it with all the interested communities, applying general criteria and protocols and adding specifications according to the various departmental businesses and objectives.
+Des del punt de vista arquitectònic, l'Ajuntament actualment ha de repensar i desenvolupar les infraestructures flexibles, els continguts o les dades, els procediments, i els serveis interoperables, que permetin un canvi de model i d’estratègia de dades per poder compartir-les entre totes les comunitats interessades, aplicant criteris i protocols, a nivell general i, afegint especificitats, en funció dels diferents negocis i objectius departamentals.
 
-The infrastructures have to include facilities, technology and the expertise of human teams.
-We have to see data from a broader perspective, referring to all information resources, including protected and open data, true digital and digitalised data, and even subscription or licensed electronic resources.
-The procedures have to standardise vocabulary, apply meta-data standards and guarantee interoperability within the worldwide digital data ecosystem.
-In addition to providing traditional information and assistance services, they must be flexible in order to address other emerging needs in a knowledge society that is changing so rapidly.
+Les infraestructures han d’incloure les facilitats, la tecnologia i l’expertesa dels equips humans.
+Les dades s’han de contemplar des de la visió més àmplia referint-se a tots els recursos d’informació, els lliures de drets i els protegits, els nascuts digitals i/o digitalitzats, fins i tot, els recursos electrònics subscrits o llicenciats.
+Els procediments han d’homogeneïtzar vocabularis, aplicar estàndards de metadades i garantir-nos la interoperabilitat dins l’ecosistema de dades digital mundial i els serveis, a més de facilitar la prestació dels serveis d’informació i atenció tradicionals, han de ser flexibles per atendre altres necessitats emergents en una societat del coneixement tant ràpidament canviant.
 
-These strategies must be able to define a data-classification model that takes into account legal and security aspects at each stage of the data’s life cycle, the tools for creating digital objects and assigning descriptive, administrative, technical and preservation metadata, as well as assigning univoc and persistent identifiers and they also have to ensure that the data and its metadata can be understood by humans and by machines, i.e. in order to guarantee open-access information that is easy to find, to share and which is machine readable.
-This is a change of model, where the new value is default access to municipal data.
-It is necessary to systematically apply data evaluation and selection procedures in order to also create a preservation policy that is sustainable in the long term, to plan the transfer to an analytic repository, or if necessary, definitive placement in a secure and verified repository so that the data is permanently accessible, to apply con-trolled vocabulary and standards, and with clear licences of use that are machine readable in order to enable individual or mass reuse, always stating the original source, and disclosing the existence of the data to city residents so that they are aware of its existence and that they have right of use.
+Aquestes estratègies passen per definir un model de classificació de les dades, tenint en compte els aspectes legals i de seguretat en cada etapa del seu cicle de vida, les eines per la creació dels objectes digitals, l’assignació de metadades descriptives, administratives, tècniques i de preservació, així com d’identificadors unívocs i persistents, assegurar que les dades i les seves metadades són comprensibles per humans i per les màquines, és a dir, garantir la informació d’accés obert, fàcil de trobar, compartir  i de lectura mecànica.
+És un canvi de paradigma on el  nou valor és l’accés per defecte a les dades municipals.
+Aplicar sistemàticament, els procediments d’avaluació i selecció de dades per crear, també, una política de preservació que sigui sostenible a llarg termini, planificar la transferència al repositori analític, o bé, si s’escau, la ingesta definitiva a un repositori segur, verificat, per tal que les dades siguin permanentment accessibles, l’aplicació de vocabularis i estàndards controlats i de llicències d’ús clares i llegibles mecànicament per tal de permetre la reutilització, individual o massiva, donar sempre coneixement de la seva font de procedència i divulgar la seva existència a la ciutadania per tal que sigui conscient de la seva existència i del seu dret d’ús.
 
-This has important legal consequences, such as those imposed by the new general data protection regulation (*RGPD*), which will be obligatory for all public institutions from May 2018.
-It must be stated that the City Council is working on a plan for adapting to the RGPD and that it has taken measures to that end.
-Dispersion of data services could cause security problems in the future (data dispersion can also mean unauthorised access to personal information by contractors and other players, although at this time, no leaks of any kind have taken place).
-For this reason, when what we want to do with the data internally is discussed, there are also architectural problems that must be tackled.
-These problems include the need for a unified point of access with sufficient technical capacity to manage large quantities of information, but also an interoperability standard for sharing data among services, systems and applications (i.e. a unified API policy).
+Això té implicacions jurídiques importants com les imposades pel nou Reglament General de Protecció de Dades (*RGPD*), d’obligatori compliment a partir de maig de 2018 per a totes les institucions públiques.
+Cal assenyalar que l'Ajuntament està treballant en un pla per adaptar-se al RGPD, i s'han pres mesures en aquest sentit.
+Aquesta dispersió de serveis de dades podria, potencialment, implicar problemes de seguretat al futur (la dispersió de dades pot significar també l'accés no autoritzat a informació personal tant per part dels contractistes com per altres agents, encara que en aquest moment no s'han produït filtracions de dades de cap tipus).
+Per això, quan es parla del que volem fer amb dades internament, també hi ha problemes arquitectònics que cal abordar. Aquests inclouen la necessitat d'un punt d'accés unificat amb prou capacitat tècnica per manejar grans quantitats d'informació, però també un estàndard d'interoperabilitat per compartir dades entre serveis, sistemes i aplicacions (és a dir, una política d’“APIs” - interfícies de programació d’aplicacions - unificada).
 
-In terms of governance, there is a need for a body, a municipal data department, that spear-heads the new model, promotes the paradigm shift within the organisation and assigns responsibilities in order to ensure that data is managed as a real asset during its entire life cycle, which will generate added value.
-This government body has to carry out high-level supervision and be empowered to take decisions concerning possible data conflicts in public tenders.
-Furthermore, it will have to oversee a change in the City Council’s mentality, aimed at achieving a data-based focus in order to inform and take decisions concerning the city’s problems.
+En l’àmbit de la governança es necessita un organisme, en aquest cas una Direcció Municipal de Dades, que lideri el nou model i impulsi el canvi de paradigma dins l’organització, que assigni responsabilitats per garantir que les dades seran gestionades com un actiu real durant tot el seu cicle de vida, afegint-hi valor.
+Aquest òrgan ha de realitzar la supervisió d’alt nivell i estar facultat per prendre decisions sobre possibles conflictes de dades de les licitacions públiques.
+Aquest òrgan de govern hauria de conduir un canvi de mentalitat a l'Ajuntament a aconseguir un enfocament basat en dades per informar i prendre decisions respecte dels problemes de la ciutat.
 
-Finally, in regard to exchanging data, the City Council has played a discreet role until now.
-It has maintained an open-data portal, but the portal had low standards, and there was a lack of decisive political support for opening up data.
-In regard to contracting, there is basically no concern about contract data, as it is not considered to be an internal asset.
+Finalment i pel que fa a l'intercanvi de dades, fins ara, el paper de l'Ajuntament ha estat discret. D'una banda, es va mantenir un portal de dades obert, però els estàndards del portal eren baixos i el suport polític a l’obertura de dades era discret.
 
-== Data-strategy motivations
+== Motivacions de l’Estratègia de dades
 
-The conceptual plan must address the motivation for this programme.
-We live in a digital world, where access to technology makes it possible to transform many aspects of society.
-In particular, technology enables the scalability of processes and services.
-This factor, along with an ever-increasing availability of data for measuring practically every aspect of people’s lives (the so-called _*big data*_), could threaten the levels of freedom enjoyed by the citizens who live in our societies.
-Furthermore, although the inherent scalability offered by these technologies has positive consequences for efficiency, it may also lead to an increase in existing inequalities.
+En el pla conceptual cal esmentar la motivació d’aquest programa.
+Vivim en un món digital, on l'accés a la tecnologia permet la transformació de molts aspectes de les societats.
+En particular, la tecnologia permet l'escalabilitat dels processos i serveis.
+Això, juntament amb una disponibilitat cada vegada més gran de dades per mesurar gairebé tots els aspectes de la vida dels ciutadans (el denominat _«*Big Data*»_), pot posar en perill el nivell de llibertat dels ciutadans que viuen a les nostres societats.
+A més, l'escalabilitat inherent que ofereixen aquestes tecnologies, tot i tenir conseqüències positives pel que fa a l'eficiència, també pot conduir a un augment de les desigualtats ja existents.
 
-As a public administration, the City Council is uniquely placed to ensure that this does not happen.
-It must promote an agenda that is explicitly geared towards ensuring the digital rights of city residents while also acting as a facilitator for generating well-distributed wealth.
-This wealth can be created through innovation and exploiting data, which has been described as “the new 21st century petroleum”:
+Com a administració pública, l’Ajuntament està en una posició única per assegurar que això no passi.
+Ha d'impulsar una agenda que s'orienti explícitament a assegurar, per una banda, els drets digitals dels ciutadans, mentre que, de l'altra, actua per a una millor redistribució de la riquesa.
+Aquesta riquesa es pot generar explotant i innovant amb dades, passant de considerar les dades com el “nou petroli” (“oil” amb la seva accepció anglesa) a considerar-les com “la nova terra de conreu” (“soil” amb la seva accepció anglesa) del segle XXI».
 
-However, like petroleum, data must be refined using appropriate processes and skills, which not all social stakeholders have to the same degree.
-Therefore, a policy that merely defends “open data” in the name of transparency, and allows certain stakeholders access without any clear strategy or regulations, may lead to a society that is even more unequal.
-Although data must be made public, we shouldn’t forget that people’s capacities in terms of economic power, knowledge and infrastructure are not evenly distributed throughout the population.
-Therefore, as a public body, we must clearly change the current model of merely demanding that the data is opened up “naturally”.
+No obstant això, les dades per si mateixes, com el petroli, han de ser refinats amb els processos i capacitats adequats, que no tots els actors socials tenen al mateix nivell.
+Per tant, una manera política de defensar «dades obertes» en nom de la transparència i permetre que certs actors accedeixin sense cap estratègia o normativa clara, pot conduir a una societat encara més desigual.
+Malgrat que les dades s'han de fer públiques, no hem d'oblidar que les capacitats en termes de poder econòmic, coneixement i infraestructura no es distribueixen de manera uniforme en la població, per tant, com a cos públic, hem de canviar clarament el paradigma actual de només demanar que es llanci les dades "a la natura".
 
-From a general perspective, public administrations must be the ones to spearhead this vision.
-We have sufficient power to promote our vision, as we have part of the critical infrastructures, major economic capacity, the communicative range and, to start off with, a significant body of data.
-A cultural change in this direction can therefore be achieved by encouraging the other stakeholders to come on board and follow the City Council’s lead.
+Des d'un punt de vista general, les administracions públiques han de ser les que lideren aquesta visió.
+Tenen el poder suficient per poder impulsar aquesta visió, ja que tenen una part de les infraestructures crítiques, tenen importants capacitats econòmiques, abast comunicatiu i, per començar, un corpus de dades no menyspreable.
+Per tant, al aconseguir que altres «actors» pugin a bord seguint el lideratge de l’Ajuntament, podria activar un canvi cultural en aquesta direcció.
 
-Furthermore, based on this government measure, it is necessary to define a framework that covers all the necessary actions concerning data, in order to ensure continued and permanent access under the FAIR data principles promoted by European bodies and especially by the Research Data Management Working Group.
+A més, a partir d’aquesta Mesura de govern cal definir un marc que contempli totes les accions necessàries sobre les dades per assegurar-ne l’accés continuat i permanent durant el temps que es consideri necessari i sota el principi de dades FAIR _(Findable, Accessible, Interoperable, Reusable)_ impulsat pels organismes europeus  i, especialment,  el _Research Data Management Working Group_.
 
-Finally, it must be taken into account that the City Council acts as a protector of city residents’ data.
-It is therefore very important to make this data available to them, so that it is accessible to city residents and so that a verifiable and trustworthy relationship can be built up.
-However, for this to become a reality, it is not enough for the data and the protocols to be transparent.
-City residents must also have the tools and knowledge to be able to verify them.
-In a world that is becoming more and more digitalised, this means that the City Council must promote activities that help to train city residents in digital knowledge.
-In order to do this, it is necessary to make people more aware of the importance of exercising digital rights and to also provide the general public with tools that allow them to understand the implications, possibilities and dangers behind a totally digitalised world, where a huge amount of data on human activities is available.
+Finalment, s’ha de considerar que l'Ajuntament actua com a salvaguarda de les dades dels ciutadans.
+Per tant, és molt important posar aquestes dades a la seva disposició, per a que siguin accessibles per a ells, de manera que es pot construir una relació verificable i fiable.
+Tanmateix, perquè això sigui una realitat, no només les dades i els protocols han de ser transparents, sinó que també els ciutadans han de tenir les eines i els coneixements per poder-los verificar.
+En un món cada vegada més digitalitzat, això significa que l'Ajuntament ha d'impulsar activitats que ajudin a capacitar els ciutadans en el domini digital.
+Això inclou augmentar la consciència sobre la importància d'exercir els drets digitals, i també proporcionar eines que permetin a la societat entendre les implicacions, possibilitats i perills que hi ha darrere d'un món totalment digitalitzat, on hi ha moltes dades disponibles sobre activitats humanes.

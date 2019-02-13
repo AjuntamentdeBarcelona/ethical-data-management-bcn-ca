@@ -48,10 +48,10 @@ Aquesta visió, basada en el concepte de la sobirania de dades dels ciutadans, e
 .El Barcelona Data Commons
 image::infografia_en.svg[El Barcelona Data Commons, width=80%]
 
-== 02.3	L’Oficina Municipal de Dades i “Chief Data Officer” (CDO)
+== L’Oficina Municipal de Dades i “Chief Data Officer” (CDO)
 
 Barcelona reconeix l’oportunitat que l’ús adequat de les dades està demostrant a l’hora de prendre decisions informades, així com la seva utilització per a la definició, anàlisi i resolució dels reptes actuals de les grans ciutats, i la necessitat d’una gestió responsable i ètica d’aquestes dades.
 Mesura, s’estableix la missió i objectius de la nova *Oficina Municipal de Dades* (OMD), liderada per el seu Director “*Chief Data Officer*” (CDO), dotant-la dels recursos necessaris (humans, tècnics i econòmics) per a posar en valor les dades de la ciutat i aquelles dades dels ciutadans que la ciutat custodia.
 Així, Barcelona segueix l’exemple encapçalat per importants ciutats Nord-americanes com Chicago, New York City i Boston, amb els seus respectius _Chief Data Officers_, i més recentment també per d’altres ciutats a Europa com Paris o Londres, que mitjançant el disseny d’una nova estratègia i visió estan posant en valor les dades com a part de la infraestructura pròpia de la ciutat.
 
-En aquest cas Barcelona, mitjançant aquesta Mesura de Govern i el pla d’acció que conté, es posiciona com a la primera ciutat espanyola en reconèixer la importància que tenen les dades i en nomenar un CDO, i crear les estructures de dadesdades – el Data Lake i el Data Commons – que han de permetre desenvolupar polítiques públiques informades mitjançant l’evidència que aporten les dades, el seu correcte tractament i l’anàlisi que se’n deriva, i d’obrir aquestes dades en la mesura possible als sectors industrial i civil per enfortir l’economia local i les accions de la societat civil.
+En aquest cas Barcelona, mitjançant aquesta Mesura de Govern i el pla d’acció que conté, es posiciona com a la primera ciutat espanyola en reconèixer la importància que tenen les dades i en nomenar un CDO, i crear les estructures de dades – el Data Lake i el Data Commons – que han de permetre desenvolupar polítiques públiques informades mitjançant l’evidència que aporten les dades, el seu correcte tractament i l’anàlisi que se’n deriva, i d’obrir aquestes dades en la mesura possible als sectors industrial i civil per enfortir l’economia local i les accions de la societat civil.

@@ -10,7 +10,7 @@ include::{partialsdir}/README.adoc[tag=metadata]
 .$$MAIN
 * xref:summary.adoc[Resum Executiu]
 * xref:introduction.adoc[Introducció i justificació]
-* xref:objectives.adoc[Objectives of the measure]
+* xref:objectives.adoc[Objectius de la mesura]
 * xref:context.adoc[Context]
 * xref:values.adoc[Essential values of the programme]
 * xref:scope.adoc[Scope of application]
