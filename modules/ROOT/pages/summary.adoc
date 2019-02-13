@@ -1,7 +1,7 @@
 include::_partials/README.adoc[tag=metadata]
 = Resum executiu
 
-Al setembre de 2016 l’Ajuntament de Barcelona endegà un important procés de transformació digital: va anunciar que els serveis públics han de ser proveïts, ja des de l’inici, a través de canals digitals seguint una nova directriu basada en l’orientació al ciutadà, l’ús d’estàndards oberts i programari obert, i d’acord amb una estratègia de dades ètica que posa la privacitat, transparència i els drets digitals al bell mig.
+Al setembre de 2016 l’Ajuntament de Barcelona endegà un important procés de transformació digital: va anunciar que els serveis públics han de ser proveïts, ja des de l'inici, a través de canals digitals seguint una nova directriu basada en l’orientació al ciutadà, l’ús d’estàndards oberts i programari obert, i d’acord amb una estratègia de dades ètica que posa la privacitat, transparència i els drets digitals al bell mig.
 
 La decisió del govern de la ciutat està basada en el Pla Barcelona Ciutat Digital aprovat el passat mes d’octubre de 2016 a la mesura de govern “*Transició cap a la Sobirania Tecnològica*” i la nova llei espanyola 39/2015 de Procediment Administratiu Comú de les Administracions Públiques.
 Aquesta estableix que a l’any 2020 els canals digitals han de ser prioritaris a l’Estat Espanyol a l’hora de proveir els serveis públics.
