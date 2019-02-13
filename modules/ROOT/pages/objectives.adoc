@@ -29,31 +29,29 @@ Finalment, hem de poder mostrar exemples concrets de l'aplicació d'aquesta visi
 
 Aquesta mesura també presenta els *projectes emblemàtics actuals*, a través dels quals es comencen a assolir aquests objectius i a implantar les estructures, responsabilitats i projectes necessaris per a fer-ho.
 
-== Barcelona Data Commons
+== El Barcelona Data Commons
 
-The current situation of municipal data has to be transformed in order to turn it into a public asset, or *_data commons_*, with defined governance and rules that are created from the perspective of data as a common asset.
-The public and private perception of data has to change from that of an asset that offers a competitive advantage to one of a social “infrastructure” that must be public in order to ensure common well-being, and which is exchanged on a _quid pro quo basis_.
-The more data there is, the higher its quality, and the more confidence there is in the exchange and privacy rules for this common asset, the better all the stakeholders taking part will be able to perform.
+La situació actual de les dades municipals ha de transformar-se per a convertir les dades municipals en un bé públic, un _«*Data Commons*»_, amb una governança definida i regles que es creen en pro del bé comú.
+La percepció pública i privada de les dades ha de passar de ser un actiu que ofereix un avantatge competitiu, a una «infraestructura» social que s'ha de fer pública per assegurar el benestar comú i que s’intercanviï sota un paradigma _quid pro quo_:
+com més hi ha de dades, millor sigui la seva qualitat, i com més es confiï en les regles d'intercanvi i privadesa que ofereixen aquests béns comuns, millor serà l’actuació de tots els actors que hi participaran.
 
-In regard to this _data commons_ perspective, the aim of this measure is to establish the architecture, processes and operational standards based on application programming interfaces (API), which make it possible to group data sources into a common *_data lake_*.
-This involves document-configuration processes for the datasets, as well as a mapping of the wealth of general data present in the Administration and an assessment of its quality.
-It also involves getting this infrastructure prepared for (partial) opening to external social stakeholders, with the aim of providing support to the proposed vision for the data-commons framework.
+L’objectiu d’aquesta mesura en relació al Data Commons és establir l’arquitectura, els processos i estàndards d'operativitat basats en les API, que permeten agrupar les diferents fonts de dades en el *Data Lake* comú.
+Això implica pràctiques de documentació i configuració per als conjunts de dades, així com un mapatge de la riquesa de dades present a l'administració així com de la seva qualitat.
+També implica fer que aquesta infraestructura estigui preparada per a l'obertura (parcialment) a actors socials externs, amb l'objectiu de donar suport a la visió prevista del marc del Data Commons.
 
-In order to promote and direct this concept of data commons, the City Council has to be able to propose and offer innovative solutions and ideas concerning data relating to the general public.
-In order to do this, we have to ensure a certain level of internal alignment in terms of available technology and data.
-We then have to explain our concept and establish a clear dialogue with the city’s stakeholders in order to jointly promote our concept of data commons, with rules that we must jointly establish with the general public.
-Finally, we have to be able to show specific examples of the application of this data commons concept to city residents, in order to ensure their support for our work.
-This also has to be achieved while recognising the need to return the control of this data to the city residents who produce it, so that they can decide what they want to keep private and what they want to share, and with whom and under what conditions.
-This vision, based on the concept of the general public’s data sovereignty, will take the form of experimental projects, such as DECODE (see below) and in the integration of new technologies, such as distributed registries or blockchains and data encryption.
+Per impulsar i dirigir aquesta visió del Data Commons, l’Ajuntament ha de ser capaç de proposar i oferir solucions innovadores de dades relacionades amb la societat en general, per la qual cosa ha d'assegurar internament, un cert nivell d'alineació pel que fa a disponibilitat tecnològica i disponibilitat de dades.
+Ha d'explicar la seva visió i establir un diàleg clar amb els actors implicats a la ciutat per impulsar conjuntament la visió del Data Commons, amb regles que ha de fixar conjuntament amb la Societat.
+Finalment, ha de poder mostrar exemples concrets de l'aplicació d'aquesta visió del Data Commons a la ciutadania, per garantir el suport al seu treball.
+Això es farà també reconeixent la necessitat de retornar el control de les dades als ciutadans que les produeixen, de manera que puguin decidir quines dades volen mantenir en privat i quines volen compartir, amb qui i amb quina finalitat.
+Aquesta visió, basada en el concepte de la sobirania de dades dels ciutadans, es durà a terme en projectes experimentals com DECODE (veure a continuació) i la integració de noves tecnologies, com ara registres distribuïts o _blockchain_ i el xifrat de dades.
 
-.Barcelona Data Commons
-image::infografia_en.svg[Barcelona Data Commons, width=80%]
+.El Barcelona Data Commons
+image::infografia_en.svg[El Barcelona Data Commons, width=80%]
 
-== The Municipal Data Office and the Chief Data Officer (CDO)
+== 02.3	L’Oficina Municipal de Dades i “Chief Data Officer” (CDO)
 
-Barcelona recognises the opportunity for demonstrating the proper use of data when making informed decisions, as well as for defining, analysing and resolving the challenges currently facing big cities, and the need for responsible and ethical management of this data.
-By using this measure, it therefore establishes the mission and objectives of the new Municipal Data Office (MDO) led by a Chief Data Officer (CDO), while also providing it with the necessary (human, technical and economic) resources to make use of the data pertaining to the city and its residents that is kept by the city.
-Barcelona is therefore following the example of major North American cities, such as Chicago, New York and Boston, with their respective Chief Data Officers, and more recently other European cities, such as London and Paris, which, by designing a new strategy and vision, consider data to be part of the city’s own infrastructure.
+Barcelona reconeix l’oportunitat que l’ús adequat de les dades està demostrant a l’hora de prendre decisions informades, així com la seva utilització per a la definició, anàlisi i resolució dels reptes actuals de les grans ciutats, i la necessitat d’una gestió responsable i ètica d’aquestes dades.
+Mesura, s’estableix la missió i objectius de la nova *Oficina Municipal de Dades* (OMD), liderada per el seu Director “*Chief Data Officer*” (CDO), dotant-la dels recursos necessaris (humans, tècnics i econòmics) per a posar en valor les dades de la ciutat i aquelles dades dels ciutadans que la ciutat custodia.
+Així, Barcelona segueix l’exemple encapçalat per importants ciutats Nord-americanes com Chicago, New York City i Boston, amb els seus respectius _Chief Data Officers_, i més recentment també per d’altres ciutats a Europa com Paris o Londres, que mitjançant el disseny d’una nova estratègia i visió estan posant en valor les dades com a part de la infraestructura pròpia de la ciutat.
 
-In this case, through this government measure and the action plan it contains, Barcelona becomes the first Spanish city to recognise the importance of data, the first one to appoint a CDO and the first one to create its own data-lake and data-commons structures.
-This should make it possible to produce informed public policies by using the information provided by the data, its correct treatment and the resulting analysis, and by opening up this data to the civil and industrial sectors, as far as possible, in order to strengthen the local economy and the actions of civil society.
+En aquest cas Barcelona, mitjançant aquesta Mesura de Govern i el pla d’acció que conté, es posiciona com a la primera ciutat espanyola en reconèixer la importància que tenen les dades i en nomenar un CDO, i crear les estructures de dadesdades – el Data Lake i el Data Commons – que han de permetre desenvolupar polítiques públiques informades mitjançant l’evidència que aporten les dades, el seu correcte tractament i l’anàlisi que se’n deriva, i d’obrir aquestes dades en la mesura possible als sectors industrial i civil per enfortir l’economia local i les accions de la societat civil.
