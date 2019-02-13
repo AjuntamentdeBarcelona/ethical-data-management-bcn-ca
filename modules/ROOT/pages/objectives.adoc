@@ -4,31 +4,30 @@ include::_attributes.adoc[]
 endif::[]
 include::{partialsdir}/README.adoc[tag=metadata]
 
-This measure establishes the general policy for the governance, planning, procurement, management, analysis, use, protection, access and preservation, as long as necessary, and the reuse of municipal data to add value to municipal digital information throughout its life cycle, as well as aspects arising from this in terms of human resources, IT infrastructures and resources, economic management and support services.footnote:[Although this measure refers to various aspects of IT resources, such as privacy, confidentiality, information quality, disclosure and statistical policy, these concepts will be treated and developed in later directives. Units must apply the policies of this measure, and the directives and guidelines in a coherent and constant way.]
+Aquesta mesura estableix la política general per a la governança, planificació, obtenció, gestió, anàlisi, ús i protecció, accés i preservació, fins que sigui necessari, i reutilització  de les dades municipals per afegir valor a la informació digital municipal al llarg del seu cicle de vida, com també els aspectes que se’n deriven en relació als recursos humans, les infraestructures i recursos TI, la gestió econòmica i els serveis de suport.services.footnote:[Malgrat que aquesta mesura es refereix a diversos aspectes dels recursos TIC com ara la privacitat, confidencialitat, qualitat de la informació, disseminació o política estadística, aquests conceptes estaran recollits i desenvolupats en instruccions posteriors. Les unitats hauran d’implementar les polítiques d’aquesta mesura i de les instruccions i guies de manera coherent i consistent]
 
-The strategy of responsible data management is defined with the aim of helping to guide the transformation of the municipal government’s IT systems by means of the institutionalisation of more agile approaches, which should facilitate a speedy adoption of the technological changes in such a way that security, technological sovereignty, privacy and information and data management are reinforced, along with all municipal services and programmes.
+L’estratègia de gestió responsable de dades es configura per tal d’ajudar a conduir la transformació dels sistemes TI del govern local mitjançant la institucionalització d’aproximacions més àgils que han de facilitar l’adopció ràpida dels canvis tecnològics, de manera que es reforci la seguretat, la sobirania tecnològica, la privacitat i la gestió dels recursos d’informació i dades d’una banda a l’altra de tots els serveis i programes municipals.
 
-This measure aims to ensure the City Council is able to establish a general infrastructure and harmonised processes in order to manage, use and (partially) disseminate data, which is known as _*data commons*_,footnote:[Already under way at http://ajuntament.barcelona.cat/digital/en/digital-transformation/city-data-commons.] and that it is also able to promote, implement and supervise projects that capitalise on and enhance data in an agile, uniform way (e.g. in terms of data interoperability and standardisation) through the Municipal Data Office, and ensure the responsible management of data in accordance with current legislation, together with the Data Protection Officer.
+Aquesta mesura es focalitza en aconseguir que l’Ajuntament sigui capaç d’establir una infraestructura general i processos harmonitzats per a la gestió, utilització i disseminació (parcial) de dades, un “_*Data Commons*_”,footnote:[Ja iniciat a http://ajuntament.barcelona.cat/digital/en/digital-transformation/city-data-commons.] i promoure, executar i supervisar els projectes d’explotació i de valorització de dades de manera àgil i uniform (p.e. front la interoperabilitat i l’estandardització de dades) a través de l’Oficina Municipal de Dades, i vetllar per a la gestió responsable de dades d’acord a les lleis vigents conjuntament amb el Delegat de Protecció de Dades.
 
-== Goals
+== Objectius
 
-The main objectives of this measure are:
+Els principals objectius d’aquesta mesura són:
 
-* To define the Municipal Data Office’s objectives, mission, responsibilities and authority.
-* To identify the structure and mechanisms for data governance, in its broadest sense, in Barcelona City Council.
-* To define the main governing bodies for the City Council’s actions regarding data, centred on ethical use, data sovereignty, the social aspect, guaranteeing privacy and security, permanent access and the reuse of data.
-* To ensure responsible data management throughout its life cycle, respecting the FAIR data principles (findable, accessible, interoperable and reusable).
-* To define the data architecture, with its data lake repository and City OS, as well as the IT infrastructures needed to use it.
-* To improve the internal and external use of the City Council’s data, in order to add value and transform it into a real asset for high corporate enhancement.
-* To develop the procedures and mechanisms for processing data as systematically and automatically as possible, respecting current legislation and without endangering the privacy, confidentiality and security of that data.
+* ●	Definir els objectius, la missió, responsabilitats i l’autoritat de l’Oficina Municipal de Dades
+* ●	Identificar l’estructura i mecanismes de governança de dades, en el sentit més ampli,  a l’Ajuntament de Barcelona.
+* ●	Definir els principis rectors de l’actuació de l’Ajuntament respecte de les dades, enfocats al seu ús ètic, la sobirania de les dades, la dimensió social, assegurar la privacitat i la seguretat, l’accés permanent i la reutilització de les dades.
+* ●	Assegurar la gestió responsable de les dades en tot el seu cicle de vida respectant els principis de dades FAIR (cercables, accessibles, interoperables i reutilitzables).
+* ●	Definir l’arquitectura de les dades, amb el seu repositori _(*Data Lake* i CityOS)_ i les infraestructures TI necessàries per a permetre el seu ús.
+* ●	Millorar l’ús, intern i extern de les dades de l’Ajuntament, per afegir-hi valor i  transformar-les en actiu real per una alta valorització corporativa.
+* ●	Desenvolupar procediments i mecanismes per treballar les dades de forma sistematitzada i quant més automatitzada possible, respectant la legislació vigent i sense posar en perill la privacitat, la confidencialitat i la seguretat d’aquestes dades.
 
-In order to achieve the programme’s objectives, certain steps are clearly necessary.
-Firstly, for promoting and directing our vision of data commons, we have to be able to propose and offer *innovative solutions and visions* concerning information for the general public.
-In order to do this, we have to ensure a certain level of internal alignment, in terms of available technology and data.
-We then have to *explain our* *vision and establish a clear dialogue* with the city’s stakeholders in order to jointly promote our vision of *data commons*, with rules that must be established.
-Finally, we have to be able to show specific examples of the application of this vision for the common good of city residents, in order to ensure their support for our work.
+Clarament, per aconseguir els diferents objectius del programa, cal assegurar determinats passos.
+En primer lloc, per impulsar i dirigir la nostra visió dels béns comuns de dades, hem d'estar en condicions de proposar i oferir *solucions i visions innovadores* relacionades amb la informació a la societat en general, per la qual cosa hem d'assegurar, internament, un determinat nivell d'alineació pel que fa a disponibilitat tecnològica i de les dades.
+A continuació, hem d'*explicar la nostra visió i establir un diàleg clar* amb els actors implicats a la ciutat per impulsar conjuntament la nostra visió del _«Data Commons»_, amb regles que hem de fixar.
+Finalment, hem de poder mostrar exemples concrets de l'aplicació d'aquesta visió del bé comú a la ciutadania, per garantir el seu suport al nostre treball.
 
-This measure also presents *current emblematic projects*, through which these objectives are starting to be achieved, along with the structures, responsibilities and projects they require.
+Aquesta mesura també presenta els *projectes emblemàtics actuals*, a través dels quals es comencen a assolir aquests objectius i a implantar les estructures, responsabilitats i projectes necessaris per a fer-ho.
 
 == Barcelona Data Commons
 
