@@ -1,237 +1,231 @@
-= Strategic areas
+= Eixos Estratègics
 ifndef::env-site,env-github[]
 include::_attributes.adoc[]
 endif::[]
 include::{partialsdir}/README.adoc[tag=metadata]
 
-In order to deploy *the strategy for the responsible and ethical use of data*, the following areas of action have been established, which we will detail below, together with the actions and emblematic projects associated with them.
+Per a desplegar *l'Estratègia de Gestió Responsable i Ètica de Dades*, s'han establert els eixos d'actuació que ampliem a continuació, juntament amb les seves accions i projectes emblemàtics associats.
 
-In general, the strategy pivots on the following general principals, which form the basis for the strategic areas described in this section.
+De manera general, l'Estratègia pivotarà sobre el següents principis bàsics, que fonamenten els eixos estratègics descrits en aquesta secció:
 
-* Data sovereignty
-* Open data and transparency
-* The exchange and reuse of data
-* Political decision-making informed by data
-* The life cycle of data and continual or permanent access
+* La sobirania de les dades
+* Les dades obertes i la transparència
+* L'intercanvi de dades i reutilització
+* Presa de decisions polítiques informada en dades
+* El cicle de vida de les dades i l'accés continuat i/o permanent
 
-== The deployment of the new data governance
+== Desplegament de la nova governança de les dades
 
-=== Governance policies and processes
+=== Polítiques i processos de governança
 
-As a support for the purpose and functions of municipal manager's offices and bodies, and in coordination with the people in charge of data, the municipal processes, standards and policies applicable to all the organisation's data resources will have to be defined, put into practice and maintained.
+Com a suport de la finalitat i funcions de les gerències i ens municipals, i en coordinació amb els responsables i encarregats de dades, s'hauran de definir, implementar i mantenir els processos, estàndards i polítiques municipals que seran d'aplicació a tots els recursos de dades de l'entitat.
 
-Subsidiary municipal bodies must obtain this from the CTID, in coordination with the governance committees, where processes and policies will be defined in sufficient detail in order to manage data resources appropriately.
-As a minimum, these processes and policies will require any investments and projects under development to be evaluated, in order to determine the applicability of the agile methodology, data standards and open content, privacy and the ethical and social impact as well as the indicators for measuring the cost, use and general evaluation of the data resources as a whole.
+Els ens dependents municipals hauran d'obtenir-ho del CTID en coordinació amb les taules de governança on es definiran els processos i polítiques amb el detall suficient per tal de gestionar els recursos de dades de forma apropiada.
+Com a mínim, aquests processos i polítiques hauran de requerir que les inversions i els projectes en desenvolupament siguin avaluats per determinar l'aplicabilitat de la metodologia àgil, els estàndards de dades i continguts oberts, la privacitat, i els impactes ètics i socials i els indicadors per mesurar-ne els costos, ús, i avaluació general en el conjunt dels recursos de dades.
 
-It must be ensured that:
+Cal assegurar que:
 
-* There is a single review policy for each organisation for evaluating the investments, the analysis of operations and the other evaluation systems for IT resources, including the projects under development and ongoing activities.
-* Information and data needs will be managed in accordance with the organisation's governance policies, where the functions, responsibilities and processes that the organisation's personnel use for treating data as an asset are clearly established, along with the relationship between technology, data, the organisation's programmes, strategies, legal requirements, mission and operational objectives.
-* Obsolete information systems will be replaced as quickly as possible and budgetary planning will include items corresponding to depreciation.
+* Hi ha una única política de revisió en cada entitat per realitzar les avaluacions de les inversions, les anàlisis de les operacions o altres sistemes d'avaluació dels recursos IT, incloent els projectes en desenvolupament i les activitats en curs.
+* Les necessitats de la informació i les dades es gestionin seguint les polítiques de governança de l'entitat, on s'estableixin clarament rols, responsabilitats i processos a partir dels quals el personal de l'entitat gestioni les dades com un actiu, les relacions entre la tecnologia, dades, els programes de l'entitat, les estratègies els requeriments legals i missió / objectius operatius.
+* Els sistemes d'informació obsolets siguin reemplaçats com més ràpidament sigui possible i la planificació pressupostària inclogui les partides corresponents de depreciació.
 
-=== Leadership and human resources
+=== Lideratge i recursos humans
 
-Subsidiary municipal bodies must develop a set of requirements and skills for the teams responsible for or working with data, which will include aspects concerning access, analysis, privacy and security, among others.
-More specifically, it must be ensured that the teams responsible for data are able to foresee innovation and adapt to it, in a context of constant change.
-The department of Human Resources must ensure that the executive/management personnel dealing with data have sufficient knowledge to carry out their task appropriately.
-The people in charge of the organisation must supervise how their data personnel carry out their functions, as well as coordinating with the CTID and the CDO in order to select the staff.
+Els ens dependents municipals hauran de desenvolupar un conjunt de requeriments i capacitats dels equips responsables o encarregats de les dades, en els que s'inclourà aspectes sobre accés, anàlisi, privacitat i seguretat, entre altres.
+Especialment, cal assegurar que els equips amb responsabilitat sobre les dades podran anticipar i adaptar-se a la innovació, en un context de constant canvi.
+El departament de RRHH ha d'assegurar que el personal executiu/directiu que tracta amb les dades té els coneixements suficients per a desenvolupar la seva tasca de forma apropiada.
+Els responsables de les entitats hauran de supervisar el desenvolupament de les funcions del personal que tracti amb dades així com coordinar-se amb el CTID i el CDO en la seva selecció.
 
-=== Privacy
+=== Privadesa
 
-In compliance with Regulation (EU) 2106/679, the City Council will appoint a council Data Protection Officer (DPO) to assume the functions assigned to that officer under this regulation.
+En compliment del Reglament 2106/679 de la UE, l'Ajuntament designarà un Delegat de Protecció de Dades (DPD) corporatiu amb les funcions que aquest reglament li assigna.
 
-Subsidiary municipal bodies must establish and maintain a data-protection programme, in accordance with the municipal policy on privacy, which ensures compliance with privacy requirements and develops, evaluates and manages the risks associated with privacy.
-When evaluating risks to privacy, privacy systems must take into account risks concerning the people associated with the creation, collection, use, treatment, storage, maintenance, dissemination and destruction of personal data.
+ls ens dependents municipals han d'establir i mantenir un programa de protecció de les dades, conforme a la política municipal de privadesa, que asseguri el compliment dels requeriments de privacitat, i desenvolupi, avaluï i gestioni els riscos sobre la privacitat.
+Quan es consideren els riscos de privacitat, els sistemes de privacitat han de considerar els riscos sobre els individus associats a la creació, col·lecció, ús, processament, emmagatzematge, manteniment, difusió, o destrucció de les dades personals.
 
-In accordance with municipal policy and the law, municipal organisations and bodies may only create, collect, use, store or disclose personal data if they have the appropriate authorisation.
-This authority must be clearly identified in their data management software (DMS) and in the architecture document (AD).
+Conforme a la política municipal i la llei, les entitats i ens municipals només podran crear, col·leccionar, usar, emmagatzemar, o difondre dades de caràcter personal si tenen l'autorització pertinent.
+Cal que s'identifiqui clarament aquesta autoritat en les seves DMS i DA.
 
-The bodies have to designate an RDAD and a data-protection officer who is responsible for their data and who are answerable for developing, putting into practice and maintaining privacy programmes in order to ensure compliance with all regulations, norms and directives that affect the life cycle of personal data, by means of a privacy policy that applies legal measures to privacy risks.
-The CTID and the corporate personnel responsible for data, the CDO and the DPO, will have authority over the sub-DPOs in each organisation and will coordinate them.
+Els ens han de designar un responsable Sectorials de Dades sobre les seves àrea i que han de respondre en el desenvolupament, implementació i manteniment dels programes de privacitat per tal d'assegurar l'acompliment de totes les regulacions, normes i directives que actuen sobre el cicle de vida de dades de caràcter personal, mitjançant una política de privacitat que implementi les mesures legals sobre els riscos de privacitat.
+El CTDI juntament amb els responsables corporatius de les dades, el CDO i el DPD tindran autoritat i coordinaran l'activitat dels responsables de cada entitat.
 
-The principles for personal data protection must be respected, and the details of those principles must be established under the responsibility of the DPO.
-Specifically, these will include:
+S'han de respectar els principis de protecció de dades de caràcter personal, els detalls dels quals s'establiran sota la responsabilitat del DPD, incloent en particular:
 
-* Impact assessments.
-Municipal units will carry out impact assessments for data protection to preventively ensure that, where processing operations may involve especially serious risks, the necessary measures are taken to reduce, as far as possible, the risk of injuring or harming people or negatively affecting their rights and freedoms by obstructing or limiting the exercising of those rights or their content.
+* Avaluacions d'impacte.
+Les unitats faran avaluacions d'impacte de protecció de dades orientades a assegurar preventivament que, quan les operacions de tractament poden comportar riscos especialment rellevants, es prenguin les mesures necessàries per reduir, en la mesura del possible, el risc de danyar o perjudicar les persones, o afectar-ne negativament els drets i les llibertats, impedint o limitant-ne l'exercici o el contingut.
 
-* Privacy by design / PET The necessary measures must be taken to incorporate privacy by design strategies and/or privacy enhancing technologies (PETs), through which the privacy of those concerned is taken into account during all design, development and management processes for the City Council's data systems.
-Wherever applicable, encryption, anonymisation and pseudo-anonymisation algorithms must be used.
+* Privacitat per Disseny / PETs: s'han de prendre les mesures necessàries per tal d'incorporar estratègies de Privacitat per Disseny o Tecnologies de Millora de la Privacitat, a partir de les quals la salvaguarda de la privacitat dels interessats es tingui en compte en tots els processos de disseny, desenvolupament i gestió dels sistemes de dades de l'Ajuntament.
+Cal usar sempre que sigui aplicable algoritmes d'encriptació, anonimització o seudonimització.
 
-=== Data security
+=== Seguretat de les dades
 
-In order to guarantee appropriate data security levels and to ensure confidentiality and correct use, the CTID must designate a person in charge of data security, a Data Security Officer (DSO), who will be responsible for developing and maintaining a security programme for the unit's data, in accordance with pertinent legislation and in collaboration with the Technical Commission for Data Protection Security.
+Per garantir els nivells adequats de seguretat de les dades, per assegurar la seva confidencialitat i ús correcte, el CTID designarà un responsable de seguretat de dades o DSO _(Data Security Officer)_ responsable del desenvolupament i manteniment d'un programa de seguretat de dades a la unitat, d'acord amb la legislació pertinent en col·laboració amb la Comissió Tècnica de Seguretat en Protecció de Dades.
 
-The data will be protected in accordance with the risk arising from unauthorised access to, the use, disclosure, interruption, modification or destruction of this information.
-The units must produce a recovery plan that includes continuity strategies, in order to ensure that services and access can be restored in time to satisfy the mission's needs.
-Furthermore, any information project or system must guarantee the possibility of tracing access to the data and the analysis of decision-making algorithms (or those supporting decision-making) and prepare and facilitate any audits that may be undertaken.
-Any third party involved in the processing of municipal data must offer sufficient guarantees concerning the implementation and maintenance of the required security measures, and the other directives defined in the xref:{lang}/tech-practices:ROOT:aim-and-scope.adoc[Technology Code of Practice] and the Technical Commission for Security.
+Les dades estaran protegides d'acord amb el risc que es derivaria de l'accés no autoritzat, ús, divulgació, interrupció, modificació o destrucció d'aquesta informació.
+Les unitats desenvoluparan un pla de recuperació, incloses les estratègies de continuïtat per assegurar que els serveis i l'accés es puguin restaurar a temps per satisfer les necessitats de la missió.
+A més, qualsevol projecte o sistema d'informació haurà de garantir la possibilitat de traçabilitat d'accés a les dades i l'anàlisi dels algoritmes de presa de decisió (o suport a la presa de decisió), capacitant i facilitant les auditories que es vulguin realitzar.
+Qualsevol tercer implicat en el tractament de dades municipals haurà d'oferir garanties suficients respecte de la implantació i el manteniment de les mesures de seguretat requerides, i les altres directrius que defineix el xref:{lang}/tech-practices:ROOT:aim-and-scope.adoc[Codi de Pràctiques Tecnològiques] i la Comissió Tècnica de Seguretat.
 
-All projects and systems must comply with current laws and regulations, including the General Data Protection Regulation, the Spanish data protection law, Decree 3/2010, of 8 January, which regulates the National Security Scheme for Electronic Administration, and international security regulations, in particular regulation ISO/IEC 27002:2005, which establishes guidelines and general principles for initiating, putting into practice, maintaining and improving the information security management in an organisation.
+Tots els projectes i sistemes han de complir amb totes les lleis i reglaments existents, incloent, entre d'altres, el RGPD, l'eventual Llei espanyola de Protecció de Dades, el Decret 3/2010 de 8 de gener pel que es regula l'Esquema Nacional de Seguretat en l'Àmbit de l'Administració Electrònica, i les normes internacionals pel que fa la seguretat, en particular la norma ISO/IEC 27002:2005, que estableix directrius i principis generals per iniciar, implementar, mantenir i millorar la gestió de la seguretat de la informació en una organització.
 
-The physical or logical security of data will be determined by the IMI-defined standards.
+La seguretat física o lògica de les dades estarà determinada per els estàndards definits per l'IMI.
 
-=== Collaboration, coordination and supervision
+=== Col·laboració, coordinació i supervisió
 
-General data governance is described in the directive that accompanies this measure, in Appendix.
-This is comprised of the Inter-departmental Coordination of Data.
-Its main aim is to coordinate cross-departmental projects and to act as a means of disseminating the projects.
+La governança general de les dades es descriurà en la Instrucció que properament s'aprovarà i que complementarà aquesta Mesura.
+S'hi constitueix la Coordinació Transversal de Dades, el principal objectiu de la qual és la coordinació de projectes transversals, i que actua alhora com a mecanisme de difusió de projectes.
 
-For proper coordination between the various areas of municipal management, data officers will be defined for each sector, who will be responsible for the data in their own manager's office and for coordination with the council as a whole.
-Cross-departmental data coordination makes it possible to establish directives for and monitor the work carried out in the MDO and in the various sectoral centres for storing, analysing and disseminating municipal data; establishing operational and treatment criteria for guaranteeing all aspects of the data's life cycle and added value; the monitoring of inter-departmental and council projects, as well as the management of data protection and the regulations concerning intellectual property and authorship protection for the data.
+Per a la correcta coordinació entre els diferents àmbits de gestió municipals es definiran els Responsables Sectorials de Dades, que tindran com a responsabilitat les dades de la seva pròpia gerència i la coordinació en el conjunt de la corporació.
+A partir de la coordinació transversal de dades es podrà fer el seguiment i l'establiment de directrius sobre els treballs desenvolupats tant en l'OMD com en els diversos centres sectorials de magatzem, anàlisi i difusió de dades municipals, l'establiment dels criteris operatius, i els criteris de curació per garantir tots els aspectes del cicle de vida, i afegir valor a les dades, el seguiment dels projectes transversals i corporatius, la gestió de la protecció de dades o la normativa de protecció intel·lectual i autoria de les dades.
 
-This coordination must lead to the proper management and review of resources and programmes, and ensure coordinated and unified budget management.
-The CDO will also take part, for the review and authorisation, with the aim of providing effective, specific and visible corporate management of IT resources and data.
+Aquesta coordinació ha de propiciar una correcta gestió i revisió dels recursos i programes, assegurant una gestió del pressupost de forma coordinada i unificada on també hi participa en forma de revisió i d'autorització el Director Municipal de les Dades (CDO) amb la voluntat de proveir una direcció corporativa efectiva, específica i visible dels recursos IT i les dades.
 
-Each unit's manager's office, in consultation with municipal data officers, must describe the processes used to define the inventory of IT resources for efficiently achieving management objectives, considering new investments in IT and their potential and appropriateness for the council inventory.
-It will also be necessary to identify the differences between the programmed and executed budget, the schedules and the evaluation of IT objectives, and ensure that the necessary corrective measures are carried out.
+Igualment, les gerències de cada unitat, en consulta amb els Responsables Municipals de Dades hauran de definir els processos a partir dels quals es definirà l'inventari dels recursos IT per tal d'assolir els objectius de gestió de forma eficient, tot ponderant les noves inversions IT i les seves potencialitats i adequació amb l'inventari corporatiu.
+També caldrà que s'identifiquin les diferències entre el pressupost programat i l'executat, calendaris, i/o avaluació dels objectius IT i que es duguin a terme les mesures correctives necessàries
 
-== Ethical and responsible data management
+== La gestió ètica i responsable de les dades
 
-This tool establishes principles and directives for correct data management, in accordance with the principles indicated in this measure.
-The more technical aspects of this management are included in the xref:{lang}/tech-practices:ROOT:aim-and-scope.adoc[Technology Code of Practice], published under the Government Measure for open digitalisation: free software and the agile development of services, of October 2017.
+Aquest eix estableix els principis i directrius per a la correcta gestió de dades, conforme als principis indicats en aquesta mesura.
+Els aspectes més tècnics d'aquesta gestió s'incorporen al  xref:{lang}/tech-practices:ROOT:aim-and-scope.adoc[Codi de Pràctiques Tecnològiques], publicat sota la _Mesura de Govern per a la Digitalització Oberta: Programari Lliure i Desenvolupament Àgil de Serveis_, d'octubre 2017.
 
-Subsidiary municipal bodies must manage data responsibly, inventory and register the authorised treatment processes, identify the data's sources and its basic metadata, guarantee the data's life cycle and take users into account when determining the format and frequency of updates, as well as other data management considerations.
-They must collaborate with other organisations on the promotion of efficient public services in order to comply with all the transparency policies and those related to privacy, security and accessibility.
+Els ens dependents municipals hauran de gestionar les dades de forma responsable, i inventariar i registrar els processos de tractament autoritzats, identificant les fonts de les dades i les seves metadades bàsiques, garantint el seu correcte cicle de vida, considerant els usuaris en el moment de determinar-ne el format, i la freqüència d'actualització, entre altres consideracions en la gestió de dades.
+Han de col·laborar amb les altres entitats en la promoció d'uns serveis públics eficients per tal de complir amb totes les polítiques de transparència, les que fan relació a la privacitat, seguretat, privacitat i accessibilitat.
 
-Specifically, municipal bodies must follow all the processes established by the DPO regarding strict compliance with data protection regulations, notify the Catalan Data Protection Authority about the creation of databases where necessary, and appoint the people in charge of data.
-It is necessary to minimise the collection of personal data, apply anonymisation or pseudo-anonymisation wherever possible, obtain the consent of the people concerned, and take into account the repercussions that every action at each moment of the data's life cycle has on every other moment and the people concerned.
+Específicament, els ens han de complir tots el processos establerts pel DPD per al compliment rigorós de la normativa de protecció de dades.
+Caldrà minimitzar la col·lecció de dades personals, aplicar anonimització o seudonimització sempre que sigui possible, obtenint el consentiment dels interessats, considerant els impactes de cada acció en cadascun dels moments del cicle de vida de les dades sobre cadascun dels altres moments o interessats.
 
-=== Guiding principles for ethical and responsible data management
+=== Principis rectors de la gestió ètica i responsable de dades
 
-Subsidiary municipal bodies must include the following steps in their planning, budgeting and management, where appropriate:
+Els ens dependents municipals hauran d'incorporar els passos següents quan s'escaigui en la planificació, elaboració de pressupostos i gestió:
 
-* Municipal data must be ethically managed during its entire life cycle (creation, collection, storage, use, analysis, dissemination, archiving and destruction).
-* Municipal information is managed as a common asset and its access, consultation and use by the public is made possible on the basis of the legal provisions in force.
-* Activities carried out on the data in a set of metadata must be registered, following the most appropriate metadata schemes for the operations of each business.
-* Privacy and security risks will be identified throughout the data's life cycle, and risk analyses and security solutions will be developed.
-* Management will involve a clear allocation of roles and responsibilities in order to promote the efficient design and operation of all management processes.
+* Les dades municipals estaran èticament gestionades durant el seu cicle de vida (creació, col·lecció, emmagatzematge, ús–anàlisi, difusió, arxiu i destrucció).
+* La informació municipal es gestiona com a  bé comú fent possible el seu accés, consulta i ús al públic a partir de disposicions legals vigents.
+* Es registrarà l'activitat realitzada sobre les dades en un conjunt ampli de metainformació, seguint els esquemes de metadades més adequats per a les explotacions de cada negoci.
+* S'identificaran els riscos contra la privacitat o de seguretat durant tot el cicle vida de les dades, desenvolupant-ne anàlisis de riscos i solucions de seguretat.
+* Es gestionarà amb una assignació clara de rols i de responsabilitats per tal de promoure un disseny i operació eficients de tots els processos de gestió.
 
-The municipal bodies must provide the general public with the information in a way that is coherent with its objectives and mission, based on current legislation.
-Anonymised data must be provided, so that access, analysis and reuse of the data can be promoted for a wide range of purposes.
-The information must be publicly accessible and automated, and it must be correctly described, complete and up to date.
-This also includes data being available in formats that are accessible to people with functional diversity.
-It is necessary to consider the cost of this public service for the organisation, as the imposition of charges or public prices should be avoided.
+Els ens tenen la responsabilitat de proveir la informació al públic de manera consistent als seus objectius i missió, i a partir de la legislació vigent.
+Hauran de proporcionar dades anonimitzades de manera que es promocionin l'accés, l'anàlisi i la reutilització per un ampli conjunt de propòsits.
+Caldrà que la informació sigui accessible públicament, automatitzable, correctament descrita, completa i actualitzada.
+Això inclou també la disposició de les dades en formats accessibles a persones amb diversitat funcional.
+Cal considerar els costos d'aquest servei públic sobre l'entitat, ja que aquests haurien d'evitar establir taxes o preus públics.
 
-Municipal bodies must store information in such a way as to allow interoperability between information systems and, wherever appropriate, its public disclosure by means of open formats, data and metadata standards.
-The organisations must also make mechanisms for obtaining feed-back on the data available to the general public.
-Municipal finance systems must be able to reward the units that include systems for the long-term preservation of data and its access in their service contracts.
+Els ens han d'emmagatzemar la informació de manera que es permeti la interoperabilitat entre els sistemes d'informació i, on sigui apropiada, la difusió pública mitjançant l'ús de formats oberts, estàndards de dades i metadades.
+Les entitats també han de posar a disposició del públic mecanismes per tal d'obtenir retroacció en relació a les dades.
 
-The City Council and all municipal group units must observe a set of procedures aimed at improving the acquisition of data and which make effective, economical, safe, ethical and open data management possible, as well as guaranteeing privacy.
-Planning has to focus on the data that supports each unit's mission, and they have to implement management processes that are integrated into budgetary programming and execution.
+Els sistemes de finançament municipals han de poder premiar les unitats que incloguin en els seus contractes de serveis sistemes de preservació a llarg termini de les pròpies dades i del seu accés.
 
-=== Planning and budget
+L'Ajuntament i totes les seves unitats del grup municipal hauran d'observar un conjunt de procediments orientats a la millora de l'adquisició i gestió de les dades que possibilitin una gestió de les dades de forma efectiva, econòmica, segura, ètica, oberta i assegurant la privacitat.
+Es focalitzarà la planificació en les dades que suporten la missió de cada unitat, implementant processos de gestió que s'integrin en la programació i execució pressupostària.
 
-Budgetary planning is an essential part of producing and maintaining a data management strategy, and it must ensure effective collaboration between the various manager's offices and directorates in this area of management.
+=== Planificació i Pressupost
 
-Strategic planning: data management plans (DMP).
-As a support for Barcelona City Council's management needs and its mission, and as part of the general strategy and planning to improve the municipal group's processes, each unit must produce and maintain its own data management plan (DMP) that describes the objectives of IT resources, including, among others, the processes described in this strategy.
-The DMP must show how the map of the IT resource objectives relates to the unit's mission and priorities.
-The objectives must be specific, measurable and verifiable, so that their progress can be monitored.
+La planificació pressupostària és un dels punts essencials en el desenvolupament i manteniment d'una estratègia de gestió de les dades i ha de permetre assegurar una col·laboració efectiva entre les gerències i direccions en aquest àmbit de gestió.
 
-One example of an emblematic project in the budgetary area is Open Budget, a tool that facilitates the general public's analysis and understanding of Barcelona City Council's budgets.
-Open Budget allows users to download data in open formats, to browse items ranging from the most aggregated to the most detailed budgetary data, for both the current fiscal year and previous years.footnote:[http://ajuntament.barcelona.cat/estrategiaifinances/pressupostobert/ca/.]
+En suport de les necessitats de gestió i missió de l'Ajuntament de Barcelona, i com a part de l'estratègia general i la planificació de millora de processos del Grup Municipal, cada unitat haurà de desenvolupar i mantenir el seu propi _Pla de Gestió de les Dades_ (PGD), que descriu els objectius dels recursos de tecnologia de la informació, incloent però no limitant-los als processos descrits en aquesta estratègia.
+El PGD haurà de mostrar com el mapa dels objectius dels recursos de la tecnologia de la informació es relaciona amb la missió i les prioritats de la unitat.
+El PGD haurà de mostrar com el mapa dels objectius dels recursos de la tecnologia de la informació es relaciona amb la missió i les prioritats de la unitat.
 
-=== Inventory
+Un exemple de projecte emblemàtic a l'àrea de pressupost és «Pressupost Obert», una eina per facilitar l'anàlisi i la comprensió dels pressupostos de l'Ajuntament de Barcelona a la ciutadania.
+El projecte permet descarregar dades en formats oberts, navegar des de les dades pressupostàries més agregades fins al màxim nivell de detall, tant per al exercici actual com per als darrers exercicis.footnote:[http://ajuntament.barcelona.cat/estrategiaifinances/pressupostobert/ca/.]
 
-Business units will have to keep an inventory of their main information systems,footnote:[Each unit's inventory will be integrated into one of the municipal group's general inventories.] containers and dissemination tools, with a determined level of detail for their supervision and management.
-This inventory must identify the datasets containing personal information and procedures will be determined to enable regular checks that ensure this data is of the necessary quality, that it is possible to respond to the rights of the people concerned and that it is the minimum required to develop the unit's powers and functions.
-Each unit will also have to keep a record of all the actions taken regarding both management and analytical databases.
-The Municipal Data Office must determine the metadata for these systems.
+=== Inventari
 
-=== Management of data processing systems
+Les unitats hauran de mantenir un inventari footnote:[L'inventari de cada unitat s'integrarà a un inventari general del grup municipal.]  dels majors sistemes d'informació, els seus contenidors i les eines de disseminació amb un nivell de detall que es determini per tal de supervisar i gestionar-los.
+Caldrà identificar en aquest inventari els conjunts de dades amb informació de caràcter personal i es determinaran procediments per tal de permetre revisar regularment que aquestes dades tenen la qualitat necessària, que es pot donar resposta als drets dels interessats, i que siguin les mínimes imprescindibles per tal desenvolupar les competències i funcions de la unitat.
+D'altra banda, cada unitat haurà de mantenir informat un registre que reculli totes les accions sobre les bases de dades tant de gestió com analítiques.
+L'Oficina Municipal de Dades determinarà la meta-informació d'aquestes sistemes.
 
-The units and subsidiary bodies must be able to continually facilitate the adoption of new technologies and to evaluate the entire life cycle of each information system, with an inventory of the software tools and machines associated with the system, the management and sustainability of the resources and the infrastructures supporting the system; they must actively determine the updates, revisions, substitutions and provisions needed to properly carry out the unit's functions and protect its assets, and it must ensure the terms and conditions of the contracts and other service agreements involved in the collection, processing, storage, access, exchange and availability of municipal information, which are confirmed and in line with the data-protection policy and cover the units' legal and ethical requirements.
+=== Gestió dels sistemes de tractament de les dades
 
-=== Risk management
+Les unitats i els ens dependents hauran de poder facilitar de manera continuada l'adopció de les noves tecnologies i avaluar tot el cicle de vida de cada sistema de informació amb un inventari de les eines de programari i de maquinari associats al sistema, la gestió i sostenibilitat dels recursos i infraestructures que suporten el sistema, i determinar de forma activa les actualitzacions, revisions, reemplaçaments o disposicions que es requereixin per tal de realitzar correctament les funcions de la unitat i protegir-ne els seus actius; i assegurar els termes i les condicions dels contractes i altres acords de servei que comportin la col·lecció, processament, emmagatzematge, accés, compartició i disposició d'informació municipal, confirmats i alineats amb la política de protecció de dades i que cobreixin els requisits legals i ètics de les unitats.
 
-Units must evaluate the security measures for information and data, records management, transparency, impact assessment and supply chains, and they must do so during the entire data cycle, so that the risks are assessed and managed.
-Furthermore, in coordination with the DPO, the CDO and the CTID, they must produce a plan so that the information systems are duly protected and ensured, while updating, revision, substitution and withdrawal are given the highest level of priority.footnote:[This includes machinery, software, firmware components not maintained by their developers, salespersons or manufacturers, through the availability of pieces of software, firmware updates, spare parts and maintenance contracts.]
-It is also necessary to periodically review and report on the risks concerning processes, people and technologies.
+=== Gestió de riscos
 
+Les unitats hauran de considerar les mesures de seguretat de la informació i les dades, de la gestió de registres, transparència, avaluació d'impacte i les cadenes de subministraments i fer-ho durant tot el cicle de dades de forma que els riscos estiguin avaluats i gestionats; han de desenvolupar un pla en coordinació amb el Delegat de Protecció de Dades, el CDO i el CTID de manera que els sistemes d'informació estiguin degudament protegits i securitzats i alhora tinguin el màxim nivell de prioritat les accions d'actualització, revisió, reemplaçament o retirada.footnote:[Inclou maquinari, programari, o components de microprogramari no mantinguts pels seus desenvolupadors, venedors o fabricants mitjançant la disponibilitat de pedaços de programari, actualitzacions de micro programari, recanvis i contractes de manteniment.]
+També cal que es revisi de forma periòdica i es reportin els riscos sobre processos, persones i tecnologies.
 
-=== Resilience plan
 
-Municipal units and subsidiary bodies must produce a resilience plan that takes into account the management of their data.
-This resilience plan is crucial for ensuring services are able to continue carrying out their tasks during disruptions.
-It is therefore necessary for organisations to develop continuity strategies in order to ensure that services can be reestablished in time to meet their objectives. “Manual shortcuts” must be part of this, so that critical operations can have continuity while normal services have not been resumed.
+=== Pla de Resiliència
 
-== City Data Infrastructure
+Les unitats i els ens dependents municipals hauran de desenvolupar un Pla de Resiliència que pren en compte la gestió de les seves dades.
+El Pla de Resiliència és essencial per tal que els serveis puguin continuar exercint les serves tasques en situacions de disrupció.
+Per tant, cal les entitats desenvolupin estratègies de continuïtat per tal d'assegurar que els serveis es puguin restaurar a temps per assolir els seus objectius.
+Les «dreceres manuals» han de formar part per tal de que les operacions crítiques puguin tenir continuïtat mentre no es restauren els serveis normals.
 
-This line of action aims to define the conditions at the architectural level in order to make the City Council's internal management more agile, improve the services that the City Council offers city residents and facilitate the joint exchange of interesting data with society, both inside and outside the municipal government, and to ensure its preservation and continual access.
-The CDO and their office will be responsible for understanding the City Council's data and having a unified, documented concept of it, as well as maintaining, planning and developing its architecture by using a unified management model.
+== La Infraestructura de Dades de la Ciutat (City Data Infrastructure)
 
-The City Council therefore has to work towards a model of grouped data from different sources in order to create common repositories for management, analysis and secure preservation.
+Aquesta línia d'acció tracta de fixar les bases en el nivell arquitectònic per permetre agilitzar la gestió interna de l'Ajuntament, millorar el servei que l'Ajuntament ofereix a la ciutadania i facilitar el compartir conjunts de dades interessants tant dins del Consistori com fora amb la Societat, i assegurar-ne la seva preservació i accés continuat.
+El CDO i la seva oficina, serà responsable d'entendre i de tenir una visió unificada i documentada de les dades de l'Ajuntament, així com de mantenir, planificar i fer evolucionar l'arquitectura de les mateixes, apropant-se cap a un model unificat de gestió.
 
-These repositories are:
+Així, l'Ajuntament ha d'avançar cap a un model de dades agrupades des de les diferents fonts, per a crear repositoris comuns de dades per a finalitats de gestió i analítica, i de preservació segura:
 
-* *_Data lake._* A single analytic repository is created, a data lake, where the data input and consumption or access points are centralised.
-These single input and access points make it possible to improve security and have better traceability.
-Furthermore, the data lake, which must be based on a type of big-data infrastructure, must include the availability of a precise map of the City Council's data.
-This means that the CDO must prioritise the possible development or definition of datasets, and the rights of data access and exploitation that are included in or excluded from the data lake.
-The CDO will also be responsible for ensuring data quality.
-This data lake is the current emblematic City OS project.
-+
-City OS is a cross-departmental deposit and architecture project for the centralised, uniform storage and access of the city's data.
-It is the sole analytic repository for municipal data.
-Municipal data as a whole is stored in various systems according to the needs of use and the technology that is applied.
-City OS provides an analytical layer for all the data.
-It has been developed in such a way as to allow autonomous management of the knowledge of the variety of municipal data by the operational data-management systems.
-In other words, it makes data analysis and operational management independent.
-The data is organised according to a system of ontologies geared to creating analytical knowledge.
+* *_Data Lake._* Es crea un repositori únic analític, un llac de dades, on els punts d'ingesta i de consum o d'accés a les dades estiguin centralitzats.
+Aquests únics punts d'ingesta o d'accés permetrà enfortir la seguretat i tenir una millor traçabilitat.
+A més, el _data lake_, que ha d'estar basat en infraestructura _Big Data_, ha de permetre disposar d'un mapa precís de les dades de l'Ajuntament.
+Això implica que el CDO prioritzarà els possibles desenvolupaments o definicions de data-sets i els drets d'accés i explotació de les dades que s'inclouen o s'exclouen del _data lake_.
+També serà el responsable d'assegurar la qualitat de les dades. Aquest data lake és el projecte emblemàtic actual CityOS.
 
-* *A secure, verified municipal repository:* This repository for archive preservation must guarantee continual access to all municipal data, registers and information resources that, after undergoing archive-evaluation processes, have been selected for permanent preservation.
-The secure repository must guarantee the authenticity of the data it stores and avoid the obsolescence of digital materials, while permitting the long-term sustainability of this tool.
+image::CityOS_infograph_{lang}.svg[Diagrama conceptual de CityOS]
+Diagrama conceptual de CityOS
 
-image::CityOS_infograph_{lang}.svg[CityOS infograph, width=2446]
+_City OS és un projecte de dipòsit i arquitectura transversal per al emmagatzematge i accés centralitzat i uniforme a les dades de la Ciutat.
+És el repositori analític únic de dades municipals.
+El conjunt de dades municipals estan emmagatzemat en diferents sistemes en funció de les necessitats d'ús i la tecnologia que s'hagi implementat.
+El City OS permet disposar d'una capa analítica per a totes les dades.
+Està desenvolupat de manera que permet la gestió del coneixement de les diverses dades municipals de forma autònoma dels sistemes de dades de gestió operativa.
+És a dir, independitza els anàlisis de les dades i la gestió operativa Les dades hi estan organitzades en funció d'un sistema d'ontologies orientat a la creació de coneixement analític._
 
-It will be necessary to write an information policy that includes all the data and obligatory processes needed to complete the data life cycle and deposit it in the city lake or in the secure preservation repository, according to preference.
-In order to do this, close collaboration from the IMI (technology provider and responsible for the development and maintenance of the City Council's technological infrastructure) and from the various units and services that have their own infrastructures.
+* *Repositori municipal segur verificat*:
+Aquest repositori de preservació arxivística, haurà de garantir l'accés continuat a totes aquelles dades, registres o recursos d'informació municipals que després d'uns processos d'avaluació arxivístics hagin estat seleccionats per una preservació permanent.
+El repositori segur ha de garantir l'autenticitat de les dades emmagatzemades, evitant l'obsolescència dels materials digitals però permetent la sostenibilitat d'aquesta eina a llarg termini.
 
-Units must develop an architectural description (AD) that details the available architecture, the target architecture and the plan to achieve the latter.
-Each unit's AD must be in line with the *data model* defined by the MDO.
-The AD must include the unit's plans for significant changes in updating, revisions, substitution or availability of information when the systems no longer effectively support the required needs and functions.
-The AD must align operational resources and technologies in order to attain strategic objectives.
-The descriptive process for the present and future state of the unit helps to eliminate duplications and irrelevant data, increases shared services, maximises performance and promotes interrelation between areas.
-The AD must identify the functions that need access to certain systems and which profiles have access to what information and under what circumstances.
-Requirements must be defined, based on attributes for accessing sensitive information and they must be recorded in the logging systems.
+Caldrà escriure una política d'informació que contempli totes les dades i els seus processos obligatoris per acomplir el cicle de vida i poder portar-les cap el City Lake i/o cap el repositori segur de preservació si s'escau.
+Per a fer-ho, requerirà de la col·laboració estreta tant de l'IMI (proveïdor de tecnologia i responsable del desenvolupament i manteniment de la infraestructura tecnològica de l'Ajuntament) com de les diverses unitats i serveis que posseeixen infraestructures pròpies.
 
-In regard to the emblematic City OS project, various sub-projects will be carried out, such as:
+Cal que les unitats desenvolupin un document d'arquitectura (DA) que descrigui la disponible, l'arquitectura objectiu i el pla per assolir aquesta darrera.
+El DA de cada unitat s'ha d'alinear al *Model de Dades* definit per la OMD.
+El DA ha d'incloure els plans de la unitat per canvis significatius d'actualitzacions, revisions, reemplaçaments o disposició d'informació quan els sistemes ja no suportin de forma efectiva les necessitats i funcions requerides.
+EL DA ha d'alinear els recursos operacionals i tecnològics per assolir els objectius estratègics.
+El procés de descripció de l'estat present i futur de la unitat ajuda a eliminar duplicats, dades no rellevants, incrementa els serveis compartits, maximitza el rendiment i promou la interrelació entre les àrees.
+La DA ha d'identificar els diferents rols que cal que tinguin accés a determinats sistemes i també quins perfils poden tenir accés a la informació i sota quines circumstàncies.
+Els requeriments basats en atributs per accedir a informació sensible han d'estar definits i s'ha de reportar en els sistemes de registre _(logging)_.
 
-* *Improvements to the ODI's API.* Improvement to Barcelona's Open Data BCN (ODI) portal, in order to focus on reuse and developers, adding APP register capacities, access control, news bulletin and improving API documents so that it is easy for developers to use.
-* *IGLU.* Convergence of various datasets in a unified storage solution (data lake) using the City OS project's standardisation and API transformation, making use of new offers of key infrastructures, adapting them to a new unified operability standard.
-* *API standardisation.* Defining and putting into practice standards in order to provide a guide for purchasing technology, in order to ensure the interoperability of City Council data providers.
-* *Protocols for opening open data.* Defining the protocol to be followed in order to proactively include data in the open-data catalogue, in particular for municipal civil servants who are willing to do so.
-* *Connection with the DECODE infrastructure:* Connecting City OS, IRIS, ASIA, SENTILO and BCNOpenData to the experimental DECODE platform.footnote:[https://decodeproject.eu/.]
+En àmbit d'aquest projecte emblemàtic de CityOS, es desenvoluparan diferents sub-projectes, com per exemple:
 
-== Internal innovation based on data: analysis and data-based projects
+* *Millores API ODI*: Millora del portal d'Open Data BCN (ODI) per centrar-lo en la re-utilització i desenvolupadors.
+Afegir capacitats de registre d'APP, control d'accés, butlletí de notícies i millorar la documentació de l'API per a que sigui fàcil d'utilitzar pels desenvolupadors.
+* *IGLU*: Convergència de diferents conjunts de dades a una solució d'emmagatzematge unificat (llac de dades) a través de l'estandardització i transformació API del projecte CityOS.
+Aprofitant noves ofertes d'infraestructures clau, adaptar-les a un nou estàndard unificat d'operabilitat.
+* *Estandardització d'APIs*: Definir i implementar en estàndards per a la guia de compra de tecnologia per a assegurar la interoperabilitat dels proveïdors de dades a l'Ajuntament.
+* *Protocols per a obrir Open data*: Definició del protocol a seguir per incloure dades de manera proactiva al catàleg de dades obertes, en particular per funcionaris de la Ciutat disposats a fer-ho.
+* *Connexió amb la infraestructura DECODE*: Connexió de CityOS, IRIS, ASIA, SENTILO i BCNOpenData a la plataforma experimental DECODE (https://decodeproject.eu/)
 
-Data is becoming increasingly important in the Administration.
-It is necessary to design a long-lasting strategy for carrying out City Council projects, based on innovative data exploitation, carrying out better analysis and using big-data methodologies so as not to fall behind society and the private sector.
-In this sense, it is a good idea to learn from advanced experiences in this field, and the United States is a good example.footnote:[For example, see the document https://ash.harvard.edu/links/lessons-leading-cdos-framework-better-civic-analytics, May 2017.]
+== Innovació interna basada en les dades: analítica i projectes “data driven”
 
-Modern organisations are characterised by the need for managing their services and processes, fundamentally with a set of databases which have multiplied in recent years and which will continue to grow in the near future.
-In an organisation like Barcelona City Council, efficient, coordinated and structured data management contributes to various objectives.
-Beyond specific, instrumental purposes for each database, global governance must include two essential objectives in a modern public organisation:
+La importància de les dades en l'administració no para de pujar.
+Cal dissenyar una estratègia que perduri en el temps per a la realització de projectes de l'Ajuntament basades en l'explotació innovadora de les dades, fent una millora analítica i utilitzant metodologies de Big Data, per a no quedar‐nos enrere respecte a la societat i el sector privat.
+En aquest sentit, és bo aprendre d'experiències avançades en aquest àmbit, on els Estats Units en son un bon exemple.footnote:[Per exemple, veure el document https://ash.harvard.edu/links/lessons-leading-cdos-framework-better-civic-analytics [Maig 2017]
 
-* *Management with knowledge:* design and implement data-driven projects and services (data driven) making intensive use of data, data analytics methodologies and data science, in order to adapt the services to the real needs of the citizenship, respond to real problems, identify and manage real risks and reduce errors.
+Les organitzacions modernes es caracteritzen per la necessitat de gestionar els seus serveis i processos basats en un conjunt de bases de dades que s'han multiplicat en els darrers anys i no deixaran de créixer en un futur proper.
+La gestió eficient, coordinada i estructurada de les dades contribueix a diversos objectius en una organització com l'Ajuntament de Barcelona.
+Més enllà de les finalitats específiques i instrumentals de cada base de dades, la governança global ha de permetre dos objectius irrenunciables en una organització pública moderna:
 
-* *Citizen empowerment:* returning control of their data to city residents, by means of municipal tools and processes, giving them the possibility of deciding how their data is used and for what purposes, and offering services and projects that empower city residents and give them more say on how the city is run.
+* *La gestió amb coneixement:* es tracta de dissenyar i implementar projectes i serveis basades en dades _(«data driven»)_ fent un ús intensiu de dades i metodologies d'analítica de dades i _«data science»_, per tal d'adaptar els serveis a les necessitats reals de ciutadans, respondre a problemes reals, identificar i gestionar riscs reals, i per a reduir errors.
 
-Barcelona City Council's need to create knowledge and intelligence has always been and continues to be of strategic importance.
-In recent years, the volume of information has increased exponentially (big data).
-However, municipal analytical tools cannot handle this volume of information properly.
-The available information is disperse (mostly in spreads-heets), unconnected and subject to unplanned maintenance.
-To counter this “hole”, various initiatives have been set in motion to create a culture of accessible, centralised data and the corresponding culture to feed and, in the near future, use the platform's data.
-This includes City OS, the project for a centralised municipal information deposit that will facilitate the capture, preparation, organisation and analysis of data from municipal services and the general public, in order to foster these data-based projects through the City Council and outside it (see the next section on open data).
+* *L'apoderament ciutadà:* es tracta de tornar al ciutadà el control de les seves dades, mitjançant eines i processos municipals, atorgant-les la possibilitat de decidir sobre els usos que se'n fan de les seves dades, i per a quins propòsits; i oferir serveis i projectes que apoderen al ciutadà donant-li mes control sobre l'actuació de la Ciutat.
 
-The new data culture makes it possible for information and knowledge to flow through the organisation much more efficiently.
-However, in today's world, it is not enough to obtain and analyse data in post-mortem processes.
-It is necessary to have the capacity for analysing data in real time and to be able to produce projections and scenarios using complex algorithms, in order to foresee and predict possible future situations and reduce undesired repercussions.
-This capacity cannot be substituted; it must be internalised by the organisation, as it is a major part of its grey matter.
-Until now, digital service projects have been led by sectors unrelated to data analysis or data science (IT, transactional application managers, etc.).
-In order to ensure that the data-analysis management model works smoothly, it is necessary to move between the old model of business intelligence, based on data selection and visualisation, and a new data-science model that leads to predictive analysis, prescriptive analysis and artificial intelligence.
-From this perspective, the MDO must play a relevant role in the key areas of defining and managing data, as well as those of modelling, access, metadata, quality and life cycles.
+Les necessitats de creació de coneixement i intel·ligència de l'Ajuntament de Barcelona han estat i segueixen essent estratègiques.
+En els darrers anys el volum de informació s'ha multiplicat exponencialment _(big data)_.
+Però les eines analítiques corporatives no poden donar resposta al maneig raonable d'aquest volum d'informació, la informació disponible es troba dispersa (majoritàriament en fulles de càlcul), inconnexa i subjecta a un manteniment no programat.
+Davant d'aquest “forat”, s'ha iniciat diverses iniciatives per a crear una plataforma i cultura de dades accessibles i centralitzades i la corresponent cultura per a alimentar, i properament utilitzar les dades de la plataforma: en particular el CityOS, el projecte de dipòsit de informació corporativa centralitzada, que ha de permetre, l'obtenció, preparació, organització i anàlisi de de les dades al serveis municipals i als ciutadans en general per a fomentar aquests projectes «data driven» a través de l'Ajuntament, així com fora (veure la secció següent sobre Opendata).
+
+La nova cultura de les dades ha permetre de forma molt més eficient el flux de la informació i del coneixement a traves de l'organització.
+Tanmateix en el món actual no és suficient amb l'obtenció i anàlisi de les dades en processos post-mortem.
+Es requereix la capacitat d'analitzar les dades en temps real i poder fer projeccions i escenaris mitjançant algoritmes complexos, per preveure i predir possibles situacions futures i reduir els impactes no desitjats.
+Aquesta capacitat no es pot subrogar, sinó que ha d'estar interioritzada en l'organització, ja que és una part important de la seva matèria grisa.
+Fins ara, els projectes de serveis digitals ha estat liderat des de sectors aliens a l'analítica de dades o data science (informàtica, gestors d'aplicacions transaccionals, etc.).
+Per tal d'assegurar el bon funcionament del model de gestió d'anàlisi de dades, cal transitar entre el paradigma passat del Intel·ligència de negoci basat en la selecció i visualització de dades a un nou model de Ciència de Dades que en resulti anàlisis predictius, prescriptius o la intel·ligència artificial. Des d'aquesta perspectiva l'OMD ha de tenir un paper rellevant en els elements claus en la definició gestió de les dades com són el seu modelatge, accés, meta-informació, qualitat o cicle de vida.
 
 Analysis must answer the maximum number of questions relating to various areas:
 
