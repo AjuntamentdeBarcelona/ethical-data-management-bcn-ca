@@ -1,53 +1,51 @@
 include::_partials/README.adoc[tag=metadata]
-= Scope of application
+= Àmbits d'aplicació
 
-This measure is applicable to the following organisations and data.
+Aquesta mesura és d'aplicació a les següents entitats i dades.
 
-== Organisations and systems
+== Entitats i sistemes
 
-The municipal executive structure and its dependent bodies are responsible for putting the actions and requirements arising from this measure into practice.
+És responsabilitat de l'estructura executiva municipal i dels seus ens dependents, la implementació de les accions i els requeriments que es deriven d'aquesta mesura.
 
-They are applicable to management activities that use any IT resources of any kind (unless expressly excluded) that collect, store, use or publish data, including information in paper and electronic mediums.
-When an organisation carries out an order or acts as a service provider, the ultimate responsibility for the application of this strategy's requirements rests with the receiving management or organisation.
+Són d'aplicació a les activitats de gestió en les que s'utilitzin qualsevol recurs TI de qualsevol mitjà (a no ser que estigui expressament exclòs) que recullen, emmagatzemen, utilitzen o publiquen dades, incloent informació en suports paper i electrònic.
+Quan alguna entitat dugui a terme un encàrrec o actuï com a proveïdor d'un servei la responsabilitat última en l'aplicació dels requeriments d'aquesta estratègia es manté la gerència o entitat receptora.
 
-In regard to security and protection systems, the directives and executive orders defined in municipal guidelines and regulations must be applied.
+En relació als sistemes de seguretat i protecció, cal aplicar les directives i ordres executives definides en les directrius i reglaments municipals.
 
-== Data
+== Dades
 
-The data referred to by this measure includes all municipal data, understood as both the municipal data and metadata and the data-management systems that make continual access, use, reuse and preservation possible.
-In regard to municipal data, it is possible to make a conceptual distinction between various large information deposits / information groups:
+El conjunt de dades a les quals fa referència aquesta mesura són totes les dades municipals, entenent per dades tant les pròpies dades, metadades, com els sistemes de gestió de dades que en permeten el seu accés continuat, ús, reutilització i preservació.
+Entre les dades municipals podem distingir, a efectes conceptuals, diferents grans dipòsits d'informació / grups:
 
-* *Management, administrative and technical data.*
-These are the data groups that municipal manager's offices and organisations use to carry out their missions.
-This data comes from, for example, files, sensors or city residents themselves.
-This group includes the concept of big data.
+* *Dades de gestió, administratives i tècniques:*
+són aquells conjunts de dades que les diferents gerències i entitats municipals usen per al desenvolupament de la seva missió.
+Aquestes dades provenen, per exemple, d'expedients, de sensors, o dels propis ciutadans. Dins d'aquest conjunt s'inclou el concepte de _big-data_.
 
-* *Open data and sets of raw data and open metadata.*
-These are the datasets that the municipal council makes available to the public.
-Furthermore, the website platform that serves them has a system for searching, visualising and downloading.
-It also has an API that provides access.
+* *Open Data i conjunts de dades bruts i metadades obertes:*
+són els conjunts de dades que la corporació municipal posa a disposició del públic.
+La plataforma web que les serveix disposa a més d'un sistema de cerca, visualització i descàrrega.
+També es proporciona una API que hi dona accés.
 
-* *Official statistics.*
-The set of statistics obtained by the City Council concerning various datasets and which are listed as official statistics by IDESCAT, the official Catalan statistics organisation.
+* *Estadística oficial:*
+és el conjunt d'estadístiques obtingudes per l'Ajuntament sobre diversos conjunts de dades i que estan catalogats com a Estadística Oficial des de l'entitat catalana d'Estadística Oficial IDESCAT.
 
 * *Open Content (BCNROC):*
-This is data produced by the municipality, published in municipal documents.
-The content is of all kinds, text-based, number-based, visual, etc. which are found or configured in public documents produced or financed by Barcelona City Council.
-This means that the City Council is the author and makes them available digitally and permanently to city residents, using standard metadata schemes in order to guarantee interoperability, Creative Commons licences to allow the documents to be reused, uniform resource identifiers (URI) that ensure a permanent link to digital networks and open formats to facilitate the semantic web.
+són les dades de producció municipal publicades en documents d'autoria municipal.
+Són continguts de tot tipus: textuals, numèrics, visuals, etc. que es troben, o configuren, els documents  públics produïts, o finançats, per l'Ajuntament de Barcelona, de les quals aquest en té l'autoria i els posa accessibles, de forma digital i permanent, a la ciutadania, amb esquemes de metadades estàndard per garantir la interoperabilitat, amb llicències Creative Commons per permetre la reutilització dels documents, amb URIs que garanteixen l'enllaç permanent a les xarxes digitals i amb l´ús de formats oberts per facilitar la web semàntica.
 
-* *External data (CBAB).*
-These are information resources from sources external to the City Council, produced by third party authors, which the organisation compiles because they are needed for internal work.
-It is organised and accessible from the SEDAC corporate catalogue.
+* *Dades externes (CBAB):*
+són els recursos d'informació de fonts externes a l'Ajuntament, de tercers autors, que recull l'organització perquè es necessiten per al treball intern i que es troben organitzats i accessibles des del Catàleg corporatiu del SEDAC.
 
-== Environment and ecosystem
 
-When we talk about data today, we have to speak about technology.
-The Digital Transformation Plan (*DTP*) aims to change the way the City Council purchases and manages technology and interacts with the general public.
-At present, Barcelona is very attractive for technological companies of various sizes, and it is also generating new practices in the market in terms of business models that pivot on open code and open-service practices.footnote:[See the government measure of October 2017.] The DTP's objective is to establish a playing field where SMEs and other economic players that are not large corporations can enter the “game” with a chance of winning tenders related to technology and data.
-This has the advantage of diversifying the City Council's suppliers, avoiding the closure of suppliers and also promotes a circular economy, where the benefits of public money are reinvested in city stakeholders, while the public money invested in developing services is kept open in a predetermined way for the community.
-Therefore, the link between the purchasing of data and technology is important because of the programme's scope, although this is obviously not the main concern.
+== Entorn i ecosistema
 
-In this sense, this measure's provisions must be applied to all acquisition and technology and service management contracts that work with data.
-City Council organisations will have to detail in the application specifications the responsibilities of suppliers regarding data and, where appropriate, their function as the people responsible for data processing.
+Quan parlem de dades avui, hem de parlar de tecnologia.
+El Pla de Transformació Digital (*PTD*) vol canviar la forma en què l'Ajuntament compra i gestiona la tecnologia i es relaciona amb els ciutadans.
+Actualment, Barcelona és un pol d'atracció important de les empreses tecnològiques que tenen una varietat de mides, i a més s'estan generant noves pràctiques en el mercat relacionades amb models de negoci que pivoten sobre codi obert i pràctiques de servei obert.footnote:[Veure la Mesura de Govern d'octubre del 2017.]
+El PTD té com a objectiu establir un camp de joc on les PIMES i altres actors econòmics, diferents de les grans corporacions, puguin entrar al "joc" amb possibilitats de guanyar ofertes públiques relacionades amb la tecnologia i les dades.
+Això té l'avantatge de diversificar els proveïdors de l'Ajuntament, evitar el tancament de proveïdors, i també promoure una economia circular, on els beneficis dels diners públics es reinverteixen en actors de la ciutat, mentre que els diners públics invertits en el desenvolupament de serveis es mantenen oberts de manera predeterminada a comunitat.
+La relació entre la compra de dades i la tecnologia és, per tant, important per a l'abast del programa, encara que, òbviament, no sigui la seva principal preocupació.
 
-Furthermore, these provisions are extended to all City Council interactions with the “community” involved, i.e. all the possible reusers or proactive consumers (prosumers) of the data that the City Council makes public as open data: activists, data journalists, NGOs, foundations and associations in a non-economic environment, as well as business people, emerging companies, companies related to information sciences and major companies in the business world, and finally, academic research institutes.
+En aquest sentit, les disposicions d'aquesta mesura s'aplicaran a tots els contractes d'adquisició i de gestió de tecnologia i serveis que gestionin dades, i les entitats de l'Ajuntament hauran de descriure en els plecs d'aplicació les responsabilitats dels proveïdors de serveis front les dades, i el seu rol, si escau, com encarregats del tractament de dades.
+
+A més a més, aquestes disposicions s'estenen a totes les interaccions de l'Ajuntament amb la “comunitat” amb la que interactua, és a dir, tots els possibles nous usuaris “prosumers” de dades que l'Ajuntament fa públic com a dades obertes, incloent: activistes, periodistes de dades, ONGs, fundacions i associacions del costat purament no econòmic; també empresaris, empreses emergents, empreses relacionades amb la ciència de la informació; i també grans empreses en general; i, finalment, institucions de recerca del prisma acadèmic.

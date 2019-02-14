@@ -46,7 +46,7 @@ Això es farà també reconeixent la necessitat de retornar el control de les da
 Aquesta visió, basada en el concepte de la sobirania de dades dels ciutadans, es durà a terme en projectes experimentals com DECODE (veure a continuació) i la integració de noves tecnologies, com ara registres distribuïts o _blockchain_ i el xifrat de dades.
 
 .El Barcelona Data Commons
-image::infografia_en.svg[El Barcelona Data Commons, width=80%]
+image::infografia_{lang}.svg[El Barcelona Data Commons, width=80%]
 
 == L'Oficina Municipal de Dades i “Chief Data Officer” (CDO)
 

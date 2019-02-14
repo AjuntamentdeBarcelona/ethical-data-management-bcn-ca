@@ -65,50 +65,49 @@ Per complir amb l'objectiu de sobirania tecnològica enunciada en l'Estratègia 
 * *Metodologia Àgil.*
  Els projectes tecnològics que s'hagin de desenvolupar al voltant de la gestió, anàlisi i difusió de dades corporatives caldrà que es realitzin de forma preferent seguint la metodologia tal i com està definida en el xref:{lang}/tech-practices:ROOT:aim-and-scope.adoc[Codi de Pràctiques Tecnològiques], publicat a la Mesura de Govern de l'Ajuntament de Barcelona en octubre del 2017.
 
-== Data sovereignty
+== Sobirania de dades
 
-“Data sovereignty” is a concept linked to German constitutional law, people's right to their own information (where digital information concerning an individual is not subject to the control of a third party, and in particular, of people or systems that treat data in a third country, with regulations that are alien to the location of that individual)
+La «sobirania de dades» és el concepte vinculat amb el dret constitucional alemany, l'autodeterminació informativa – quan la seva informació en forma digital no està subjecta al control d'un tercer, i en particular de persones o sistemes on es tracten les dades en un país tercer, amb una regulació aliena d'on es troba.
 
-Most of the current concerns about data sovereignty refer to compliance with privacy regulations and preventing data stored in a foreign country from being intercepted by the government of the host country or of that government having access to it.
-But the concept of data sovereignty is broader than this international dimension and it involves the need for an individual to have control, at all times and in all relevant systems, over the collection, storage, use, transfer and publication of their data, whether it be of a technical, scientific, economic, social or personal nature.
+La majoria de les preocupacions actuals al voltant de la sobirania de dades es refereixen a fer complir les normes de privacitat i evitar que les dades emmagatzemades en un país estranger siguin interceptades o accedides pel govern del país amfitrió.
+Però el concepte de sobirania de dades és més ample que aquesta dimensió internacional, i implica la necessitat de tenir el control en tot moment i en tots els sistemes rellevants sobre la recopilació, emmagatzematge, ús i transferència i/o publicació de les seves dades, que siguin dades tècniques, científiques, econòmiques, socials o personals.
 
-Organisations increasingly adopt services based in foreign IT systems and, in particular, the cloud, in order to enjoy the benefits of not having to buy, manage, update and replace systems and applications.
-As one of the main objectives of using the cloud is to enable access to information and systems any time and anywhere, many organisations do not much care where their data is stored, or that it could escape from their control and be accessed by unauthorised persons or even made publicly available.
+Les organitzacions adopten cada vegada més serveis basats en sistemes informàtics aliens, en particular al núvol, per aprofitar dels beneficis de no haver de comprar, gestionar, actualitzar i reemplaçar sistemes i aplicacions.
+Com que un objectiu principal d'utilitzar el cloud computing és permetre l'accés a la informació i als sistemes en qualsevol moment i en qualsevol lloc, moltes organitzacions no pensen molt bé on s'emmagatzemen les seves dades, que podrien sortir del seu control «únic» i ser accedides per persones no autoritzades, o fins i tot, ser difoses públicament.
 
-Data sovereignty presents technical and legal challenges when local systems and stores of third-party information are moved, particularly to the cloud.
+La sobirania de dades presenta desafiaments tècnics i legals quan es mouen els sistemes locals i els magatzems d'informació de tercers, en particular al núvol.
 
-In this context, the City Council's information systems have to be determined and configured at all times, in order to guarantee the City Council's sovereignty over its data, and in particular, over the (personal) data of the city's residents, which is administered by the City Council for providing its services.
-The City Council has to have the ability, at all times, to access its data, process it and make “local” security copies.
-Furthermore the City Council's organisations and bodies must always respect the applicable data protection regulations regarding the access to and treatment of data by third parties, as well as international data transfers.
+En aquest context els sistemes d'informació de l'Ajuntament han de ser determinats i configurats en tot moment per tal de garantir a l'Ajuntament la sobirania de les seves dades, i en particular sobre les dades dels ciutadans – dades de caràcter personal - que gestioni l'Ajuntament en la prestació dels seus serveis.
+L'Ajuntament ha de tenir en tot moment la capacitat d'accedir i tractar les seves dades, i en fer còpies «locals» de seguretat.
+A més, les entitats i ens de l'Ajuntament han de respectar en tot moment la normativa aplicable de protecció de dades pel que fa a l'accés i el tractament de les dades per tercers, i les transferències internacionals de dades.
 
-== The ethical use of data
+== L'ús ètic de les dades
 
-Barcelona City Council is committed to the ethical use of data.
-This principle is structured in accordance with the following main values:
+L'Ajuntament de Barcelona està compromès amb l'ús ètic de les dades.
+Aquest principi s'estructura segons els següents valors principals:
 
-* Transparency: at all times, both the City Council and the city's residents know why and for whom the data is being collected, and the applicable measures for guaranteeing its ethical use.
-* Tracing: at all times the City Council knows the origin of the data, its permitted uses and the applicable restrictions.
-* Diligence: collaborators and the providers of data-related services comply with the same principles and obligations as the City Council, and the City Council oversees this compliance.
-* Privacy: any use of personal data must comply with data-protection regulations, and in particular with the principles applicable to its treatment, including fairness, integrity and accuracy, purpose limitation and data minimisation.
-* Trust: data must always be used in accordance with the general public's expectations, and the City Council must implement control and feedback systems to gauge this compliance.
-* Responsibility: The City Council assumes responsibility for all data uses that are undertaken.
-* Benefit: the data must always be used for the benefit of city residents and society.
+* Transparència: tant l'Ajuntament com el ciutadà sap en tot moment per què es recullen les dades i per a què, i les mesures aplicables per a garantir el seu ús ètic.
+* Traçabilitat: l'Ajuntament sap a tot moment l'origen de les dades, els usos permesos i les restriccions aplicables.
+* Diligència: els col·laboradors i proveïdors de serveis relacionats amb dades compleixen amb els mateixos principis i obligacions que l'Ajuntament, i aquest vigila aquest compliment.
+* Privadesa: qualsevol ús de dades de caràcter personal haurà de complir amb la normativa de protecció de dades, i en particular els principis aplicable al tractament, incloent els de l'ús just _(fairness)_, integritat i exactitud, limitació de finalitats de tractament, i minimització de dades.
+* Confiança: l'ús de dades sempre es realitzarà conforme les expectatives dels ciutadans i l'Ajuntament implementa sistemes de control i retroalimentació per mesurar la seva conformitat amb les mateixes.
+* Responsabilitat: l'Ajuntament assumeix responsabilitat per tots els usos de les dades que realitzi.
+* Benefici: les dades sempre s'utilitzaran en benefici dels ciutadans i de la societat.
 
-All projects that involve the processing of city data must comply with these principles.
+Tots el projectes que impliquin tractament de dades de la Ciutat compliran amb aquests principis.
 
-Furthermore, many of today's operations and decisions, which used to be carried out by human beings, are increasingly being delegated to algorithms, which can advise, if not decide, how the collected data should be interpreted and processed by information systems and what actions should be taken as a result.
-More and more often, these algorithms affect social processes, business transactions and governmental decisions, as well as the way we perceive, understand and interact with each other and our surroundings.
-The differences between the design and operation of these algorithms and our understanding of what they involve can have serious ethical consequences that affect individual people and groups of citizens.
-It is essential for the decisions made by the City Council using algorithms based on our data to be accountable (applying the concept of algorithmic accountability) and that they ensure the ethical principles of respecting rights, justice, the concept of fairness, well-being and virtue.
+A més, avui en dia, moltes operacions i decisions, abans deixades als éssers humans, són cada cop més delegades a algoritmes, els quals poden aconsellar, si no decidir sobre com les dades recollides i tractades per sistemes d'informació haurien de ser interpretades i quines accions haurien de ser preses com a resultat.
+Més i més sovint, aquests algoritmes afecten els processos socials, les transaccions empresarials, i les decisions governamentals, així com la manera en que percebem, entenem i interactuem entre nosaltres i amb el nostre entorn.
+Les diferencies entre el disseny i la operació d'aquests algoritmes i la nostra comprensió de les seves implicacions, poden tenir conseqüències ètiques severes que afecten als individus així com a grups de ciutadans.
+És essencial que les decisions preses per l'Ajuntament, utilitzant algoritmes basats en les nostres dades, han de ser _accountable_ (aplicant el concepte de _“algorítmic accountability”_), i garanteixen els principis ètics del respecte dels drets, la justícia, el _fairness_, el benestar i la virtut.
 
-As part of this measure, a DMO working group will be set up to identify the subjects raised by algorithmic determinism relating to automated decisions taken by the City Council, and to identify the necessary measures for ensuring the following ethical principles, in order to determine if instruction on the subject will be needed in the future, with the aim of establishing applicable regulations for the ethical use of data and algorithms in Barcelona City Council.
+Dins del marc d'aquesta Mesura, s'establirà al sí de la OMD un grup de treball per a identificar els temes aixecats pel determinisme algorítmic relacionat amb les decisions automatitzades preses per l'Ajuntament, i per a identificar les mesures necessàries per a garantir els següents principis ètics, amb vistes a determinar si, més endavant, fos necessari una instrucció sobre el tema, amb l'objectiu d'establir les regles aplicables per a l'ús ètic de dades i algoritmes dins de l'Ajuntament:
 
-* Transparency: the right of city residents (including the staff of the City Council and related organisations) to be informed about automated decisions and their underlying algorithms.
-* Due process: the right of city residents to take action and initiate appeals relating to data processing and the automated decisions that affect them.
-* Accountability and proportionality: ensuring that automated decisions are fair and proportional, and that they do not prejudice city residents (in particular, that they are not discriminatory in any way).
+* _Transparència:_ el dret dels ciutadans (incloent personal de l'Ajuntament i entitats relacionades) de ser informats sobre les decisions automatitzades i pel que fa als algoritmes subjacents.
+* _Due Process (processos deguts):_ el dret dels ciutadans de prendre accions i iniciar recursos en relació al tractament de dades i les decisions automatitzades que els afecten.
+* _Accountability_ i _proporcionalitat:_ garantir que les decisions automatitzades siguin justes i proporcionades, i no perjudiquen als ciutadans - en particular, que no siguin discriminatoris en qualsevol respecte.
 
-Within this context, algorithmic accountability is supported by the transparency of the City Council's open source code IT systems involved in decision-making (or for supporting decision-making).
-Wherever possible, projects based on data (data driven) will be able to check the algorithms using simulations based on city data.
-Likewise, using open source code or other means, third-party technology suppliers must reveal the underlying logic behind any IT process for automated decisions (or for supporting decision-making) pertaining to any of their systems used by the City Council.
+En aquest context, l'_algorithmic accountability_ serà reforçat per la transparència del codi font obert dels sistemes informàtics d l'Ajuntament implicats en la presa de decisió (o el suport a la presa de decisió).
+On sigui possible, els projectes basats en dades _(data driven)_ permetran testejar els algoritmes mitjançant simulacions basades en les dades de la Ciutat; així mateix, els tercers proveïdors de tecnologia hauran de revelar – a través del codi font obert o d'altres maneres – la lògica subjacent darrere de qualsevol dels processos informàtics de presa automatitzada de decisió o de suport a la presa de decisió dels seus sistemes utilitzats per l'Ajuntament.
 
-Ethical values and principles must be considered as intrinsic features of the City Council's data model and data governance, and the working group will help to build this data model and appropriate controls for its governance, and to establish a process for providing an ethical evaluation of any development project.
+EEls valors i principis ètics han de ser considerats com a elements intrínsecs del model de dades i de la governança de les dades de l'Ajuntament, i el grup de treball ajudarà a construir aquest model de dades i els controls adequats per la seva governança, així com a establir un procés per a proporcionar una valoració ètica per a qualsevol projecte de desenvolupament.
