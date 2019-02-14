@@ -4,23 +4,23 @@ include::_attributes.adoc[]
 endif::[]
 include::{partialsdir}/README.adoc[tag=metadata]
 
-Aquesta mesura estableix la política general per a la governança, planificació, obtenció, gestió, anàlisi, ús i protecció, accés i preservació, fins que sigui necessari, i reutilització  de les dades municipals per afegir valor a la informació digital municipal al llarg del seu cicle de vida, com també els aspectes que se’n deriven en relació als recursos humans, les infraestructures i recursos TI, la gestió econòmica i els serveis de suport.services.footnote:[Malgrat que aquesta mesura es refereix a diversos aspectes dels recursos TIC com ara la privacitat, confidencialitat, qualitat de la informació, disseminació o política estadística, aquests conceptes estaran recollits i desenvolupats en instruccions posteriors. Les unitats hauran d’implementar les polítiques d’aquesta mesura i de les instruccions i guies de manera coherent i consistent]
+Aquesta mesura estableix la política general per a la governança, planificació, obtenció, gestió, anàlisi, ús i protecció, accés i preservació, fins que sigui necessari, i reutilització  de les dades municipals per afegir valor a la informació digital municipal al llarg del seu cicle de vida, com també els aspectes que se'n deriven en relació als recursos humans, les infraestructures i recursos TI, la gestió econòmica i els serveis de suport.services.footnote:[Malgrat que aquesta mesura es refereix a diversos aspectes dels recursos TIC com ara la privacitat, confidencialitat, qualitat de la informació, disseminació o política estadística, aquests conceptes estaran recollits i desenvolupats en instruccions posteriors. Les unitats hauran d'implementar les polítiques d'aquesta mesura i de les instruccions i guies de manera coherent i consistent]
 
-L’estratègia de gestió responsable de dades es configura per tal d’ajudar a conduir la transformació dels sistemes TI del govern local mitjançant la institucionalització d’aproximacions més àgils que han de facilitar l’adopció ràpida dels canvis tecnològics, de manera que es reforci la seguretat, la sobirania tecnològica, la privacitat i la gestió dels recursos d’informació i dades d’una banda a l’altra de tots els serveis i programes municipals.
+L'estratègia de gestió responsable de dades es configura per tal d'ajudar a conduir la transformació dels sistemes TI del govern local mitjançant la institucionalització d'aproximacions més àgils que han de facilitar l'adopció ràpida dels canvis tecnològics, de manera que es reforci la seguretat, la sobirania tecnològica, la privacitat i la gestió dels recursos d'informació i dades d'una banda a l'altra de tots els serveis i programes municipals.
 
-Aquesta mesura es focalitza en aconseguir que l’Ajuntament sigui capaç d’establir una infraestructura general i processos harmonitzats per a la gestió, utilització i disseminació (parcial) de dades, un “_*Data Commons*_”,footnote:[Ja iniciat a http://ajuntament.barcelona.cat/digital/en/digital-transformation/city-data-commons.] i promoure, executar i supervisar els projectes d’explotació i de valorització de dades de manera àgil i uniform (p.e. front la interoperabilitat i l’estandardització de dades) a través de l’Oficina Municipal de Dades, i vetllar per a la gestió responsable de dades d’acord a les lleis vigents conjuntament amb el Delegat de Protecció de Dades.
+Aquesta mesura es focalitza en aconseguir que l'Ajuntament sigui capaç d'establir una infraestructura general i processos harmonitzats per a la gestió, utilització i disseminació (parcial) de dades, un “_*Data Commons*_”,footnote:[Ja iniciat a http://ajuntament.barcelona.cat/digital/en/digital-transformation/city-data-commons.] i promoure, executar i supervisar els projectes d'explotació i de valorització de dades de manera àgil i uniform (p.e. front la interoperabilitat i l'estandardització de dades) a través de l'Oficina Municipal de Dades, i vetllar per a la gestió responsable de dades d'acord a les lleis vigents conjuntament amb el Delegat de Protecció de Dades.
 
 == Objectius
 
-Els principals objectius d’aquesta mesura són:
+Els principals objectius d'aquesta mesura són:
 
-* ●	Definir els objectius, la missió, responsabilitats i l’autoritat de l’Oficina Municipal de Dades
-* ●	Identificar l’estructura i mecanismes de governança de dades, en el sentit més ampli,  a l’Ajuntament de Barcelona.
-* ●	Definir els principis rectors de l’actuació de l’Ajuntament respecte de les dades, enfocats al seu ús ètic, la sobirania de les dades, la dimensió social, assegurar la privacitat i la seguretat, l’accés permanent i la reutilització de les dades.
+* ●	Definir els objectius, la missió, responsabilitats i l'autoritat de l'Oficina Municipal de Dades
+* ●	Identificar l'estructura i mecanismes de governança de dades, en el sentit més ampli,  a l'Ajuntament de Barcelona.
+* ●	Definir els principis rectors de l'actuació de l'Ajuntament respecte de les dades, enfocats al seu ús ètic, la sobirania de les dades, la dimensió social, assegurar la privacitat i la seguretat, l'accés permanent i la reutilització de les dades.
 * ●	Assegurar la gestió responsable de les dades en tot el seu cicle de vida respectant els principis de dades FAIR (cercables, accessibles, interoperables i reutilitzables).
-* ●	Definir l’arquitectura de les dades, amb el seu repositori _(*Data Lake* i CityOS)_ i les infraestructures TI necessàries per a permetre el seu ús.
-* ●	Millorar l’ús, intern i extern de les dades de l’Ajuntament, per afegir-hi valor i  transformar-les en actiu real per una alta valorització corporativa.
-* ●	Desenvolupar procediments i mecanismes per treballar les dades de forma sistematitzada i quant més automatitzada possible, respectant la legislació vigent i sense posar en perill la privacitat, la confidencialitat i la seguretat d’aquestes dades.
+* ●	Definir l'arquitectura de les dades, amb el seu repositori _(*Data Lake* i CityOS)_ i les infraestructures TI necessàries per a permetre el seu ús.
+* ●	Millorar l'ús, intern i extern de les dades de l'Ajuntament, per afegir-hi valor i  transformar-les en actiu real per una alta valorització corporativa.
+* ●	Desenvolupar procediments i mecanismes per treballar les dades de forma sistematitzada i quant més automatitzada possible, respectant la legislació vigent i sense posar en perill la privacitat, la confidencialitat i la seguretat d'aquestes dades.
 
 Clarament, per aconseguir els diferents objectius del programa, cal assegurar determinats passos.
 En primer lloc, per impulsar i dirigir la nostra visió dels béns comuns de dades, hem d'estar en condicions de proposar i oferir *solucions i visions innovadores* relacionades amb la informació a la societat en general, per la qual cosa hem d'assegurar, internament, un determinat nivell d'alineació pel que fa a disponibilitat tecnològica i de les dades.
@@ -32,14 +32,14 @@ Aquesta mesura també presenta els *projectes emblemàtics actuals*, a través d
 == El Barcelona Data Commons
 
 La situació actual de les dades municipals ha de transformar-se per a convertir les dades municipals en un bé públic, un _«*Data Commons*»_, amb una governança definida i regles que es creen en pro del bé comú.
-La percepció pública i privada de les dades ha de passar de ser un actiu que ofereix un avantatge competitiu, a una «infraestructura» social que s'ha de fer pública per assegurar el benestar comú i que s’intercanviï sota un paradigma _quid pro quo_:
-com més hi ha de dades, millor sigui la seva qualitat, i com més es confiï en les regles d'intercanvi i privadesa que ofereixen aquests béns comuns, millor serà l’actuació de tots els actors que hi participaran.
+La percepció pública i privada de les dades ha de passar de ser un actiu que ofereix un avantatge competitiu, a una «infraestructura» social que s'ha de fer pública per assegurar el benestar comú i que s'intercanviï sota un paradigma _quid pro quo_:
+com més hi ha de dades, millor sigui la seva qualitat, i com més es confiï en les regles d'intercanvi i privadesa que ofereixen aquests béns comuns, millor serà l'actuació de tots els actors que hi participaran.
 
-L’objectiu d’aquesta mesura en relació al Data Commons és establir l’arquitectura, els processos i estàndards d'operativitat basats en les API, que permeten agrupar les diferents fonts de dades en el *Data Lake* comú.
+L'objectiu d'aquesta mesura en relació al Data Commons és establir l'arquitectura, els processos i estàndards d'operativitat basats en les API, que permeten agrupar les diferents fonts de dades en el *Data Lake* comú.
 Això implica pràctiques de documentació i configuració per als conjunts de dades, així com un mapatge de la riquesa de dades present a l'administració així com de la seva qualitat.
 També implica fer que aquesta infraestructura estigui preparada per a l'obertura (parcialment) a actors socials externs, amb l'objectiu de donar suport a la visió prevista del marc del Data Commons.
 
-Per impulsar i dirigir aquesta visió del Data Commons, l’Ajuntament ha de ser capaç de proposar i oferir solucions innovadores de dades relacionades amb la societat en general, per la qual cosa ha d'assegurar internament, un cert nivell d'alineació pel que fa a disponibilitat tecnològica i disponibilitat de dades.
+Per impulsar i dirigir aquesta visió del Data Commons, l'Ajuntament ha de ser capaç de proposar i oferir solucions innovadores de dades relacionades amb la societat en general, per la qual cosa ha d'assegurar internament, un cert nivell d'alineació pel que fa a disponibilitat tecnològica i disponibilitat de dades.
 Ha d'explicar la seva visió i establir un diàleg clar amb els actors implicats a la ciutat per impulsar conjuntament la visió del Data Commons, amb regles que ha de fixar conjuntament amb la Societat.
 Finalment, ha de poder mostrar exemples concrets de l'aplicació d'aquesta visió del Data Commons a la ciutadania, per garantir el suport al seu treball.
 Això es farà també reconeixent la necessitat de retornar el control de les dades als ciutadans que les produeixen, de manera que puguin decidir quines dades volen mantenir en privat i quines volen compartir, amb qui i amb quina finalitat.
@@ -48,10 +48,10 @@ Aquesta visió, basada en el concepte de la sobirania de dades dels ciutadans, e
 .El Barcelona Data Commons
 image::infografia_en.svg[El Barcelona Data Commons, width=80%]
 
-== L’Oficina Municipal de Dades i “Chief Data Officer” (CDO)
+== L'Oficina Municipal de Dades i “Chief Data Officer” (CDO)
 
-Barcelona reconeix l’oportunitat que l’ús adequat de les dades està demostrant a l’hora de prendre decisions informades, així com la seva utilització per a la definició, anàlisi i resolució dels reptes actuals de les grans ciutats, i la necessitat d’una gestió responsable i ètica d’aquestes dades.
-Mesura, s’estableix la missió i objectius de la nova *Oficina Municipal de Dades* (OMD), liderada per el seu Director “*Chief Data Officer*” (CDO), dotant-la dels recursos necessaris (humans, tècnics i econòmics) per a posar en valor les dades de la ciutat i aquelles dades dels ciutadans que la ciutat custodia.
-Així, Barcelona segueix l’exemple encapçalat per importants ciutats Nord-americanes com Chicago, New York City i Boston, amb els seus respectius _Chief Data Officers_, i més recentment també per d’altres ciutats a Europa com Paris o Londres, que mitjançant el disseny d’una nova estratègia i visió estan posant en valor les dades com a part de la infraestructura pròpia de la ciutat.
+Barcelona reconeix l'oportunitat que l'ús adequat de les dades està demostrant a l'hora de prendre decisions informades, així com la seva utilització per a la definició, anàlisi i resolució dels reptes actuals de les grans ciutats, i la necessitat d'una gestió responsable i ètica d'aquestes dades.
+Mesura, s'estableix la missió i objectius de la nova *Oficina Municipal de Dades* (OMD), liderada per el seu Director “*Chief Data Officer*” (CDO), dotant-la dels recursos necessaris (humans, tècnics i econòmics) per a posar en valor les dades de la ciutat i aquelles dades dels ciutadans que la ciutat custodia.
+Així, Barcelona segueix l'exemple encapçalat per importants ciutats Nord-americanes com Chicago, New York City i Boston, amb els seus respectius _Chief Data Officers_, i més recentment també per d'altres ciutats a Europa com Paris o Londres, que mitjançant el disseny d'una nova estratègia i visió estan posant en valor les dades com a part de la infraestructura pròpia de la ciutat.
 
-En aquest cas Barcelona, mitjançant aquesta Mesura de Govern i el pla d’acció que conté, es posiciona com a la primera ciutat espanyola en reconèixer la importància que tenen les dades i en nomenar un CDO, i crear les estructures de dades – el Data Lake i el Data Commons – que han de permetre desenvolupar polítiques públiques informades mitjançant l’evidència que aporten les dades, el seu correcte tractament i l’anàlisi que se’n deriva, i d’obrir aquestes dades en la mesura possible als sectors industrial i civil per enfortir l’economia local i les accions de la societat civil.
+En aquest cas Barcelona, mitjançant aquesta Mesura de Govern i el pla d'acció que conté, es posiciona com a la primera ciutat espanyola en reconèixer la importància que tenen les dades i en nomenar un CDO, i crear les estructures de dades – el Data Lake i el Data Commons – que han de permetre desenvolupar polítiques públiques informades mitjançant l'evidència que aporten les dades, el seu correcte tractament i l'anàlisi que se'n deriva, i d'obrir aquestes dades en la mesura possible als sectors industrial i civil per enfortir l'economia local i les accions de la societat civil.

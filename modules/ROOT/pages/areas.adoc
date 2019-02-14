@@ -18,7 +18,7 @@ In general, the strategy pivots on the following general principals, which form 
 
 === Governance policies and processes
 
-As a support for the purpose and functions of municipal manager’s offices and bodies, and in coordination with the people in charge of data, the municipal processes, standards and policies applicable to all the organisation’s data resources will have to be defined, put into practice and maintained.
+As a support for the purpose and functions of municipal manager's offices and bodies, and in coordination with the people in charge of data, the municipal processes, standards and policies applicable to all the organisation's data resources will have to be defined, put into practice and maintained.
 
 Subsidiary municipal bodies must obtain this from the CTID, in coordination with the governance committees, where processes and policies will be defined in sufficient detail in order to manage data resources appropriately.
 As a minimum, these processes and policies will require any investments and projects under development to be evaluated, in order to determine the applicability of the agile methodology, data standards and open content, privacy and the ethical and social impact as well as the indicators for measuring the cost, use and general evaluation of the data resources as a whole.
@@ -26,7 +26,7 @@ As a minimum, these processes and policies will require any investments and proj
 It must be ensured that:
 
 * There is a single review policy for each organisation for evaluating the investments, the analysis of operations and the other evaluation systems for IT resources, including the projects under development and ongoing activities.
-* Information and data needs will be managed in accordance with the organisation’s governance policies, where the functions, responsibilities and processes that the organisation’s personnel use for treating data as an asset are clearly established, along with the relationship between technology, data, the organisation’s programmes, strategies, legal requirements, mission and operational objectives.
+* Information and data needs will be managed in accordance with the organisation's governance policies, where the functions, responsibilities and processes that the organisation's personnel use for treating data as an asset are clearly established, along with the relationship between technology, data, the organisation's programmes, strategies, legal requirements, mission and operational objectives.
 * Obsolete information systems will be replaced as quickly as possible and budgetary planning will include items corresponding to depreciation.
 
 === Leadership and human resources
@@ -55,15 +55,15 @@ Specifically, these will include:
 * Impact assessments.
 Municipal units will carry out impact assessments for data protection to preventively ensure that, where processing operations may involve especially serious risks, the necessary measures are taken to reduce, as far as possible, the risk of injuring or harming people or negatively affecting their rights and freedoms by obstructing or limiting the exercising of those rights or their content.
 
-* Privacy by design / PET The necessary measures must be taken to incorporate privacy by design strategies and/or privacy enhancing technologies (PETs), through which the privacy of those concerned is taken into account during all design, development and management processes for the City Council’s data systems.
+* Privacy by design / PET The necessary measures must be taken to incorporate privacy by design strategies and/or privacy enhancing technologies (PETs), through which the privacy of those concerned is taken into account during all design, development and management processes for the City Council's data systems.
 Wherever applicable, encryption, anonymisation and pseudo-anonymisation algorithms must be used.
 
 === Data security
 
-In order to guarantee appropriate data security levels and to ensure confidentiality and correct use, the CTID must designate a person in charge of data security, a Data Security Officer (DSO), who will be responsible for developing and maintaining a security programme for the unit’s data, in accordance with pertinent legislation and in collaboration with the Technical Commission for Data Protection Security.
+In order to guarantee appropriate data security levels and to ensure confidentiality and correct use, the CTID must designate a person in charge of data security, a Data Security Officer (DSO), who will be responsible for developing and maintaining a security programme for the unit's data, in accordance with pertinent legislation and in collaboration with the Technical Commission for Data Protection Security.
 
 The data will be protected in accordance with the risk arising from unauthorised access to, the use, disclosure, interruption, modification or destruction of this information.
-The units must produce a recovery plan that includes continuity strategies, in order to ensure that services and access can be restored in time to satisfy the mission’s needs.
+The units must produce a recovery plan that includes continuity strategies, in order to ensure that services and access can be restored in time to satisfy the mission's needs.
 Furthermore, any information project or system must guarantee the possibility of tracing access to the data and the analysis of decision-making algorithms (or those supporting decision-making) and prepare and facilitate any audits that may be undertaken.
 Any third party involved in the processing of municipal data must offer sufficient guarantees concerning the implementation and maintenance of the required security measures, and the other directives defined in the xref:{lang}/tech-practices:ROOT:aim-and-scope.adoc[Technology Code of Practice] and the Technical Commission for Security.
 
@@ -77,13 +77,13 @@ General data governance is described in the directive that accompanies this meas
 This is comprised of the Inter-departmental Coordination of Data.
 Its main aim is to coordinate cross-departmental projects and to act as a means of disseminating the projects.
 
-For proper coordination between the various areas of municipal management, data officers will be defined for each sector, who will be responsible for the data in their own manager’s office and for coordination with the council as a whole.
-Cross-departmental data coordination makes it possible to establish directives for and monitor the work carried out in the MDO and in the various sectoral centres for storing, analysing and disseminating municipal data; establishing operational and treatment criteria for guaranteeing all aspects of the data’s life cycle and added value; the monitoring of inter-departmental and council projects, as well as the management of data protection and the regulations concerning intellectual property and authorship protection for the data.
+For proper coordination between the various areas of municipal management, data officers will be defined for each sector, who will be responsible for the data in their own manager's office and for coordination with the council as a whole.
+Cross-departmental data coordination makes it possible to establish directives for and monitor the work carried out in the MDO and in the various sectoral centres for storing, analysing and disseminating municipal data; establishing operational and treatment criteria for guaranteeing all aspects of the data's life cycle and added value; the monitoring of inter-departmental and council projects, as well as the management of data protection and the regulations concerning intellectual property and authorship protection for the data.
 
 This coordination must lead to the proper management and review of resources and programmes, and ensure coordinated and unified budget management.
 The CDO will also take part, for the review and authorisation, with the aim of providing effective, specific and visible corporate management of IT resources and data.
 
-Each unit’s manager’s office, in consultation with municipal data officers, must describe the processes used to define the inventory of IT resources for efficiently achieving management objectives, considering new investments in IT and their potential and appropriateness for the council inventory.
+Each unit's manager's office, in consultation with municipal data officers, must describe the processes used to define the inventory of IT resources for efficiently achieving management objectives, considering new investments in IT and their potential and appropriateness for the council inventory.
 It will also be necessary to identify the differences between the programmed and executed budget, the schedules and the evaluation of IT objectives, and ensure that the necessary corrective measures are carried out.
 
 == Ethical and responsible data management
@@ -91,11 +91,11 @@ It will also be necessary to identify the differences between the programmed and
 This tool establishes principles and directives for correct data management, in accordance with the principles indicated in this measure.
 The more technical aspects of this management are included in the xref:{lang}/tech-practices:ROOT:aim-and-scope.adoc[Technology Code of Practice], published under the Government Measure for open digitalisation: free software and the agile development of services, of October 2017.
 
-Subsidiary municipal bodies must manage data responsibly, inventory and register the authorised treatment processes, identify the data’s sources and its basic metadata, guarantee the data’s life cycle and take users into account when determining the format and frequency of updates, as well as other data management considerations.
+Subsidiary municipal bodies must manage data responsibly, inventory and register the authorised treatment processes, identify the data's sources and its basic metadata, guarantee the data's life cycle and take users into account when determining the format and frequency of updates, as well as other data management considerations.
 They must collaborate with other organisations on the promotion of efficient public services in order to comply with all the transparency policies and those related to privacy, security and accessibility.
 
 Specifically, municipal bodies must follow all the processes established by the DPO regarding strict compliance with data protection regulations, notify the Catalan Data Protection Authority about the creation of databases where necessary, and appoint the people in charge of data.
-It is necessary to minimise the collection of personal data, apply anonymisation or pseudo-anonymisation wherever possible, obtain the consent of the people concerned, and take into account the repercussions that every action at each moment of the data’s life cycle has on every other moment and the people concerned.
+It is necessary to minimise the collection of personal data, apply anonymisation or pseudo-anonymisation wherever possible, obtain the consent of the people concerned, and take into account the repercussions that every action at each moment of the data's life cycle has on every other moment and the people concerned.
 
 === Guiding principles for ethical and responsible data management
 
@@ -104,7 +104,7 @@ Subsidiary municipal bodies must include the following steps in their planning, 
 * Municipal data must be ethically managed during its entire life cycle (creation, collection, storage, use, analysis, dissemination, archiving and destruction).
 * Municipal information is managed as a common asset and its access, consultation and use by the public is made possible on the basis of the legal provisions in force.
 * Activities carried out on the data in a set of metadata must be registered, following the most appropriate metadata schemes for the operations of each business.
-* Privacy and security risks will be identified throughout the data’s life cycle, and risk analyses and security solutions will be developed.
+* Privacy and security risks will be identified throughout the data's life cycle, and risk analyses and security solutions will be developed.
 * Management will involve a clear allocation of roles and responsibilities in order to promote the efficient design and operation of all management processes.
 
 The municipal bodies must provide the general public with the information in a way that is coherent with its objectives and mission, based on current legislation.
@@ -118,30 +118,30 @@ The organisations must also make mechanisms for obtaining feed-back on the data 
 Municipal finance systems must be able to reward the units that include systems for the long-term preservation of data and its access in their service contracts.
 
 The City Council and all municipal group units must observe a set of procedures aimed at improving the acquisition of data and which make effective, economical, safe, ethical and open data management possible, as well as guaranteeing privacy.
-Planning has to focus on the data that supports each unit’s mission, and they have to implement management processes that are integrated into budgetary programming and execution.
+Planning has to focus on the data that supports each unit's mission, and they have to implement management processes that are integrated into budgetary programming and execution.
 
 === Planning and budget
 
-Budgetary planning is an essential part of producing and maintaining a data management strategy, and it must ensure effective collaboration between the various manager’s offices and directorates in this area of management.
+Budgetary planning is an essential part of producing and maintaining a data management strategy, and it must ensure effective collaboration between the various manager's offices and directorates in this area of management.
 
 Strategic planning: data management plans (DMP).
-As a support for Barcelona City Council’s management needs and its mission, and as part of the general strategy and planning to improve the municipal group’s processes, each unit must produce and maintain its own data management plan (DMP) that describes the objectives of IT resources, including, among others, the processes described in this strategy.
-The DMP must show how the map of the IT resource objectives relates to the unit’s mission and priorities.
+As a support for Barcelona City Council's management needs and its mission, and as part of the general strategy and planning to improve the municipal group's processes, each unit must produce and maintain its own data management plan (DMP) that describes the objectives of IT resources, including, among others, the processes described in this strategy.
+The DMP must show how the map of the IT resource objectives relates to the unit's mission and priorities.
 The objectives must be specific, measurable and verifiable, so that their progress can be monitored.
 
-One example of an emblematic project in the budgetary area is Open Budget, a tool that facilitates the general public’s analysis and understanding of Barcelona City Council’s budgets.
+One example of an emblematic project in the budgetary area is Open Budget, a tool that facilitates the general public's analysis and understanding of Barcelona City Council's budgets.
 Open Budget allows users to download data in open formats, to browse items ranging from the most aggregated to the most detailed budgetary data, for both the current fiscal year and previous years.footnote:[http://ajuntament.barcelona.cat/estrategiaifinances/pressupostobert/ca/.]
 
 === Inventory
 
-Business units will have to keep an inventory of their main information systems,footnote:[Each unit’s inventory will be integrated into one of the municipal group’s general inventories.] containers and dissemination tools, with a determined level of detail for their supervision and management.
-This inventory must identify the datasets containing personal information and procedures will be determined to enable regular checks that ensure this data is of the necessary quality, that it is possible to respond to the rights of the people concerned and that it is the minimum required to develop the unit’s powers and functions.
+Business units will have to keep an inventory of their main information systems,footnote:[Each unit's inventory will be integrated into one of the municipal group's general inventories.] containers and dissemination tools, with a determined level of detail for their supervision and management.
+This inventory must identify the datasets containing personal information and procedures will be determined to enable regular checks that ensure this data is of the necessary quality, that it is possible to respond to the rights of the people concerned and that it is the minimum required to develop the unit's powers and functions.
 Each unit will also have to keep a record of all the actions taken regarding both management and analytical databases.
 The Municipal Data Office must determine the metadata for these systems.
 
 === Management of data processing systems
 
-The units and subsidiary bodies must be able to continually facilitate the adoption of new technologies and to evaluate the entire life cycle of each information system, with an inventory of the software tools and machines associated with the system, the management and sustainability of the resources and the infrastructures supporting the system; they must actively determine the updates, revisions, substitutions and provisions needed to properly carry out the unit’s functions and protect its assets, and it must ensure the terms and conditions of the contracts and other service agreements involved in the collection, processing, storage, access, exchange and availability of municipal information, which are confirmed and in line with the data-protection policy and cover the units’ legal and ethical requirements.
+The units and subsidiary bodies must be able to continually facilitate the adoption of new technologies and to evaluate the entire life cycle of each information system, with an inventory of the software tools and machines associated with the system, the management and sustainability of the resources and the infrastructures supporting the system; they must actively determine the updates, revisions, substitutions and provisions needed to properly carry out the unit's functions and protect its assets, and it must ensure the terms and conditions of the contracts and other service agreements involved in the collection, processing, storage, access, exchange and availability of municipal information, which are confirmed and in line with the data-protection policy and cover the units' legal and ethical requirements.
 
 === Risk management
 
@@ -158,8 +158,8 @@ It is therefore necessary for organisations to develop continuity strategies in 
 
 == City Data Infrastructure
 
-This line of action aims to define the conditions at the architectural level in order to make the City Council’s internal management more agile, improve the services that the City Council offers city residents and facilitate the joint exchange of interesting data with society, both inside and outside the municipal government, and to ensure its preservation and continual access.
-The CDO and their office will be responsible for understanding the City Council’s data and having a unified, documented concept of it, as well as maintaining, planning and developing its architecture by using a unified management model.
+This line of action aims to define the conditions at the architectural level in order to make the City Council's internal management more agile, improve the services that the City Council offers city residents and facilitate the joint exchange of interesting data with society, both inside and outside the municipal government, and to ensure its preservation and continual access.
+The CDO and their office will be responsible for understanding the City Council's data and having a unified, documented concept of it, as well as maintaining, planning and developing its architecture by using a unified management model.
 
 The City Council therefore has to work towards a model of grouped data from different sources in order to create common repositories for management, analysis and secure preservation.
 
@@ -167,12 +167,12 @@ These repositories are:
 
 * *_Data lake._* A single analytic repository is created, a data lake, where the data input and consumption or access points are centralised.
 These single input and access points make it possible to improve security and have better traceability.
-Furthermore, the data lake, which must be based on a type of big-data infrastructure, must include the availability of a precise map of the City Council’s data.
+Furthermore, the data lake, which must be based on a type of big-data infrastructure, must include the availability of a precise map of the City Council's data.
 This means that the CDO must prioritise the possible development or definition of datasets, and the rights of data access and exploitation that are included in or excluded from the data lake.
 The CDO will also be responsible for ensuring data quality.
 This data lake is the current emblematic City OS project.
 +
-City OS is a cross-departmental deposit and architecture project for the centralised, uniform storage and access of the city’s data.
+City OS is a cross-departmental deposit and architecture project for the centralised, uniform storage and access of the city's data.
 It is the sole analytic repository for municipal data.
 Municipal data as a whole is stored in various systems according to the needs of use and the technology that is applied.
 City OS provides an analytical layer for all the data.
@@ -186,11 +186,11 @@ The secure repository must guarantee the authenticity of the data it stores and 
 image::CityOS_infograph.svg[CityOS infograph, width=2446]
 
 It will be necessary to write an information policy that includes all the data and obligatory processes needed to complete the data life cycle and deposit it in the city lake or in the secure preservation repository, according to preference.
-In order to do this, close collaboration from the IMI (technology provider and responsible for the development and maintenance of the City Council’s technological infrastructure) and from the various units and services that have their own infrastructures.
+In order to do this, close collaboration from the IMI (technology provider and responsible for the development and maintenance of the City Council's technological infrastructure) and from the various units and services that have their own infrastructures.
 
 Units must develop an architectural description (AD) that details the available architecture, the target architecture and the plan to achieve the latter.
-Each unit’s AD must be in line with the *data model* defined by the MDO.
-The AD must include the unit’s plans for significant changes in updating, revisions, substitution or availability of information when the systems no longer effectively support the required needs and functions.
+Each unit's AD must be in line with the *data model* defined by the MDO.
+The AD must include the unit's plans for significant changes in updating, revisions, substitution or availability of information when the systems no longer effectively support the required needs and functions.
 The AD must align operational resources and technologies in order to attain strategic objectives.
 The descriptive process for the present and future state of the unit helps to eliminate duplications and irrelevant data, increases shared services, maximises performance and promotes interrelation between areas.
 The AD must identify the functions that need access to certain systems and which profiles have access to what information and under what circumstances.
@@ -198,8 +198,8 @@ Requirements must be defined, based on attributes for accessing sensitive inform
 
 In regard to the emblematic City OS project, various sub-projects will be carried out, such as:
 
-* *Improvements to the ODI’s API.* Improvement to Barcelona’s Open Data BCN (ODI) portal, in order to focus on reuse and developers, adding APP register capacities, access control, news bulletin and improving API documents so that it is easy for developers to use.
-* *IGLU.* Convergence of various datasets in a unified storage solution (data lake) using the City OS project’s standardisation and API transformation, making use of new offers of key infrastructures, adapting them to a new unified operability standard.
+* *Improvements to the ODI's API.* Improvement to Barcelona's Open Data BCN (ODI) portal, in order to focus on reuse and developers, adding APP register capacities, access control, news bulletin and improving API documents so that it is easy for developers to use.
+* *IGLU.* Convergence of various datasets in a unified storage solution (data lake) using the City OS project's standardisation and API transformation, making use of new offers of key infrastructures, adapting them to a new unified operability standard.
 * *API standardisation.* Defining and putting into practice standards in order to provide a guide for purchasing technology, in order to ensure the interoperability of City Council data providers.
 * *Protocols for opening open data.* Defining the protocol to be followed in order to proactively include data in the open-data catalogue, in particular for municipal civil servants who are willing to do so.
 * *Connection with the DECODE infrastructure:* Connecting City OS, IRIS, ASIA, SENTILO and BCNOpenData to the experimental DECODE platform.footnote:[https://decodeproject.eu/.]
@@ -218,15 +218,15 @@ Beyond specific, instrumental purposes for each database, global governance must
 
 * *Citizen empowerment:* returning control of their data to city residents, by means of municipal tools and processes, giving them the possibility of deciding how their data is used and for what purposes, and offering services and projects that empower city residents and give them more say on how the city is run.
 
-Barcelona City Council’s need to create knowledge and intelligence has always been and continues to be of strategic importance.
+Barcelona City Council's need to create knowledge and intelligence has always been and continues to be of strategic importance.
 In recent years, the volume of information has increased exponentially (big data).
 However, municipal analytical tools cannot handle this volume of information properly.
 The available information is disperse (mostly in spreads-heets), unconnected and subject to unplanned maintenance.
-To counter this “hole”, various initiatives have been set in motion to create a culture of accessible, centralised data and the corresponding culture to feed and, in the near future, use the platform’s data.
+To counter this “hole”, various initiatives have been set in motion to create a culture of accessible, centralised data and the corresponding culture to feed and, in the near future, use the platform's data.
 This includes City OS, the project for a centralised municipal information deposit that will facilitate the capture, preparation, organisation and analysis of data from municipal services and the general public, in order to foster these data-based projects through the City Council and outside it (see the next section on open data).
 
 The new data culture makes it possible for information and knowledge to flow through the organisation much more efficiently.
-However, in today’s world, it is not enough to obtain and analyse data in post-mortem processes.
+However, in today's world, it is not enough to obtain and analyse data in post-mortem processes.
 It is necessary to have the capacity for analysing data in real time and to be able to produce projections and scenarios using complex algorithms, in order to foresee and predict possible future situations and reduce undesired repercussions.
 This capacity cannot be substituted; it must be internalised by the organisation, as it is a major part of its grey matter.
 Until now, digital service projects have been led by sectors unrelated to data analysis or data science (IT, transactional application managers, etc.).
@@ -235,12 +235,12 @@ From this perspective, the MDO must play a relevant role in the key areas of def
 
 Analysis must answer the maximum number of questions relating to various areas:
 
-* City residents: improving the general public’s satisfaction with municipal management, the rationalisation of processes, increased efficiency, adaptation to new needs.
+* City residents: improving the general public's satisfaction with municipal management, the rationalisation of processes, increased efficiency, adaptation to new needs.
 * Internal management: integrating analysis into applications and indicators.
 * Risk management: enriching services with advanced analysis.
 * Dissemination: providing higher value and quality to analytical products in service to the community, such as open data and statistics.
 
-Along these lines, the *MDO* has the mission of changing the organisation’s internal culture regarding data management in its projects.
+Along these lines, the *MDO* has the mission of changing the organisation's internal culture regarding data management in its projects.
 Given that the data and technology associated with this discipline are very new, the DMO must provide data-based analytical consultancy and solution services to the other units.
 These services must be accompanied by appropriate courses, ensuring that every City Council unit is progressively trained, so that they understand the methodology of a data-based qualitative focus on city problems.
 It must also lead an internal transformation, in order to “evangelise” the organisation in data culture, by means of internal workshops and seminars.
@@ -262,7 +262,7 @@ It is an instrument for evaluating and designing housing policies and designing 
 
 == Barcelona Data Exchange: external data enhancing
 
-Barcelona City Council collects and regularly publishes an important set of data, statistics, indicators and sectoral studies concerning the city and its surrounding area, so that urban leaders, people in the field of research, consultancies and the entrepreneur community and the general public can get precise knowledge about the city, socio-demographic dynamics, the economy, the urban area, the general public’s opinion on various subjects, etc.
+Barcelona City Council collects and regularly publishes an important set of data, statistics, indicators and sectoral studies concerning the city and its surrounding area, so that urban leaders, people in the field of research, consultancies and the entrepreneur community and the general public can get precise knowledge about the city, socio-demographic dynamics, the economy, the urban area, the general public's opinion on various subjects, etc.
 
 The objective of this work is to create the BCN Data Exchange, an essential part of data commons, and to organise, centralise and improve the formats, the reusability (through interoperability) and access to the data published by the City Council, from a technical perspective (based on City OS) and a relational perspective, and establish contact with groups of Barcelona data users and reusers and attempt to show our concept of data as a public asset that must be shared under clear and transparent regulations.
 
@@ -274,31 +274,31 @@ This line of action includes tasks dedicated to processing and publishing city d
 
 A major part of this information, which includes data of various kinds and formats (raw data, indicators, statistical tables, opinion studies, surveys, maps, sectoral analyses, etc.), is collected and published manually or semi-automatically through various municipal departments and websites.
 
-* *BCN Statistics*, which includes access to nearly 36,000 of the city’s statistical tables, information by district and neighbourhood, the historical archive of statistics year books in PDF, as well as an application for consulting and the dynamic generation of displays.
-Barcelona City Council’s Statistics Department specialises in the theory and practice of collecting data and the analyses and presentations needed to turn them into useful information.
+* *BCN Statistics*, which includes access to nearly 36,000 of the city's statistical tables, information by district and neighbourhood, the historical archive of statistics year books in PDF, as well as an application for consulting and the dynamic generation of displays.
+Barcelona City Council's Statistics Department specialises in the theory and practice of collecting data and the analyses and presentations needed to turn them into useful information.
 
 * *Open Data BCN* began in 2010.
 The portal was presented in 2011, in order to make certain datasets available to the general public, including open data, or opening up public sector information and allowing access and reuse for the common good and for the benefit of interested individuals and organisations.
-The Open Data BCN project, which covers various pillars of the city’s strategy, is based on the main international standards and recommendations and adopts some characteristics that sum up the principles of this movement.
+The Open Data BCN project, which covers various pillars of the city's strategy, is based on the main international standards and recommendations and adopts some characteristics that sum up the principles of this movement.
 
-* *BCNROC* is Barcelona City Council’s open-access institutional repository, through which the Council provides free access to its public digital documents.
+* *BCNROC* is Barcelona City Council's open-access institutional repository, through which the Council provides free access to its public digital documents.
 BCNROC is an advanced search engine, using modern search technology, that includes extensive descriptive metadata in order to ensure that individual users have a good experience in searching for and reusing information.
 BCNROC eliminates economic, technological and legal barriers for accessing municipal digital documents and it aims to guarantee permanent access to those digital files.
 This tool makes it possible to collect, store, manage, share, transform and disseminate municipal information resources and the associated metadata, as well as facilitating searches and being able to access and reuse them at a later date.
 
 * *CBAB* is the catalogue of Barcelona City Council libraries that contains descriptive metadata on the internal and external information resources that Barcelona City Council needs for its everyday work, and offers a direct link to online resources, which are available to the council and all city residents, who can consult them directly or ask to borrow them through SEDAC.
 
-* *Barcelona Economía* is the Barcelona City Council website that monitors the city’s economy, based on collection and evaluation of how the main situation indicators for Barcelona and its Metropolitan Area are behaving.
+* *Barcelona Economía* is the Barcelona City Council website that monitors the city's economy, based on collection and evaluation of how the main situation indicators for Barcelona and its Metropolitan Area are behaving.
 Barcelona Economia includes a large number of mainly economic tables and graphs, grouped by sub-themes, which are usually accompanied by a brief analysis, as well as PDF documents on the economic situation, historical publications, etc.
 
 * The *Survey and opinion-poll registry* includes opinion polls commissioned by the City Council on the evaluation of services, use of time, mobility, cultural consumption, etc.
 Some of the results are already included in the statistics portal, in table format, while others are in document format.
 
-* The *Geoportal* and web services for Barcelona City Council’s Spatial Data Infrastructure make municipal territorial information available through the website using Open Geospatial Consortium (OGC) standards.
+* The *Geoportal* and web services for Barcelona City Council's Spatial Data Infrastructure make municipal territorial information available through the website using Open Geospatial Consortium (OGC) standards.
 The need for creating a geoservice infrastructure stems from a demand for both internal and external management concerning the interoperability of territorial information.
 
 * *CartoBCN:* is a website for downloading Barcelona City Council cartography, aimed at end users.
-It is a Department of Basic Information and Cartography project which aims to become Barcelona City Council’s centre of cartographic production.
+It is a Department of Basic Information and Cartography project which aims to become Barcelona City Council's centre of cartographic production.
 
 With the aim of facilitating and promoting the use of all this accumulated information and knowledge, Barcelona City Council plans to design and set in motion *a new portal for consulting and exploring information*, based on City OS, which centralises all the currently managed and published information and documents in a single website, i.e. to create the *Barcelona Data Exchange*, with various objectives:
 
@@ -307,20 +307,20 @@ With the aim of facilitating and promoting the use of all this accumulated infor
 * To add new functions for consuming, sharing and disseminating information related to Barcelona, addressed to various user profiles: city residents, students, technical and research personnel, etc.
 * To open up a new environment for exploring and consulting information that is freer, more direct and more user-friendly.
 * To offer a new way of presenting more graphic and more interactive information, with greater capacity for sharing.
-* To have a new data architecture connected to the City Council’s City OS, which makes it possible to explore and show a diverse range of content (data in various formats for later exploration, PDF documents, pages and posts in HTML, etc.) and where it is easier to administer and manage content.
+* To have a new data architecture connected to the City Council's City OS, which makes it possible to explore and show a diverse range of content (data in various formats for later exploration, PDF documents, pages and posts in HTML, etc.) and where it is easier to administer and manage content.
 
 This new Barcelona data portal will be aimed at users with different profiles and needs, from municipal political and technical personnel, who need to have access to vital, complete information on the dynamics which affect their decision-making, to normal city residents who are looking for specific information or who are curious about some urban information or indicators.
 This involves controlling security, by applying various profiles and functions.
 Between these extremes there are researchers, journalists and students, who have different needs, in terms of the type, quantity and amount of detail given in city information.
 
-With regard to the city’s current data repository and website projects, the Barcelona Data Exchange will improve access to information and compliance with FAIR principles for open scientific data with interoperable data and standard formats.
+With regard to the city's current data repository and website projects, the Barcelona Data Exchange will improve access to information and compliance with FAIR principles for open scientific data with interoperable data and standard formats.
 
 * Improving the access and interoperability of municipal statistical data on the city as a system and its socio-economic, demographic and urban planning reality, with reliable statistical data that is efficient and up-to-date, and now interoperable and standardised.
 
 * As a central feature of the “Barcelona Digital City” data strategy, improving the functions of Open Data BCN will foster a plural digital economy with a new model of urban innovation based on the digital transformation and innovation of the public sector and collaboration between companies, administrations, the academic world, organisations, communities and people, with clear public and citizen leadership.
 
-* BCNROC’s current stock of municipal documents already acts as a sole repository, used by the other municipal websites that disseminate municipal documents, and it will now be incorporated into the Barcelona Data Exchange.
-It’s information is interoperable with other national and international open-access repositories, as it supports the OAI-PMH (Open Access Initiative Protocol for Metadata Harvesting) standards and protocols and enables the reuse of documents using the most open Creative Commons licenses possible.
+* BCNROC's current stock of municipal documents already acts as a sole repository, used by the other municipal websites that disseminate municipal documents, and it will now be incorporated into the Barcelona Data Exchange.
+It's information is interoperable with other national and international open-access repositories, as it supports the OAI-PMH (Open Access Initiative Protocol for Metadata Harvesting) standards and protocols and enables the reuse of documents using the most open Creative Commons licenses possible.
 It also complies with the Dublin Core metadata standards to help facilitate the Semantic Web.
 These principles will be extended to the other datasets, whose managers will be able to make good use of the experience and competence of those in charge of BCNROC.
 
@@ -329,12 +329,12 @@ These principles will be extended to the other datasets, whose managers will be 
 In this sense, initiatives for the external publication and evaluation of data include actions such as:
 
 * Using and correlating existing data-science initiatives under the name of the City Council, in order to generate a space in the Open Data BCN portal where selected scientists can contribute and maintain data.
-* Using the “NUMA DataCity” programme to set challenges for resolving city problems and promote the conscious positioning of the common-data programme’s objectives for entrepreneurs and emerging companies.
+* Using the “NUMA DataCity” programme to set challenges for resolving city problems and promote the conscious positioning of the common-data programme's objectives for entrepreneurs and emerging companies.
 * Opening WiFi data: an API service providing access to Barcelona WiFi data while also complying with privacy obligations.
 * Opening Sentilo data: will be made accessible to a wider public, with a protocol and API for official access to Sentilo, in order to consult information, and the appropriate documentation of all the datasets present on the platform.
 
 The emblematic projects in this area are:
 
 * *BCN Data Store:* this will be the public library for services, easy to use and scalable as the services offered by the Municipal Data Office are developed.
-* *BCNOpenData:* the improvements to BCNOpenData’s functionality make it possible to access and reuse the data generated or kept by public bodies, for the common good of interested people and organisations.
+* *BCNOpenData:* the improvements to BCNOpenData's functionality make it possible to access and reuse the data generated or kept by public bodies, for the common good of interested people and organisations.
 * *Data City Challenges:* ensuring the utmost efficiency in the services offered by the City Council, we will use datasets and the city as an experimental model for seeking solutions to major urban problems.

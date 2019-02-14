@@ -8,7 +8,7 @@ This measure is applicable to the following organisations and data.
 The municipal executive structure and its dependent bodies are responsible for putting the actions and requirements arising from this measure into practice.
 
 They are applicable to management activities that use any IT resources of any kind (unless expressly excluded) that collect, store, use or publish data, including information in paper and electronic mediums.
-When an organisation carries out an order or acts as a service provider, the ultimate responsibility for the application of this strategy’s requirements rests with the receiving management or organisation.
+When an organisation carries out an order or acts as a service provider, the ultimate responsibility for the application of this strategy's requirements rests with the receiving management or organisation.
 
 In regard to security and protection systems, the directives and executive orders defined in municipal guidelines and regulations must be applied.
 
@@ -18,7 +18,7 @@ The data referred to by this measure includes all municipal data, understood as 
 In regard to municipal data, it is possible to make a conceptual distinction between various large information deposits / information groups:
 
 * *Management, administrative and technical data.*
-These are the data groups that municipal manager’s offices and organisations use to carry out their missions.
+These are the data groups that municipal manager's offices and organisations use to carry out their missions.
 This data comes from, for example, files, sensors or city residents themselves.
 This group includes the concept of big data.
 
@@ -43,11 +43,11 @@ It is organised and accessible from the SEDAC corporate catalogue.
 
 When we talk about data today, we have to speak about technology.
 The Digital Transformation Plan (*DTP*) aims to change the way the City Council purchases and manages technology and interacts with the general public.
-At present, Barcelona is very attractive for technological companies of various sizes, and it is also generating new practices in the market in terms of business models that pivot on open code and open-service practices.footnote:[See the government measure of October 2017.] The DTP’s objective is to establish a playing field where SMEs and other economic players that are not large corporations can enter the “game” with a chance of winning tenders related to technology and data.
-This has the advantage of diversifying the City Council’s suppliers, avoiding the closure of suppliers and also promotes a circular economy, where the benefits of public money are reinvested in city stakeholders, while the public money invested in developing services is kept open in a predetermined way for the community.
-Therefore, the link between the purchasing of data and technology is important because of the programme’s scope, although this is obviously not the main concern.
+At present, Barcelona is very attractive for technological companies of various sizes, and it is also generating new practices in the market in terms of business models that pivot on open code and open-service practices.footnote:[See the government measure of October 2017.] The DTP's objective is to establish a playing field where SMEs and other economic players that are not large corporations can enter the “game” with a chance of winning tenders related to technology and data.
+This has the advantage of diversifying the City Council's suppliers, avoiding the closure of suppliers and also promotes a circular economy, where the benefits of public money are reinvested in city stakeholders, while the public money invested in developing services is kept open in a predetermined way for the community.
+Therefore, the link between the purchasing of data and technology is important because of the programme's scope, although this is obviously not the main concern.
 
-In this sense, this measure’s provisions must be applied to all acquisition and technology and service management contracts that work with data.
+In this sense, this measure's provisions must be applied to all acquisition and technology and service management contracts that work with data.
 City Council organisations will have to detail in the application specifications the responsibilities of suppliers regarding data and, where appropriate, their function as the people responsible for data processing.
 
 Furthermore, these provisions are extended to all City Council interactions with the “community” involved, i.e. all the possible reusers or proactive consumers (prosumers) of the data that the City Council makes public as open data: activists, data journalists, NGOs, foundations and associations in a non-economic environment, as well as business people, emerging companies, companies related to information sciences and major companies in the business world, and finally, academic research institutes.

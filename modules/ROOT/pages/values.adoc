@@ -1,61 +1,61 @@
 include::_partials/README.adoc[tag=metadata]
 = Valors essencials del programa
 
-L’actual facilitat per a captar dades, la ubiqüitat i el volum de les mateixes, així com les possibilitats que la ciència de dades està obrint noves perspectives, especialment en referència a la provisió de serveis, també facilita la segmentació de persones, la identificació i la vigilància de les mateixes.
+L'actual facilitat per a captar dades, la ubiqüitat i el volum de les mateixes, així com les possibilitats que la ciència de dades està obrint noves perspectives, especialment en referència a la provisió de serveis, també facilita la segmentació de persones, la identificació i la vigilància de les mateixes.
 Això planteja molts interrogants i desafiaments a la societat en general, i en particular a les administracions públiques.
-La dimensió virtual i la sobirania dels ciutadans en aquest àmbit, és un tema d’interès per les implicacions que aquests aspectes poden tenir en el món analògic, i les administracions han d’estar preparades i dedicar esforços per compondre una estratègia consistent en aquest àmbit.
-Això ha de permetre assegurar la democràcia, els plens drets dels ciutadans i la confiança d’aquest envers les institucions públiques.
+La dimensió virtual i la sobirania dels ciutadans en aquest àmbit, és un tema d'interès per les implicacions que aquests aspectes poden tenir en el món analògic, i les administracions han d'estar preparades i dedicar esforços per compondre una estratègia consistent en aquest àmbit.
+Això ha de permetre assegurar la democràcia, els plens drets dels ciutadans i la confiança d'aquest envers les institucions públiques.
 
 == Els valors essencials
 
 Les dades municipals són un actiu estratègic i un recurs valuós que habilita al govern local a dur a terme la seva missió i programes de forma efectiva.
-L’accés apropiat a les dades municipals millora significativament el valor de la informació i el retorn de la inversió de la seva generació.
-Seguint el pla «Barcelona Ciutat Digital»footnote:[Accessible a http://www.slideshare.net/Barcelona_cat/pla‐barcelona‐ciutat‐digital.]  i el seu èmfasi en la innovació pública, l’economia digital i l’apoderament ciutadà, les següents consideracions sustenten aquesta Estratègia de Gestió de Dades.
+L'accés apropiat a les dades municipals millora significativament el valor de la informació i el retorn de la inversió de la seva generació.
+Seguint el pla «Barcelona Ciutat Digital»footnote:[Accessible a http://www.slideshare.net/Barcelona_cat/pla‐barcelona‐ciutat‐digital.]  i el seu èmfasi en la innovació pública, l'economia digital i l'apoderament ciutadà, les següents consideracions sustenten aquesta Estratègia de Gestió de Dades.
 
-Dins d’aquest context, la nova gestió i ús de les dades han de respectar i complir amb els valors essencials aplicables a les dades. Per a l’Ajuntament de Barcelona, aquests valors són:
+Dins d'aquest context, la nova gestió i ús de les dades han de respectar i complir amb els valors essencials aplicables a les dades. Per a l'Ajuntament de Barcelona, aquests valors són:
 
 * *Coneixement municipal compartit*.
- Les dades municipals, en el seu sentit més ampli, tenen una gran dimensió social i proveeixen a la ciutadania coneixement –passat, present i futur– del govern, la ciutat, la societat, l’economia i el medi ambient.
+ Les dades municipals, en el seu sentit més ampli, tenen una gran dimensió social i proveeixen a la ciutadania coneixement –passat, present i futur– del govern, la ciutat, la societat, l'economia i el medi ambient.
 
 * *Valor estratègic de les dades*:
- Gestionar les dades com a valor estratègic per a la Corporació amb visió innovadora per convertir-les en actius intel·lectuals de l’organització.
+ Gestionar les dades com a valor estratègic per a la Corporació amb visió innovadora per convertir-les en actius intel·lectuals de l'organització.
 
 * *Orientat a resultats*.
- Les dades municipals també són un mitjà per assegurar la rendició de resultats i la transparència de l’administració, per gestionar els serveis i les inversions, per mantenir i millorar el rendiment de l’economia, la riquesa i el benestar dels ciutadans.
+ Les dades municipals també són un mitjà per assegurar la rendició de resultats i la transparència de l'administració, per gestionar els serveis i les inversions, per mantenir i millorar el rendiment de l'economia, la riquesa i el benestar dels ciutadans.
 
 * *Dades com a bé comú*.
- La ciutadania i el bé comú ha d’estar en el cor dels plans i les plataformes tecnològiques del municipi de Barcelona.
+ La ciutadania i el bé comú ha d'estar en el cor dels plans i les plataformes tecnològiques del municipi de Barcelona.
 Les dades són una font de riquesa que apodera a qui hi accedeix.
-Fer possible el control ciutadà de les dades, minimitzar l’escletxa digital i evitar pràctiques discriminatòries o no ètiques és l’essència de la sobirania tecnològica municipal.
+Fer possible el control ciutadà de les dades, minimitzar l'escletxa digital i evitar pràctiques discriminatòries o no ètiques és l'essència de la sobirania tecnològica municipal.
 
 * *Transparència i Interoperabilitat*
  Les institucions públiques han de ser obertes, transparents i responsables amb la ciutadania.
- La promoció de l’obertura i la interoperabilitat, subjecta als requeriments tècnics i legals, incrementa l’eficiència de les operacions, redueix els costos, millora els serveis, suporta les necessitats i incrementen l’accés públic a la informació municipal de valor, i d’aquesta manera, promocionant la participació pública en el govern.
+ La promoció de l'obertura i la interoperabilitat, subjecta als requeriments tècnics i legals, incrementa l'eficiència de les operacions, redueix els costos, millora els serveis, suporta les necessitats i incrementen l'accés públic a la informació municipal de valor, i d'aquesta manera, promocionant la participació pública en el govern.
 
-* *Reutilització i llicències d’ús obertes.*
- Fer la informació municipal accessible, usable per totes i tots per defecte, sense haver de demanar permís previ per fer-ho i analitzable per a qui ho desitgi, pot alimentar l’emprenedoria, la innovació social i digital, els lloc de treball i l’excel·lència en la recerca científica, millorar la vida dels ciutadans de Barcelona i contribuir de forma significativa en l’estabilitat i la prosperitat de la ciutat.
+* *Reutilització i llicències d'ús obertes.*
+ Fer la informació municipal accessible, usable per totes i tots per defecte, sense haver de demanar permís previ per fer-ho i analitzable per a qui ho desitgi, pot alimentar l'emprenedoria, la innovació social i digital, els lloc de treball i l'excel·lència en la recerca científica, millorar la vida dels ciutadans de Barcelona i contribuir de forma significativa en l'estabilitat i la prosperitat de la ciutat.
 
 * *Qualitat i seguretat.*
- El govern de la ciutat ha de prendre passos ferms per tal d’assegurar i maximitzar la qualitat, l’objectivitat, la utilitat, la integritat i la seguretat de la informació municipal abans de disseminar-la i mantenir els processos per tal d’efectuar les peticions d’esmena de la informació disseminada públicament.
+ El govern de la ciutat ha de prendre passos ferms per tal d'assegurar i maximitzar la qualitat, l'objectivitat, la utilitat, la integritat i la seguretat de la informació municipal abans de disseminar-la i mantenir els processos per tal d'efectuar les peticions d'esmena de la informació disseminada públicament.
 
 * *Organització responsable.*
- Per afegir valor a les dades i transformar-les en un actiu amb l’objectiu de promoure la rendició de comptes i els drets de la ciutadania, calen noves accions, nous procediments integrats amb que les noves plataformes creixin de forma orgànica, transversal i transparent.
+ Per afegir valor a les dades i transformar-les en un actiu amb l'objectiu de promoure la rendició de comptes i els drets de la ciutadania, calen noves accions, nous procediments integrats amb que les noves plataformes creixin de forma orgànica, transversal i transparent.
  Una estratègia de governança comprensiva és la que possibilita la promoció de la revisió, evita les redundàncies, els increments del cost, la ineficiència o les males practiques.
 
 * *Cura del cicle de vida de les dades.*
-L’atenció a la gestió dels registres municipals des de la creació fins a la seva destrucció o preservació és un component essencial de la gestió de dades de promoció de la responsabilitat pública.
-Les accions de curació durant el cicle de vida, unides a les activitats que asseguren l’accés continuat als materials digitals tant temps com sigui necessari, ajuda a l’explotació analítica de les dades però, també a la protecció responsable dels registres històrics del govern municipal i salvaguarda els drets econòmics i legals del govern i de la ciutadania.
+L'atenció a la gestió dels registres municipals des de la creació fins a la seva destrucció o preservació és un component essencial de la gestió de dades de promoció de la responsabilitat pública.
+Les accions de curació durant el cicle de vida, unides a les activitats que asseguren l'accés continuat als materials digitals tant temps com sigui necessari, ajuda a l'explotació analítica de les dades però, també a la protecció responsable dels registres històrics del govern municipal i salvaguarda els drets econòmics i legals del govern i de la ciutadania.
 
 * *Privacitat “des del disseny”.*
 Protegir la privacitat és de màxima importància.
-L’Ajuntament ha de considerar i protegir la privacitat individual i col·lectiva durant el cicle de vida de les dades de forma sistemàtica i comprovable, tal com s’especifica en el Reglament General de Protecció de Dades (Reglament 2016/679 del Parlament Europeu i del Consell), amb una èmfasi particular en el consentiment informat, minimització de la informació, limitació al propòsit, explicable, segura, i ajustada a la llei.
+L'Ajuntament ha de considerar i protegir la privacitat individual i col·lectiva durant el cicle de vida de les dades de forma sistemàtica i comprovable, tal com s'especifica en el Reglament General de Protecció de Dades (Reglament 2016/679 del Parlament Europeu i del Consell), amb una èmfasi particular en el consentiment informat, minimització de la informació, limitació al propòsit, explicable, segura, i ajustada a la llei.
 
 * *Seguretat.* La informació municipal és un actiu estratègic subjecte a riscos i ha de ser gestionat per tal de minimitzar-los.
-Això inclou privacitat, protecció de les dades, discriminació algorítmica i riscos de ciber-seguretat que cal fixar de forma específica, promovent arquitectures de dades ètiques i responsables, tècniques de millora de la privacitat i l’avaluació dels efectes socials.
+Això inclou privacitat, protecció de les dades, discriminació algorítmica i riscos de ciber-seguretat que cal fixar de forma específica, promovent arquitectures de dades ètiques i responsables, tècniques de millora de la privacitat i l'avaluació dels efectes socials.
 Mentre que la seguretat i la privacitat són dues disciplines separades i independents, estan fortament relacionades i és essencial per a les unitats prendre una aproximació coordinada per identificar i gestionar la ciber-seguretat i els riscos sobre la privacitat amb requeriments i estàndards aplicables.
 
 * *Sobirania tecnològica.*
-Quan es planifiqui, pressuposti o es compri nou equipament, recursos de TI o infraestructures o serveis de suport, el procés de contractació i els plecs procedents han d’estar en línia amb les prioritats del Pla «Barcelona Ciutat Digital».
+Quan es planifiqui, pressuposti o es compri nou equipament, recursos de TI o infraestructures o serveis de suport, el procés de contractació i els plecs procedents han d'estar en línia amb les prioritats del Pla «Barcelona Ciutat Digital».
 Per complir amb l'objectiu de sobirania tecnològica enunciada en l'Estratègia de transformació digital àgil i els estàndards de serveis digitals, especialment per evitar la dependència de proveïdors _(vendor lock-in)_, les directrius són expandir els principis que guien l'IMI en matèria de tecnologia i innovació: interoperabilitat, agilitat, ètica i obertura de coneixements i tecnologies (tant programari com dades).
 
 * *Estàndards oberts.*
@@ -63,14 +63,11 @@ Per complir amb l'objectiu de sobirania tecnològica enunciada en l'Estratègia 
  Quan no hi hagi un estàndard obert aprovat per al format requerit es presentarà una proposta del format que es vol utilitzar, atenent al que estableix la normativa aplicable i els requisits per a estàndards oberts de l'IMI.
 
 * *Metodologia Àgil.*
- Els projectes tecnològics que s’hagin de desenvolupar al voltant de la gestió, anàlisi i difusió de dades corporatives caldrà que es realitzin de forma preferent seguint la metodologia tal i com està definida en el xref:{lang}/tech-practices:ROOT:aim-and-scope.adoc[Codi de Pràctiques Tecnològiques], publicat a la Mesura de Govern de l’Ajuntament de Barcelona en octubre del 2017.
-////
-* *Agile methodology*.
-The technological projects that are implemented for the management, analysis and dissemination of council data must preferably be carried out in accordance with the methodology defined in the xref:{lang}/tech-practices:ROOT:aim-and-scope.adoc[Technology Code of Practice], published in the corresponding Barcelona City Council government measure in October 2017.
-////
+ Els projectes tecnològics que s'hagin de desenvolupar al voltant de la gestió, anàlisi i difusió de dades corporatives caldrà que es realitzin de forma preferent seguint la metodologia tal i com està definida en el xref:{lang}/tech-practices:ROOT:aim-and-scope.adoc[Codi de Pràctiques Tecnològiques], publicat a la Mesura de Govern de l'Ajuntament de Barcelona en octubre del 2017.
+
 == Data sovereignty
 
-“Data sovereignty” is a concept linked to German constitutional law, people’s right to their own information (where digital information concerning an individual is not subject to the control of a third party, and in particular, of people or systems that treat data in a third country, with regulations that are alien to the location of that individual)
+“Data sovereignty” is a concept linked to German constitutional law, people's right to their own information (where digital information concerning an individual is not subject to the control of a third party, and in particular, of people or systems that treat data in a third country, with regulations that are alien to the location of that individual)
 
 Most of the current concerns about data sovereignty refer to compliance with privacy regulations and preventing data stored in a foreign country from being intercepted by the government of the host country or of that government having access to it.
 But the concept of data sovereignty is broader than this international dimension and it involves the need for an individual to have control, at all times and in all relevant systems, over the collection, storage, use, transfer and publication of their data, whether it be of a technical, scientific, economic, social or personal nature.
@@ -80,26 +77,26 @@ As one of the main objectives of using the cloud is to enable access to informat
 
 Data sovereignty presents technical and legal challenges when local systems and stores of third-party information are moved, particularly to the cloud.
 
-In this context, the City Council’s information systems have to be determined and configured at all times, in order to guarantee the City Council’s sovereignty over its data, and in particular, over the (personal) data of the city’s residents, which is administered by the City Council for providing its services.
+In this context, the City Council's information systems have to be determined and configured at all times, in order to guarantee the City Council's sovereignty over its data, and in particular, over the (personal) data of the city's residents, which is administered by the City Council for providing its services.
 The City Council has to have the ability, at all times, to access its data, process it and make “local” security copies.
-Furthermore the City Council’s organisations and bodies must always respect the applicable data protection regulations regarding the access to and treatment of data by third parties, as well as international data transfers.
+Furthermore the City Council's organisations and bodies must always respect the applicable data protection regulations regarding the access to and treatment of data by third parties, as well as international data transfers.
 
 == The ethical use of data
 
 Barcelona City Council is committed to the ethical use of data.
 This principle is structured in accordance with the following main values:
 
-* Transparency: at all times, both the City Council and the city’s residents know why and for whom the data is being collected, and the applicable measures for guaranteeing its ethical use.
+* Transparency: at all times, both the City Council and the city's residents know why and for whom the data is being collected, and the applicable measures for guaranteeing its ethical use.
 * Tracing: at all times the City Council knows the origin of the data, its permitted uses and the applicable restrictions.
 * Diligence: collaborators and the providers of data-related services comply with the same principles and obligations as the City Council, and the City Council oversees this compliance.
 * Privacy: any use of personal data must comply with data-protection regulations, and in particular with the principles applicable to its treatment, including fairness, integrity and accuracy, purpose limitation and data minimisation.
-* Trust: data must always be used in accordance with the general public’s expectations, and the City Council must implement control and feedback systems to gauge this compliance.
+* Trust: data must always be used in accordance with the general public's expectations, and the City Council must implement control and feedback systems to gauge this compliance.
 * Responsibility: The City Council assumes responsibility for all data uses that are undertaken.
 * Benefit: the data must always be used for the benefit of city residents and society.
 
 All projects that involve the processing of city data must comply with these principles.
 
-Furthermore, many of today’s operations and decisions, which used to be carried out by human beings, are increasingly being delegated to algorithms, which can advise, if not decide, how the collected data should be interpreted and processed by information systems and what actions should be taken as a result.
+Furthermore, many of today's operations and decisions, which used to be carried out by human beings, are increasingly being delegated to algorithms, which can advise, if not decide, how the collected data should be interpreted and processed by information systems and what actions should be taken as a result.
 More and more often, these algorithms affect social processes, business transactions and governmental decisions, as well as the way we perceive, understand and interact with each other and our surroundings.
 The differences between the design and operation of these algorithms and our understanding of what they involve can have serious ethical consequences that affect individual people and groups of citizens.
 It is essential for the decisions made by the City Council using algorithms based on our data to be accountable (applying the concept of algorithmic accountability) and that they ensure the ethical principles of respecting rights, justice, the concept of fairness, well-being and virtue.
@@ -110,8 +107,8 @@ As part of this measure, a DMO working group will be set up to identify the subj
 * Due process: the right of city residents to take action and initiate appeals relating to data processing and the automated decisions that affect them.
 * Accountability and proportionality: ensuring that automated decisions are fair and proportional, and that they do not prejudice city residents (in particular, that they are not discriminatory in any way).
 
-Within this context, algorithmic accountability is supported by the transparency of the City Council’s open source code IT systems involved in decision-making (or for supporting decision-making).
+Within this context, algorithmic accountability is supported by the transparency of the City Council's open source code IT systems involved in decision-making (or for supporting decision-making).
 Wherever possible, projects based on data (data driven) will be able to check the algorithms using simulations based on city data.
 Likewise, using open source code or other means, third-party technology suppliers must reveal the underlying logic behind any IT process for automated decisions (or for supporting decision-making) pertaining to any of their systems used by the City Council.
 
-Ethical values and principles must be considered as intrinsic features of the City Council’s data model and data governance, and the working group will help to build this data model and appropriate controls for its governance, and to establish a process for providing an ethical evaluation of any development project.
+Ethical values and principles must be considered as intrinsic features of the City Council's data model and data governance, and the working group will help to build this data model and appropriate controls for its governance, and to establish a process for providing an ethical evaluation of any development project.
