@@ -92,7 +92,7 @@ Els ens dependents municipals hauran de gestionar les dades de forma responsable
 Han de col·laborar amb les altres entitats en la promoció d'uns serveis públics eficients per tal de complir amb totes les polítiques de transparència, les que fan relació a la privacitat, seguretat, privacitat i accessibilitat.
 
 Específicament, els ens han de complir tots el processos establerts pel DPD per al compliment rigorós de la normativa de protecció de dades.
-Caldrà minimitzar la col·lecció de dades personals, aplicar anonimització o seudonimització sempre que sigui possible, obtenint el consentiment dels interessats, considerant els impactes de cada acció en cadascun dels moments del cicle de vida de les dades sobre cadascun dels altres moments o interessats.
+Caldrà minimitzar la col·lecció de dades personals, aplicar anonimització o pseudonimització sempre que sigui possible, obtenint el consentiment dels interessats, considerant els impactes de cada acció en cadascun dels moments del cicle de vida de les dades sobre cadascun dels altres moments o interessats.
 
 === Principis rectors de la gestió ètica i responsable de dades
 
@@ -131,7 +131,7 @@ El projecte permet descarregar dades en formats oberts, navegar des de les dades
 
 === Inventari
 
-Les unitats hauran de mantenir un inventari footnote:[l'Inventari de cada unitat s'integrarà a un inventari general del grup municipal.]  dels majors sistemes d'informació, els seus contenidors i les eines de disseminació amb un nivell de detall que es determini per tal de supervisar i gestionar-los.
+Les unitats hauran de mantenir un inventari footnote:[L'Inventari de cada unitat s'integrarà a un inventari general del grup municipal.]  dels majors sistemes d'informació, els seus contenidors i les eines de disseminació amb un nivell de detall que es determini per tal de supervisar i gestionar-los.
 Caldrà identificar en aquest inventari els conjunts de dades amb informació de caràcter personal i es determinaran procediments per tal de permetre revisar regularment que aquestes dades tenen la qualitat necessària, que es pot donar resposta als drets dels interessats, i que siguin les mínimes imprescindibles per tal desenvolupar les competències i funcions de la unitat.
 D'altra banda, cada unitat haurà de mantenir informat un registre que reculli totes les accions sobre les bases de dades tant de gestió com analítiques.
 L'Oficina Municipal de Dades determinarà la meta-informació d'aquestes sistemes.
@@ -142,7 +142,7 @@ Les unitats i els ens dependents hauran de poder facilitar de manera continuada 
 
 === Gestió de riscos
 
-Les unitats hauran de considerar les mesures de seguretat de la informació i les dades, de la gestió de registres, transparència, avaluació d'impacte i les cadenes de subministraments i fer-ho durant tot el cicle de dades de forma que els riscos estiguin avaluats i gestionats; han de desenvolupar un pla en coordinació amb el Delegat de Protecció de Dades, el CDO i el CTID de manera que els sistemes d'informació estiguin degudament protegits i securitzats i alhora tinguin el màxim nivell de prioritat les accions d'actualització, revisió, reemplaçament o retirada.footnote:[Inclou maquinari, programari, o components de microprogramari no mantinguts pels seus desenvolupadors, venedors o fabricants mitjançant la disponibilitat de pedaços de programari, actualitzacions de micro programari, recanvis i contractes de manteniment.]
+Les unitats hauran de considerar les mesures de seguretat de la informació i les dades, de la gestió de registres, transparència, avaluació d'impacte i les cadenes de subministraments i fer-ho durant tot el cicle de dades de forma que els riscos estiguin avaluats i gestionats; han de desenvolupar un pla en coordinació amb el Delegat de Protecció de Dades, el CDO i el CTID de manera que els sistemes d'informació estiguin degudament protegits i _securitzats_ i alhora tinguin el màxim nivell de prioritat les accions d'actualització, revisió, reemplaçament o retirada.footnote:[Inclou maquinari, programari, o components de microprogramari no mantinguts pels seus desenvolupadors, venedors o fabricants mitjançant la disponibilitat de pedaços de programari, actualitzacions de micro programari, recanvis i contractes de manteniment.]
 També cal que es revisi de forma periòdica i es reportin els riscos sobre processos, persones i tecnologies.
 
 
@@ -164,8 +164,8 @@ Així, l'Ajuntament ha d'avançar cap a un model de dades agrupades des de les d
 Aquests únics punts d'ingesta o d'accés permetrà enfortir la seguretat i tenir una millor traçabilitat.
 A més, el _data lake_, que ha d'estar basat en infraestructura _Big Data_, ha de permetre disposar d'un mapa precís de les dades de l'Ajuntament.
 Això implica que el CDO prioritzarà els possibles desenvolupaments o definicions de data-sets i els drets d'accés i explotació de les dades que s'inclouen o s'exclouen del _data lake_.
-També serà el responsable d'assegurar la qualitat de les dades. Aquest data lake és el projecte emblemàtic actual CityOS.
-
+També serà el responsable d'assegurar la qualitat de les dades. Aquest data lake és el projecte emblemàtic actual *CityOS*.
+//Revisar idioma d'imatge
 image::CityOS_infograph_{lang}.svg[Diagrama conceptual de CityOS]
 Diagrama conceptual de CityOS
 
@@ -204,7 +204,7 @@ Aprofitant noves ofertes d'infraestructures clau, adaptar-les a un nou estàndar
 == Innovació interna basada en les dades: analítica i projectes “data driven”
 
 La importància de les dades en l'administració no para de pujar.
-Cal dissenyar una estratègia que perduri en el temps per a la realització de projectes de l'Ajuntament basades en l'explotació innovadora de les dades, fent una millora analítica i utilitzant metodologies de Big Data, per a no quedar‐nos enrere respecte a la societat i el sector privat.
+Cal dissenyar una estratègia que perduri en el temps per a la realització de projectes de l'Ajuntament basades en l'explotació innovadora de les dades, fent una millora analítica i utilitzant metodologies de _Big Data_, per a no quedar‐nos enrere respecte a la societat i el sector privat.
 En aquest sentit, és bo aprendre d'experiències avançades en aquest àmbit, on els Estats Units en son un bon exemple.footnote:[Per exemple, veure el document https://ash.harvard.edu/links/lessons-leading-cdos-framework-better-civic-analytics [Maig 2017]
 
 Les organitzacions modernes es caracteritzen per la necessitat de gestionar els seus serveis i processos basats en un conjunt de bases de dades que s'han multiplicat en els darrers anys i no deixaran de créixer en un futur proper.
@@ -259,7 +259,7 @@ L'Ajuntament de Barcelona recull i publica regularment un important conjunt de d
 
 L'objectiu d'aquesta línia de treball és crear el BCN Data Exchange, element essencial del *_Data Commons_*, a la vegada que organitza, centralitza i millora els formats, la re-usabilitat (mitjançant la interoperabilitat) i l'accés a aquestes dades publicades per l'Ajuntament, tant des de la perspectiva tècnica (basada en el CityOS), com relacional, establint contactes amb els grups d'usuaris i re-usuaris (_«reusers»_) de dades de Barcelona i tractar de mostrar la nostra visió de dades com a bé públic, que ha de compartir-se sota unes regles clares i transparents.
 
-El projecte de BCN Data Exchange vol connectar la Ciutat amb els actors més interessats en les dades (_stakeholders_), comprendre la seva percepció i intentar construir un marc que encoratgi l'ús responsable de les mateixes, on les dades es veuen com una oportunitat sobre la que treballar per a a la construcció de solucions i serveis, i no com un bé propietari que ofereix una avantatge competitiva i.
+El projecte de BCN Data Exchange vol connectar la Ciutat amb els actors més interessats en les dades (_stakeholders_), comprendre la seva percepció i intentar construir un marc que encoratgi l'ús responsable de les mateixes, on les dades es veuen com una oportunitat sobre la que treballar per a la construcció de solucions i serveis, i no com un bé propietari que ofereix una avantatge competitiva i.
 A més, la Ciutat escoltarà les seves aportacions sobre qüestions relacionades amb les ofertes públiques i les pràctiques d'intercanvi de dades.
 
 
@@ -287,7 +287,7 @@ Barcelona Economia inclou nombroses taules i gràfiques, essencialment econòmiq
 Alguns dels resultats estan ja incorporats en format taules al portal d'estadístiques, mentre que d'altres estan en format document.
 
 * *Geoportal BCN.* El Geoportal i els serveis web de la Infraestructura de Dades Espacials de l'Ajuntament de Barcelona permetran posar a l'abast la informació territorial municipal a través del web, fent servir els estàndards de l'Open Geospatial Consortium (OGC).
-La necessitat de crear una infraestructura de geoserveis es fonamenta tant per una demanda de gestió interna com externa en l'àmbit de la interoperabilitat de la informació territorial.
+La necessitat de crear una infraestructura de geo-serveis es fonamenta tant per una demanda de gestió interna com externa en l'àmbit de la interoperabilitat de la informació territorial.
 
 * *CartoBCN.* És la web de descàrregues de cartografia de l'Ajuntament de Barcelona, destinada a l'usuari final, un projecte del Departament d'Informació de Base i Cartografia, amb l'objectiu de convertir-se en el centre de producció cartogràfica de l'Ajuntament de Barcelona.
 
@@ -325,6 +325,6 @@ En aquest sentit, les iniciatives per a la publicació i posada en valor «exter
 
 Els projectes emblemàtics en aquest eix:
 
-* *BCN Data Store:* serà la biblioteca pública de serveis, fàcil d'usar i escalable a mesura que els serveis oferts per l'Oficina Municipal de Dades vagin desenvolupant-se.
-* *BCNOpenData:* millores en les funcionalitats de BNCOpenData que permetent l'accés i reutilització per al bé comú i per al benefici de persones i entitats interessades de les dades generades o custodiades pels organismes públics.
-* *Data City Challenges:* procurant la millor l'eficiència en els serveis que proveeix l'Ajuntament, utilitzarem conjunts de dades i la ciutat com a model d'experimentació, per a cercar solucions als principals reptes urbans
+* *_BCN Data Store:_* serà la biblioteca pública de serveis, fàcil d'usar i escalable a mesura que els serveis oferts per l'Oficina Municipal de Dades vagin desenvolupant-se.
+* *_BCNOpenData:_* millores en les funcionalitats de BNCOpenData que permetent l'accés i reutilització per al bé comú i per al benefici de persones i entitats interessades de les dades generades o custodiades pels organismes públics.
+* *_Data City Challenges:_* procurant la millor l'eficiència en els serveis que proveeix l'Ajuntament, utilitzarem conjunts de dades i la ciutat com a model d'experimentació, per a cercar solucions als principals reptes urbans

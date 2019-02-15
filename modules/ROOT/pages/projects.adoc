@@ -8,11 +8,11 @@ Aquests projectes, tenen com a eix vertebrador la creació de l'Oficina Municipa
 En aquesta secció presentem els projectes més rellevants que es duran a terme, algun dels quals ja es troben en fase avançada en relació amb aquest programa de dades, i que pel seu contingut i rellevància, anomenen projectes emblemàtics, fent una breu descripció de cada un d'ells.
 
 |===
-| . Oficina Municipal de Dades  | . City OS
-| . Open Data BCN | . Decode
-| . Data City Challenge | . Data Exchange
-| . Quadre de Comandament Gerència Municipal | . Monitoratge de la Gentrificació
-| . Cens d'Activitats Econòmiques  | .	Observatori de l'habitatge
+| 1. Oficina Municipal de Dades  | 2. City OS
+| 3. Open Data BCN | 4. Decode
+| 5. Data City Challenge | 6. Data Exchange
+| 7. Quadre de Comandament Gerència Municipal | 8. Monitoratge de la Gentrificació
+| 9. Cens d'Activitats Econòmiques  | 10.	Observatori de l'habitatge
 |===
 
 == Oficina Municipal de Dades
@@ -109,5 +109,42 @@ Es vol contribuir, d'una banda a completar els "forats negres" d'informació, i 
 
 A continuació és presenta el calendari d'execució dels projectes emblemàtics relatius a la nova estratègia de dades municipal.
 
-//No trobem la imatge en català.
+////
+ No trobem la imatge en català.
 image::schedule.svg[Schedule, width=70%]
+////
+
+|===
+2.2+| Projecte 2.2+|Pressupost 2018 4.+| 2018 2.+|2019
+.1+|T1 |T2 |T3 |T4 |T1 |T2
+2.+| Oficina Municipal de Dades
+2.+|680 K|X|X|X|X| |
+
+2.+|Serveis CityOS
+2.+|1.132 K|X|X|X|X|X|X
+
+2.+|BCNOpenData
+2.+|56 K|X|X|X|X|X|X
+
+2.+|DECODE
+2.+|545 K|X|X|X|X||
+
+2.+|Data City Challenges
+2.+|180 K|X|X|X|X|X|
+
+2.+|BCN Data Exchange
+2.+|130 K|X|X||||
+
+2.+|Quadre de Comandament per a la gerència municipal
+2.+|235 K|X|X|X|||
+
+2.+|Monitoratge Gentrificació
+2.+|Recursos Propis|X|X|X|X|X |
+
+2.+|Censo/EIAE
+2.+|500 K|X|X|X|X||
+
+2.+|Observatori Habitatge
+2.+|349 K|X|X|X|X||
+
+|===
