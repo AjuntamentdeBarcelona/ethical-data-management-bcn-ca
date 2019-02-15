@@ -51,8 +51,8 @@ Protegir la privacitat és de màxima importància.
 L'Ajuntament ha de considerar i protegir la privacitat individual i col·lectiva durant el cicle de vida de les dades de forma sistemàtica i comprovable, tal com s'especifica en el Reglament General de Protecció de Dades (Reglament 2016/679 del Parlament Europeu i del Consell), amb una èmfasi particular en el consentiment informat, minimització de la informació, limitació al propòsit, explicable, segura, i ajustada a la llei.
 
 * *Seguretat.* La informació municipal és un actiu estratègic subjecte a riscos i ha de ser gestionat per tal de minimitzar-los.
-Això inclou privacitat, protecció de les dades, discriminació algorítmica i riscos de ciber-seguretat que cal fixar de forma específica, promovent arquitectures de dades ètiques i responsables, tècniques de millora de la privacitat i l'avaluació dels efectes socials.
-Mentre que la seguretat i la privacitat són dues disciplines separades i independents, estan fortament relacionades i és essencial per a les unitats prendre una aproximació coordinada per identificar i gestionar la ciber-seguretat i els riscos sobre la privacitat amb requeriments i estàndards aplicables.
+Això inclou privacitat, protecció de les dades, discriminació algorítmica i riscos de ciberseguretat que cal fixar de forma específica, promovent arquitectures de dades ètiques i responsables, tècniques de millora de la privacitat i l'avaluació dels efectes socials.
+Mentre que la seguretat i la privacitat són dues disciplines separades i independents, estan fortament relacionades i és essencial per a les unitats prendre una aproximació coordinada per identificar i gestionar la ciberseguretat i els riscos sobre la privacitat amb requeriments i estàndards aplicables.
 
 * *Sobirania tecnològica.*
 Quan es planifiqui, pressuposti o es compri nou equipament, recursos de TI o infraestructures o serveis de suport, el procés de contractació i els plecs procedents han d'estar en línia amb les prioritats del Pla «Barcelona Ciutat Digital».

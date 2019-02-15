@@ -1,122 +1,113 @@
 include::_partials/README.adoc[tag=metadata]
-= Emblematic projects
+= Projectes emblemàtics
 
-The programme relating to the application of a new strategy that uses data in decision-making.
-It is described in previous sections and will be deployed throughout the organisation, in a cross-departmental, multi-disciplinary way, by setting in motion a set of projects.
+El programa relatiu a la implementació d'una nova estratègia que posa en valor les dades per a la presa de decisions, descrit en els apartats anteriors, es desenvolupa a tota l‘organització de forma transversal i multidisciplinari, mitjançant la posada en marxa d'un conjunt de projectes.
 
-These projects are structured around the creation of the Municipal Data Office and the development of a new architecture, where the launching of the new design of repository for data-lake information will be used to support the entire data strategy, implemented through the projects described below, as well as all other future projects.
+Aquests projectes, tenen com a eix vertebrador la creació de l'Oficina Municipal de Dades i el desenvolupament d'una nova arquitectura, on la posada en marxa del nou disseny de repositori de dades «data lake», ha de servir per sustentar tota l'estratègia de dades que s'ha de desenvolupar mitjançant els projectes -que es descriuen tot seguit- així com tots aquells altres que es plantegin en el futur.
 
-In this section, we present and provide a brief description of the most relevant projects to be undertaken in relation to this data programme, some of which are at an advanced stage, and which are known as “emblematic projects” because of their content and relevance.
+En aquesta secció presentem els projectes més rellevants que es duran a terme, algun dels quals ja es troben en fase avançada en relació amb aquest programa de dades, i que pel seu contingut i rellevància, anomenen projectes emblemàtics, fent una breu descripció de cada un d'ells.
 
-. The Municipal Data Office
-. City OS
-. Open Data BCN
-. DECODE
-. Data City Challenge
-. Data Exchange
-. Control Panel for the Municipal Manager's Office
-. Monitoring gentrification
-. Economic Activities Census
-. Housing Observatory
+|===
+| . Oficina Municipal de Dades  | . City OS
+| . Open Data BCN | . Decode
+| . Data City Challenge | . Data Exchange
+| . Quadre de Comandament Gerència Municipal | . Monitoratge de la Gentrificació
+| . Cens d'Activitats Econòmiques  | .	Observatori de l'habitatge
+|===
 
-== The Municipal Data Office
+== Oficina Municipal de Dades
 
-The Municipal Data Office is a directorate that includes various areas and departments that are responsible for council data, and it is charged with overseeing the application of this measure.
-It is located in the Municipal Manager's Office and it answers to the Commission for Technology and Digital Innovation.
-It is responsible for the management, quality, governance and exploitation of data relating to Barcelona City Council and all its associated bodies (public and private) that provide services to the general public.
+L'Oficina Municipal de Dades és una direcció que integra diverses àrees i departaments amb responsabilitats sobre les dades corporatives i sobre l'aplicació d'aquesta mesura.
+Ubicat a la Gerència Municipal, respon a la Comissionada de Tecnologia i Innovació Digital.
+És responsable de la gestió, qualitat, governança i explotació de les dades relacionades amb l'Ajuntament de Barcelona i tots els seus ens associats (públics o privats) que donen servei als ciutadans.
 
-In particular the department of Data Analytics will be created in the DMO.
-This is an office for analysing multi-disciplinary data and it will oversee the proper management of and respect for the general public's digital rights.
-It will use public data to provide information that helps to resolve the challenges facing the city, as well as providing services for the various municipal units.
-It will also have a role in the internal training and encouragement of City Council personnel.
+En particular, dins de l'OMD es crea el departament de Data _Analytics_, una oficina d'anàlisi de dades pluridisciplinari que vetllarà per la bona gestió i el respecte dels drets digitals de la ciutadania.
+Utilitzarà les dades públiques per tal de proporcionar informació que ajudi a resoldre reptes de ciutat, a banda de donar servei a les diverses unitats municipals.
+També tindrà un rol formatiu i dinamitzador intern per al personal de l'Ajuntament.
 
 == City OS
 
-City OS is an advanced data analysis platform with a unified concept of the city's information, based on free and open-code products that will be offered to the community.
-It will help to detect problems in the city, shorten response times and improve public services by applying descriptive, predictive, simulation and modelling analysis, as well as pattern recognition.
-The City Council's manager's offices and service departments will be able to use this data platform to make a more accurate analysis of information and therefore implement better public policies for the general public.
+CityOS és una plataforma d'analítica avançada de dades amb una visió unificada d'informació de la ciutat, basada en productes lliures i de codi obert que s'oferirà a la comunitat.
+Ajudarà a detectar problemes a la ciutat, escurçar els temps de resposta i millorar els serveis públics, aplicant-hi anàlisi descriptiu, predictiu, de simulació i modelatge, així com reconeixement de patrons.
+Les diferents gerències i direccions de servei de l'Ajuntament podran utilitzar aquesta plataforma de dades per a realitzar una anàlisi més acurada de la informació i dictar així millors polítiques públiques que arribin a la ciutadania.
 
 == Open Data BCN
 
-The Open Public Data movement is promoted by public administrations, and its main objective is to make the best possible use of available public resources, publish the information generated or kept by public bodies and to allow access to it for its reuse for the common good and for the benefit of interested individuals and organisations.
+El moviment _Open public data_ o obertura d'informació del sector públic és un moviment impulsat per les administracions públiques amb l'objectiu d'aprofitar al màxim els recursos públics disponibles, exposant la informació generada o custodiada per organismes públics, permetent el seu accés i reutilització pel bé comú i pel benefici de persones i entitats interessades.
 
-The Open Data BCN project began in 2010 and has since been evolving to foster a plural digital economy while developing a new model for urban innovation based on the digital transformation and innovation of the public sector and the involvement of companies, administrations, the academic world, organisations, communities and people, under clear public and citizen leadership.
-The Open Data BCN project, which covers various pillars of the city's strategy, is based on the main international standards and recommendations and adopts some characteristics that sum up the principles of this movement.
+Open Data BCN, projecte que va néixer a l'any 2010, ha anat evolucionant per a fomentar una economia digital plural i desenvolupa un nou model d'innovació urbana basat en la transformació i innovació digital del sector públic, i la implicació entre empreses, administracions, món acadèmic, organitzacions, comunitats i persones, amb un clar lideratge públic i ciutadà.
+El projecte Open Data BCN és transversal a diversos dels pilars de l'estratègia de la ciutat i es basa en els principals estàndards i recomanacions internacionals, adoptant determinades característiques que resumeixen els principis d'aquest moviment:
 
-* Open data by default
+* Open data per defecte.
 
-* Quality and quantity of information
+* Qualitat i quantitat de la informació.
 
-* Data for everyone
+* Dades per a tothom.
 
-* Data for improving governance
+* Dades per a la millora de la governança.
 
-* Fostering innovation
+* Promoció de la innovació
 
-== DECODE
+== Decode
 
-DECODE is a European pilot project being developed in Barcelona and Amsterdam to manage data sovereignty in a shared economy.
-The technical solutions being developed in this project will be used to improve services for citizens, making them more secure while further safeguarding data ownership and control.
-DECODE will explore how to build a digital economy focused on data, where the data generated and compiled by the general public, the internet of things and the network of sensors will be available for the common good (data commons), safeguarded by appropriate privacy protection.
+DECODE és un projecte pilot europeu que es desenvolupa a Barcelona i Amsterdam per a gestionar la sobirania de les dades per l'economia compartida.
+Les solucions tècniques que desenvolupa aquest projecte serviran per oferir millors serveis als ciutadans, més segur i a la vegada garantir millor la propietat i control de les seves dades.
 
-As a result, innovators, emerging companies, NGOs, cooperatives and local communities can make use of this information to create applications and services that respond to their needs and those of the community in general.
+DECODE explorarà com construir una economia digital centrada en les dades on, les generades i recopilades pels ciutadans, l'Internet de les coses (IO) i les xarxes de sensors estaran disponibles pel ben comú (_Data Commons_), amb les proteccions de privadesa adequades.
 
-== Data City Challenge
+== Data City Challenges
 
-Continuing with the approach of maximising the use of resources (data) in order to improve the efficiency of City Council services, Data City Challenges will use datasets and the city as an experimentation model for seeking solutions to major urban challenges (housing, unemployment, exclusion, health, energy and mobility) and they will develop prototypes with the most skilled stakeholders in the innovative ecosystem.
-These projects (challenges) will make it possible to test and subsequently adopt clearly defined and delimited solutions, while fostering collaboration between emerging companies, other companies and the public sector.
-It will encourage the use of data for the common good (data commons), improve public services, foster the economy and social return on public spending.
+En la línia de la maximització dels usos dels recursos (les dades) per a millorar l'eficiència en els serveis que proveeix l'Ajuntament, els «Data City Challenges» utilitzaran conjunts de dades i la ciutat com a model d'experimentació per tal de cercar solucions als principals reptes urbans en matèria d'habitatge,  atur,  exclusió, salut, energia o  mobilitat,  mitjançant el desenvolupament de prototips amb aquells actors més capacitats, dins l'ecosistema innovador.
+Aquests projectes («challenges») ens permetrà testejar i posteriorment adoptar solucions clarament definides i parametritzades, de manera que fomentin alhora la col·laboració entre _startups_, empreses i el sector públic, i posin en valor l'ús de les dades pel bé comú (_Data Commons_): millora dels serveis públics, foment de l'economia i retorn social de la despesa pública.
 
 == BCN Data Exchange
 
-The BCN Data Store, to be developed by Barcelona City Council, is one step further along the path initiated with the BCNOpenData project.
-It aims to facilitate access to the data kept by the city, people and organisations for the common good (data commons).
+El BCN Data Store que desenvoluparà l'Ajuntament de Barcelona és un pas més enllà en el camí endegat amb el projecte BCNOpen Data.
+El seu objectiu és tractar de facilitar l'accés a les dades custodiades per la ciutat, a les persones i organitzacions per al bé comú (Data Commons).
 
-It will also develop a philosophy that emphasises the exploitation of the city's data in all areas of the city's political activity and will help to promote a clear “city data market” culture of exchange for both the public and private sectors.
+També desenvoluparà una filosofia, que emfatitza l'explotació de les dades de la ciutat a totes les àrees de l'activitat política de la ciutat. I ajudarà a promoure una cultura d'intercanvi clara del «Mercat de dades de la ciutat» tant en el sector públic com en el privat.
 
-BCN Data Store will be a public library for services, easy to use and scalable as the services offered by the Municipal Data Office are developed.
-In order to bring this about, the “platform as a service” (PaaS) concept will be used.
+BCN Data Store serà una biblioteca pública de serveis, fàcil d'usar i escalable a mesura que els serveis oferts per l'Oficina Municipal de Dades vagin desenvolupant-se.
+Per a poder fer-ho realitat es treballarà sota el concepte _«Platform as a Service»_ (PaaS).
 
-It will include communities and social groups in all services and will try to establish a network of people, member bodies, members, reviewers, friends and followers.
-This strategy must allow day to day improvement and maintain direct contact with the general public, as well as with data-science professionals (from research or companies) and students.
+Integrarà comunitats i components socials en tots els lliuraments, amb l'objectiu d'establir una xarxa de socis, membres, revisors, amics i seguidors.
+questa estratègia que en ha de permetre millorar dia a dia, mantindrà un contacte directe amb els ciutadans, així com amb professionals del món de la ciència de les dades (investigadors, professionals, estudiants, empreses).
 
-== Municipal Management Dashboard
+== Quadre de comandament per a la gerència municipal
 
-In addition to developing a dashboard for the government team, there will also be a free application for city residents that shows a summary of strategic indicators and provides data on City Council services, along with management indicators for their projects, progress made on accomplishing government commitments, the general public's evaluations, etc.
-This service is an important step towards greater transparency in municipal management and public scrutiny.
+A més del desenvolupament d'un quadre de comandament per a l'equip de govern, es desenvoluparà una aplicació lliure i oberta pels ciutadans que reflectirà els indicadors estratègics de manera sintetitzada i aportarà dades dels serveis de l'ajuntament amb indicadors de gestió dels seus projectes, el grau d'acompliment dels compromisos del govern, valoració dels ciutadans, etc.
+Aquest servei representa un pas important envers la transparència en la gestió municipal i l'escrutini públic.
 
-== Monitoring gentrification
+== Monitoratge de la gentrificació
 
-Monitoring gentrification is a cross-departmental City Council project that aims to define ways of stopping the expulsion of local residents and retailers from city neighbourhoods.
-Furthermore, the idea is to also design and implement a coordinated strategy of measures and actions that neutralises and reverses gentrification processes in the city, by defending city residents' rights in their neighbourhoods.
+El projecte de monitoratge de la gentrificació és un projecte transversal de l'Ajuntament que té com objectiu de definir respostes per aturar els processos d'expulsió de veïns i comerciants dels barris de la ciutat.
+Així com dissenyar i implantar una estratègia coordinada de mesures i actuacions que neutralitzi i reverteixi els processos de gentrificació a la ciutat, impulsant la defensa del dret al barri dels ciutadans de Barcelona.
 
-This is one of the city's most urgent, key projects, and it requires a complex analysis in various areas, including population, housing, economic activities and tourism.
-For this project, our mission is to identify the key variables involved in this process, define the gaps in information and provide an analysis and diagnosis that can be used as a basis for establishing new policies that can tackle this problem.
+Aquest és un projecte clau i urgent dins les problemàtiques actuals de la ciutat, que requereix un anàlisi complex de dades de diferents àrees com ara, població, habitatge, activitat econòmica i el turisme.
+La nostra missió dins aquest projecte serà identificar les variables claus d'aquest procés, descriure els buits d'informació i proporcionar anàlisi i diagnosi que serveixin de base per poder establir noves polítiques que actuïn front aquesta problemàtica.
 
-== Comprehensive Information System for Barcelona's Economic Areas and Activities, EIAE (Economic Activities Census)
+== Sistema d'Informació Integral dels Espais i Activitats Econòmiques de Barcelona (EIAE)
 
-Barcelona City Council's Department of Commerce is promoting the development of the Comprehensive Information System for Barcelona's Economic Areas and Activities, (EIAE), with the aim of responding to the lack of comprehensive information on economic activities, as well as areas that are liable to contain them, through the creation of an information system that integrates and normalises date on economic activities.
+La Direcció de Comerç de l'Ajuntament de Barcelona impulsa el desenvolupament d'un Sistema d'Informació Integral dels Espais i de les Activitats Econòmiques de Barcelona (EIAE) o Cens Activitats Econòmiques, amb l'objectiu de donar resposta a la mancança d'informació integrada de les activitats econòmiques, així com dels espais susceptibles de contenir-les, mitjançant el desenvolupament d'un sistema d'informació que integri i normalitzi la informació de les activitats econòmiques.
 
-This database will be the municipal reference for the strategic analysis of local development.
+Aquesta base de dades serà la referència corporativa per a l'anàlisi estratègic en l'àmbit del desenvolupament local.
+Tanmateix, serà la base per a la construcció de productes i serveis adreçats, entre altres, al teixit comercial i l'estructura econòmica local, tan internament com pels desenvolupadors externs i proveïdors de serveis dins d'aquest àmbit.
 
-Furthermore, it will form the basis for building up products and services addressed to the city's commerce and local economic structure, both internally and for external developers, who are service providers in this area.
+Conceptualment serà un node obert dins la xarxa de sistemes d'informació.
+Les aplicacions informàtiques i en especial el sistema d'integració (interoperabilitat interna i externa) es construiran amb la nova metodologia de desenvolupament àgil i amb programari lliure i obert.
 
-Conceptually, it will be an open node within the information-systems network.
-IT applications, and especially the integration system (internal and external interoperability) will be built with the new agile development methodology using free and open-source software.
+== Observatori de l'habitatge
 
-== Housing Observatory
+L'Observatori de l'Habitatge de Barcelona és un instrument d'àmbit supramunicipal que neix amb l'objectiu de tenir una mirada holística sobre l'habitatge per tal d'abordar les problemàtiques d'habitatge a l'àrea metropolitana de Barcelona, impulsat per diverses administracions com: Ajuntament de Barcelona, Àrea Metropolitana de Barcelona, Diputació de Barcelona, Generalitat de Catalunya i Associació de Gestors d'Habitatge Social (GHS).
 
-Barcelona's Housing Observatory is a supra-municipal instrument founded with the aim of providing a holistic perspective on housing, in order to tackle housing problems in the Barcelona Metropolitan Area.
-It is promoted by various administrations: Barcelona City Council, the Barcelona Metropolitan Area, Barcelona Provincial Council, the Generalitat of Catalonia and the Association of Social Housing Managers (GHS).
+El coneixement del sector de l'habitatge i la situació residencial de la població des dels seus múltiples vessants és una necessitat de primer ordre, i una condició imprescindible per a poder dissenyar estratègies i polítiques públiques assenyades, rigoroses i eficaces.
+Així l'Observatori neix com un instrument capaç d'aportar tota la informació i eines necessàries per avaluar i dissenyar les polítiques a encarar en aquesta matèria i, al mateix temps, en la mesura que la societat ha anat avançant en coneixement i en l'exigència democràtica d'informació, ha de ser també un òrgan que apropa la informació a la ciutadania.
 
-Knowledge concerning the housing sector and the residential situation of the population from various angles is a primary need and an essential condition for designing sensible, rigorous and effective strategies and public policies.
-The Observatory is therefore an instrument that is able to provide all the necessary information and tools for evaluating and designing policies that must be undertaken in this area.
-Additionally, as society has advanced in terms of knowledge and the democratic demand for information, it must also be a body that provides city residents with information.
+Es vol contribuir, d'una banda a completar els "forats negres" d'informació, i d'altra banda a baixar a uns nivells de detall territorial que molt sovint els grans treballs estadístics d'ampli espectre no permeten fer.
 
-The aim is to fill in the information “black holes” while also providing detailed information about the territory, which is often not available in large, wide-ranging statistical operations.
+*Pressupost i calendari*
 
-*Budget and schedule*
+A continuació és presenta el calendari d'execució dels projectes emblemàtics relatius a la nova estratègia de dades municipal.
 
-The schedule for carrying out the emblematic projects relating to the new municipal-data strategy is as follows.
-
+//No trobem la imatge en català.
 image::schedule.svg[Schedule, width=70%]

@@ -10,7 +10,7 @@ De manera general, l'Estratègia pivotarà sobre el següents principis bàsics,
 
 * La sobirania de les dades
 * Les dades obertes i la transparència
-* L'intercanvi de dades i reutilització
+* l'Intercanvi de dades i reutilització
 * Presa de decisions polítiques informada en dades
 * El cicle de vida de les dades i l'accés continuat i/o permanent
 
@@ -55,7 +55,7 @@ S'han de respectar els principis de protecció de dades de caràcter personal, e
 Les unitats faran avaluacions d'impacte de protecció de dades orientades a assegurar preventivament que, quan les operacions de tractament poden comportar riscos especialment rellevants, es prenguin les mesures necessàries per reduir, en la mesura del possible, el risc de danyar o perjudicar les persones, o afectar-ne negativament els drets i les llibertats, impedint o limitant-ne l'exercici o el contingut.
 
 * Privacitat per Disseny / PETs: s'han de prendre les mesures necessàries per tal d'incorporar estratègies de Privacitat per Disseny o Tecnologies de Millora de la Privacitat, a partir de les quals la salvaguarda de la privacitat dels interessats es tingui en compte en tots els processos de disseny, desenvolupament i gestió dels sistemes de dades de l'Ajuntament.
-Cal usar sempre que sigui aplicable algoritmes d'encriptació, anonimització o seudonimització.
+Cal usar sempre que sigui aplicable algoritmes d'encriptació, anonimització o pseudonimització.
 
 === Seguretat de les dades
 
@@ -80,7 +80,7 @@ A partir de la coordinació transversal de dades es podrà fer el seguiment i l'
 
 Aquesta coordinació ha de propiciar una correcta gestió i revisió dels recursos i programes, assegurant una gestió del pressupost de forma coordinada i unificada on també hi participa en forma de revisió i d'autorització el Director Municipal de les Dades (CDO) amb la voluntat de proveir una direcció corporativa efectiva, específica i visible dels recursos IT i les dades.
 
-Igualment, les gerències de cada unitat, en consulta amb els Responsables Municipals de Dades hauran de definir els processos a partir dels quals es definirà l'inventari dels recursos IT per tal d'assolir els objectius de gestió de forma eficient, tot ponderant les noves inversions IT i les seves potencialitats i adequació amb l'inventari corporatiu.
+Igualment, les gerències de cada unitat, en consulta amb els Responsables Municipals de Dades hauran de definir els processos a partir dels quals es definirà l'Inventari dels recursos IT per tal d'assolir els objectius de gestió de forma eficient, tot ponderant les noves inversions IT i les seves potencialitats i adequació amb l'Inventari corporatiu.
 També caldrà que s'identifiquin les diferències entre el pressupost programat i l'executat, calendaris, i/o avaluació dels objectius IT i que es duguin a terme les mesures correctives necessàries
 
 == La gestió ètica i responsable de les dades
@@ -131,7 +131,7 @@ El projecte permet descarregar dades en formats oberts, navegar des de les dades
 
 === Inventari
 
-Les unitats hauran de mantenir un inventari footnote:[L'inventari de cada unitat s'integrarà a un inventari general del grup municipal.]  dels majors sistemes d'informació, els seus contenidors i les eines de disseminació amb un nivell de detall que es determini per tal de supervisar i gestionar-los.
+Les unitats hauran de mantenir un inventari footnote:[l'Inventari de cada unitat s'integrarà a un inventari general del grup municipal.]  dels majors sistemes d'informació, els seus contenidors i les eines de disseminació amb un nivell de detall que es determini per tal de supervisar i gestionar-los.
 Caldrà identificar en aquest inventari els conjunts de dades amb informació de caràcter personal i es determinaran procediments per tal de permetre revisar regularment que aquestes dades tenen la qualitat necessària, que es pot donar resposta als drets dels interessats, i que siguin les mínimes imprescindibles per tal desenvolupar les competències i funcions de la unitat.
 D'altra banda, cada unitat haurà de mantenir informat un registre que reculli totes les accions sobre les bases de dades tant de gestió com analítiques.
 L'Oficina Municipal de Dades determinarà la meta-informació d'aquestes sistemes.
@@ -227,108 +227,104 @@ Aquesta capacitat no es pot subrogar, sinó que ha d'estar interioritzada en l'o
 Fins ara, els projectes de serveis digitals ha estat liderat des de sectors aliens a l'analítica de dades o data science (informàtica, gestors d'aplicacions transaccionals, etc.).
 Per tal d'assegurar el bon funcionament del model de gestió d'anàlisi de dades, cal transitar entre el paradigma passat del Intel·ligència de negoci basat en la selecció i visualització de dades a un nou model de Ciència de Dades que en resulti anàlisis predictius, prescriptius o la intel·ligència artificial. Des d'aquesta perspectiva l'OMD ha de tenir un paper rellevant en els elements claus en la definició gestió de les dades com són el seu modelatge, accés, meta-informació, qualitat o cicle de vida.
 
-Analysis must answer the maximum number of questions relating to various areas:
+L'analítica ha de respondre un màxim de preguntes en relació diversos eixos:
 
-* City residents: improving the general public's satisfaction with municipal management, the rationalisation of processes, increased efficiency, adaptation to new needs.
-* Internal management: integrating analysis into applications and indicators.
-* Risk management: enriching services with advanced analysis.
-* Dissemination: providing higher value and quality to analytical products in service to the community, such as open data and statistics.
+* Ciutadania: la millora de la satisfacció de la ciutadania amb la gestió municipal, la racionalització de processos, la millora de l'eficiència, l'adaptació a les noves necessitats.
+* Gestió interna: Integració de l'analítica en les aplicacions i indicadors.
+* Gestió del risc: Enriquiment de serveis amb analítica avançada.
+* Difusió: Dotar de major valor i qualitat el productes analítics al servei de la comunitat com Open Data o Estadística.
 
-Along these lines, the *MDO* has the mission of changing the organisation's internal culture regarding data management in its projects.
-Given that the data and technology associated with this discipline are very new, the DMO must provide data-based analytical consultancy and solution services to the other units.
-These services must be accompanied by appropriate courses, ensuring that every City Council unit is progressively trained, so that they understand the methodology of a data-based qualitative focus on city problems.
-It must also lead an internal transformation, in order to “evangelise” the organisation in data culture, by means of internal workshops and seminars.
-Within the DMO, an *analysis area* must be created that offers internal services to various City Council areas, in the form of “internal consultancy”, with one part dedicated to solving problems and also training personnel from each department on how to use the developed tools.
+En aquesta línia, la *OMD* té la missió de canviar la cultura interna de la organització front la gestió de dades en els seus projectes.
+Donat el fet que les dades i la tecnologia associada a aquesta disciplina són bastant noves, l'OMD proveirà serveis analítics de consultoria i de solucions basades en dades a la resta d'unitats.
+Aquests serveis han d'anar acompanyats de l'adequada formació per a habilitar de manera progressiva a cada unitat de l'ajuntament a entendre la metodologia d'un enfocament qualitatiu dels problemes de ciutat basat en les dades.
+També ha de liderar una transformació interna per "evangelitzar" l'organització en la cultura del fet (dades), a través de tallers i seminaris interns.
+Dins de la OMD, es crea *un àrea d'analítica*, que oferirà serveis interns a diferents àrees de l'Ajuntament en forma de "consultoria interna", amb una part dedicada a la resolució de problemes i també a la formació de persones internes de cada departament sobre com utilitzar les eines desenvolupades.
 
-As integral analytical elements, the DMO and the analysis area must also collaborate in order to establish the vision and strategy for all initiatives geared towards council data, the exchange of knowledge about data-administration policies, standards and good practices, as well as aligning technological tools to needs of use.
+L'OMD i el Àrea d'Analítica, com a elements integradors de l'analítica, col·laboraran també en establir la visió i estratègia de totes les iniciatives orientades en les dades de la corporació, l'Intercanvi de coneixement sobre polítiques, estàndards i bones pràctiques de l'administració de les dades o l'alineament de les eines tecnològiques a les necessitats d'ús.
 
-The emblematic projects in this area are:
+Els projectes emblemàtics en aquest eix són:
 
-* *Comprehensive Information System for Barcelona Economic Areas and Activities (EIAE):* the creation of a corporate reference database for strategic analysis in the area of local economic development.
+* *_Sistema d'Informació Integral dels Espais i de les Activitats Econòmiques de Barcelona (EIAE):_* creació d'una base de dades de referència corporativa per a l'anàlisi estratègica en l'àmbit del desenvolupament econòmic local.
 
-* *Monitoring gentrification:* providing information and data in order to define responses addressed at stopping the expulsion of local residents and retailers from city neighbourhoods.
+* *_Monitoratge de la Gentrificació:_* aporta informació i dades per a definir respostes per aturar els processos d'expulsió de veïns i comerciants dels barris de la ciutat.
 
-* *Municipal Management Dashboard:* a data-visualisation tool that explains the state of the city in real time.
+* *_Quadre de Comandament Gerència Municipal:_* l'eina de visualització de dades que explica l'estat de la ciutat en temps real.
 
-* *The Barcelona Metropolitan Housing Observatory:* Barcelona City Council, the Barcelona Metropolitan Area, Barcelona Provincial Council and the Regional Government of Catalonia have jointly created a supra-municipal instrument for analysing and consulting housing data.
-It is presented as a major tool for city residents and administrations in questions relating to housing.
-It is an instrument for evaluating and designing housing policies and designing and consulting available housing data.
+* *_Observatori Metropolità de l'Habitatge de Barcelona (O-HB)._* Instrument d'àmbit supramunicipal per a l'anàlisi i la consulta de les dades relacionades amb l'habitatge creat per l'Ajuntament de Barcelona, l'Àrea Metropolitana de Barcelona, la Diputació de Barcelona i la Generalitat de Catalunya.
+Es presenta com a eina de referència per la ciutadania i les administracions en qüestions relatives a l'habitatge, i per l'avaluació i disseny de les polítiques d'habitatge i anàlisi i consulta de les dades disponibles sobre aquesta matèria.
 
-== Barcelona Data Exchange: external data enhancing
+== El Barcelona Data Exchange: posada en valor externa de les dades
 
-Barcelona City Council collects and regularly publishes an important set of data, statistics, indicators and sectoral studies concerning the city and its surrounding area, so that urban leaders, people in the field of research, consultancies and the entrepreneur community and the general public can get precise knowledge about the city, socio-demographic dynamics, the economy, the urban area, the general public's opinion on various subjects, etc.
+L'Ajuntament de Barcelona recull i publica regularment un important conjunt de dades, estadístiques, indicadors i estudis sectorials sobre la ciutat i el seu entorn amb l'objectiu que, responsables urbans, investigadors, consultors, emprenedors o la ciutadania en general puguin tenir un coneixement precís sobre la ciutat, les dinàmiques sociodemogràfiques, l'economia, l'espai urbà, l'estat d'opinió de la ciutadania sobre diferents matèries, etc.
 
-The objective of this work is to create the BCN Data Exchange, an essential part of data commons, and to organise, centralise and improve the formats, the reusability (through interoperability) and access to the data published by the City Council, from a technical perspective (based on City OS) and a relational perspective, and establish contact with groups of Barcelona data users and reusers and attempt to show our concept of data as a public asset that must be shared under clear and transparent regulations.
+L'objectiu d'aquesta línia de treball és crear el BCN Data Exchange, element essencial del *_Data Commons_*, a la vegada que organitza, centralitza i millora els formats, la re-usabilitat (mitjançant la interoperabilitat) i l'accés a aquestes dades publicades per l'Ajuntament, tant des de la perspectiva tècnica (basada en el CityOS), com relacional, establint contactes amb els grups d'usuaris i re-usuaris (_«reusers»_) de dades de Barcelona i tractar de mostrar la nostra visió de dades com a bé públic, que ha de compartir-se sota unes regles clares i transparents.
 
-The BCN Data Exchange project aims to connect the city to data stakeholders, understand their perception of data and try to build a framework that encourages the responsible use of data and for data to be seen as a provider for creating solutions and services rather than as an owned asset that offers an advantage.
-Furthermore the city will listen to their contributions on matters relating to public tenders and data-exchange practices.
+El projecte de BCN Data Exchange vol connectar la Ciutat amb els actors més interessats en les dades (_stakeholders_), comprendre la seva percepció i intentar construir un marc que encoratgi l'ús responsable de les mateixes, on les dades es veuen com una oportunitat sobre la que treballar per a a la construcció de solucions i serveis, i no com un bé propietari que ofereix una avantatge competitiva i.
+A més, la Ciutat escoltarà les seves aportacions sobre qüestions relacionades amb les ofertes públiques i les pràctiques d'intercanvi de dades.
 
 
-This line of action includes tasks dedicated to processing and publishing city data, with the infrastructure needed to do so, and to involving a community of professional data users and proactive data consumers (prosumers) in a constructive dialogue, covering the data as a whole and the opening of infrastructures.
+Aquesta línia conté tasques dedicades a preparar i publicar les dades de la Ciutat, amb la infraestructura necessària per això, i involucrar una comunitat d'usuaris professionals i _«prosumers»_ de dades en un diàleg constructiu, que abasta des del conjunt de dades fins l'obertura d'infraestructures.
 
-A major part of this information, which includes data of various kinds and formats (raw data, indicators, statistical tables, opinion studies, surveys, maps, sectoral analyses, etc.), is collected and published manually or semi-automatically through various municipal departments and websites.
+Actualment, d'aquesta informació - que inclou dades de diferent naturalesa i format (dades crues, indicadors, taules estadístiques, estudis d'opinió, enquestes, mapes, anàlisi sectorials, etc.) - una part important s'acumula i publica de manera manual o semiautomàtica a través de diferents el departaments/webs municipals:
 
-* *BCN Statistics*, which includes access to nearly 36,000 of the city's statistical tables, information by district and neighbourhood, the historical archive of statistics year books in PDF, as well as an application for consulting and the dynamic generation of displays.
-Barcelona City Council's Statistics Department specialises in the theory and practice of collecting data and the analyses and presentations needed to turn them into useful information.
+* *Estadística BCN.* Inclou l'accés a prop de 36.000 taules estadístiques de la ciutat, informació per districtes i barris, l'arxiu històric d'anuaris estadístic en PDF, així com a una aplicació de consulta i generació dinàmic de visualitzacions.
+El Departament d'Estadística és un departament de l'Ajuntament de Barcelona especialitzat en la teoria i pràctica de la recollida de dades i en les anàlisis i presentacions necessàries per convertir-les en informació útil.
 
-* *Open Data BCN* began in 2010.
-The portal was presented in 2011, in order to make certain datasets available to the general public, including open data, or opening up public sector information and allowing access and reuse for the common good and for the benefit of interested individuals and organisations.
-The Open Data BCN project, which covers various pillars of the city's strategy, is based on the main international standards and recommendations and adopts some characteristics that sum up the principles of this movement.
+* *Open Data BCN.* Creat l'any 2010 i amb el portal implantat l'any 2011 per a posar determinades conjunts de dades a disposició del públic com a «Open data» o obertura d'informació del sector públic, permet el seu accés i reutilització per al bé comú i per al benefici de persones i entitats interessades.
+El projecte Open Data BCN, transversal a diversos dels pilars de l'estratègia de la ciutat, es basa en els principals estàndards i recomanacions internacionals, adoptant certes característiques que resumeixen els principis d'aquest moviment:
 
-* *BCNROC* is Barcelona City Council's open-access institutional repository, through which the Council provides free access to its public digital documents.
-BCNROC is an advanced search engine, using modern search technology, that includes extensive descriptive metadata in order to ensure that individual users have a good experience in searching for and reusing information.
-BCNROC eliminates economic, technological and legal barriers for accessing municipal digital documents and it aims to guarantee permanent access to those digital files.
-This tool makes it possible to collect, store, manage, share, transform and disseminate municipal information resources and the associated metadata, as well as facilitating searches and being able to access and reuse them at a later date.
+* *BcnRoc* (Repositori Obert de Coneixement) és el repositori institucional d'Accés Obert de l'Ajuntament de Barcelona, mitjançant el qual l'Ajuntament posa d'accés lliure i gratuït els seus documents digitals de difusió pública.
+BCNROC és un sistema de cerca avançat,  de moderna tecnologia de cerca, que inclou metadades descriptives extenses per assegurar una bona experiència de cerca i reutilització de la informació a l'usuari.
+BCNROC elimina les barreres econòmiques, tecnològiques i jurídiques per accedir a la documentació digital municipal i té la voluntat de garantir l'accés permanent  a aquests fitxers digitals.
+És l'eina que permet recollir, emmagatzemar, gestionar, compartir, transformar i difondre els recursos d'informació d'autoria municipal i les seves metadades, facilitant les recerques i la seva posterior recuperació, accés i reutilització.
 
-* *CBAB* is the catalogue of Barcelona City Council libraries that contains descriptive metadata on the internal and external information resources that Barcelona City Council needs for its everyday work, and offers a direct link to online resources, which are available to the council and all city residents, who can consult them directly or ask to borrow them through SEDAC.
+* *CBAB.* Catàleg de les biblioteques de l'Ajuntament de Barcelona que recull les metadades descriptives dels recursos d'informació interns i externs que l'Ajuntament de Barcelona necessita per a la seva tasca diària, i proveeix de l'enllaç directe a aquells recursos disponibles en línia, els quals estan a disposició de la Corporació i, també, a disposició de tota la ciutadania qui pot consultar directament o demanar en préstec a través del SEDAC.
 
-* *Barcelona Economía* is the Barcelona City Council website that monitors the city's economy, based on collection and evaluation of how the main situation indicators for Barcelona and its Metropolitan Area are behaving.
-Barcelona Economia includes a large number of mainly economic tables and graphs, grouped by sub-themes, which are usually accompanied by a brief analysis, as well as PDF documents on the economic situation, historical publications, etc.
+* *Barcelona Economia.* Lloc web de l'Ajuntament de Barcelona on es fa seguiment de l'economia de la ciutat a partir d'un recull i una valoració del comportament dels principals indicadors de conjuntura de Barcelona i del seu entorn metropolità.
+Barcelona Economia inclou nombroses taules i gràfiques, essencialment econòmiques, agrupades per subtemes i que solen anar acompanyades d'un breu anàlisi, així com documents en PDF sobre conjuntura econòmica, publicacions històriques, etc.
 
-* The *Survey and opinion-poll registry* includes opinion polls commissioned by the City Council on the evaluation of services, use of time, mobility, cultural consumption, etc.
-Some of the results are already included in the statistics portal, in table format, while others are in document format.
+* *Estudis d'Opinió i Enquestes.* Inclou els diferents treballs demoscòpics encarregats per l'Ajuntament: valoració de serveis, usos del temps, mobilitat, consums culturals, etc.
+Alguns dels resultats estan ja incorporats en format taules al portal d'estadístiques, mentre que d'altres estan en format document.
 
-* The *Geoportal* and web services for Barcelona City Council's Spatial Data Infrastructure make municipal territorial information available through the website using Open Geospatial Consortium (OGC) standards.
-The need for creating a geoservice infrastructure stems from a demand for both internal and external management concerning the interoperability of territorial information.
+* *Geoportal BCN.* El Geoportal i els serveis web de la Infraestructura de Dades Espacials de l'Ajuntament de Barcelona permetran posar a l'abast la informació territorial municipal a través del web, fent servir els estàndards de l'Open Geospatial Consortium (OGC).
+La necessitat de crear una infraestructura de geoserveis es fonamenta tant per una demanda de gestió interna com externa en l'àmbit de la interoperabilitat de la informació territorial.
 
-* *CartoBCN:* is a website for downloading Barcelona City Council cartography, aimed at end users.
-It is a Department of Basic Information and Cartography project which aims to become Barcelona City Council's centre of cartographic production.
+* *CartoBCN.* És la web de descàrregues de cartografia de l'Ajuntament de Barcelona, destinada a l'usuari final, un projecte del Departament d'Informació de Base i Cartografia, amb l'objectiu de convertir-se en el centre de producció cartogràfica de l'Ajuntament de Barcelona.
 
-With the aim of facilitating and promoting the use of all this accumulated information and knowledge, Barcelona City Council plans to design and set in motion *a new portal for consulting and exploring information*, based on City OS, which centralises all the currently managed and published information and documents in a single website, i.e. to create the *Barcelona Data Exchange*, with various objectives:
+Amb l'objectiu de facilitar i potenciar l'ús de tota aquesta informació i coneixement acumulat, l'Ajuntament de Barcelona, es proposa dissenyar i implementar *un nou portal de consulta i exploració d'informació*, assegut sobre el CityOS, que centralitzi en un sol web el conjunt d'informació i documents gestionats i publicats actualment, és a dir, crear el «*Barcelona Data Exchange*», amb diversos objectius:
 
-* To centralise all the currently managed and published information and documents in a single website environment.
-* To offer a new consultation experience that is more dynamic, interactive and graphic, where users can quickly explore the wide range of information available.
-* To add new functions for consuming, sharing and disseminating information related to Barcelona, addressed to various user profiles: city residents, students, technical and research personnel, etc.
-* To open up a new environment for exploring and consulting information that is freer, more direct and more user-friendly.
-* To offer a new way of presenting more graphic and more interactive information, with greater capacity for sharing.
-* To have a new data architecture connected to the City Council's City OS, which makes it possible to explore and show a diverse range of content (data in various formats for later exploration, PDF documents, pages and posts in HTML, etc.) and where it is easier to administer and manage content.
+* Centralitzar en un únic entorn web el conjunt d'informació i documents gestionats i publicats actualment.
+* Oferir una nova experiència de consulta més dinàmica, interactiva i gràfica on l'usuari pot explorar ràpidament l'ampli conjunt d'informació disponible.
+* Afegir noves funcionalitats per consumir, compartir i difondre informació rellevant de Barcelona pensant en els diferents perfils d'usuaris: ciutadania, estudiants, tècnics, investigadors, etc.
+* Un nou entorn per explorar i consultar informació: de manera més lliure, directa i amigable.
+* Una nova manera de presentar la informació: més gràfica, més interactiva i amb més capacitat de compartir-la.
+* Una nova arquitectura de dades: connectada al CityOS de l'Ajuntament, i que permeti explorar i mostrar continguts de diferent naturalesa (dades amb diferents formats per a la seva posterior explotació, documents PDF, pàgines i posts en html, ...) i més facilitat d'administració i gestió de continguts.
 
-This new Barcelona data portal will be aimed at users with different profiles and needs, from municipal political and technical personnel, who need to have access to vital, complete information on the dynamics which affect their decision-making, to normal city residents who are looking for specific information or who are curious about some urban information or indicators.
-This involves controlling security, by applying various profiles and functions.
-Between these extremes there are researchers, journalists and students, who have different needs, in terms of the type, quantity and amount of detail given in city information.
+Aquest nou portal de dades de Barcelona anirà dirigit a usuaris de perfil i necessitats diferents: des de responsables polítics i tècnics municipals que necessiten tenir accés a informació clau i completa sobre diferents dinàmiques que afecten a la seva presa de decisions, fins al ciutadà normal que busca alguna dada concreta o que pot tenir curiositat per alguna informació o indicador urbà.
+Això implica el control en la seguretat aplicant-hi diferents perfils i rols.
+Entre mig, investigadors, estudiants o periodistes tenen diferents necessitats en quan a tipologia, quantitat i grau de detall de les informacions de la ciutat.
 
-With regard to the city's current data repository and website projects, the Barcelona Data Exchange will improve access to information and compliance with FAIR principles for open scientific data with interoperable data and standard formats.
+Respecte dels projectes actuals de repositoris i webs de dades de la Ciutat, el Barcelona Data Exchange permetrà millorar l'accés a la informació i el compliment dels principis _«FAIR»_ de les dades obertes científiques (_Findable, Accessible, Interoperable, Reproducible_), amb dades interoperables i amb formats estàndards:
 
-* Improving the access and interoperability of municipal statistical data on the city as a system and its socio-economic, demographic and urban planning reality, with reliable statistical data that is efficient and up-to-date, and now interoperable and standardised.
+* Millorarà l'accés i la interoperabilitat de les dades de l'Estadística Municipal, sobre la ciutat com a sistema i la seva realitat socioeconòmica, demogràfica, urbanística amb un conjunt de dades estadístiques fiable, eficient i actualitzat... i ara interoperable i estàndard.
 
-* As a central feature of the “Barcelona Digital City” data strategy, improving the functions of Open Data BCN will foster a plural digital economy with a new model of urban innovation based on the digital transformation and innovation of the public sector and collaboration between companies, administrations, the academic world, organisations, communities and people, with clear public and citizen leadership.
+* Element central de l'estratègia de dades de Barcelona Ciutat Digital, les millores funcionals de BCN Open Data fomentaran una economia digital plural amb un nou model d'innovació urbana basat en la transformació i la innovació digital del sector públic i la implicació entre les empreses, les administracions, el món acadèmic, les organitzacions, les comunitats i les persones, amb un clar lideratge públic i ciutadà.
 
-* BCNROC's current stock of municipal documents already acts as a sole repository, used by the other municipal websites that disseminate municipal documents, and it will now be incorporated into the Barcelona Data Exchange.
-It's information is interoperable with other national and international open-access repositories, as it supports the OAI-PMH (Open Access Initiative Protocol for Metadata Harvesting) standards and protocols and enables the reuse of documents using the most open Creative Commons licenses possible.
-It also complies with the Dublin Core metadata standards to help facilitate the Semantic Web.
-These principles will be extended to the other datasets, whose managers will be able to make good use of the experience and competence of those in charge of BCNROC.
+* La documentació municipal actual de BCNROC ja serveix de repositori únic cap a on apunten altres webs municipals que ofereixen documentació municipal, i ara serà incorporada a BCN Data Exchange.
+La seva informació és interoperable amb altres repositoris d'accés obert, nacionals i internacionals perquè suporta els estàndards i protocols OAI-PMH (_Open Access Initiative Protocol for Metadata Harvesting_) i permet la reutilització de la documentació usant les llicències Creative Commons més obertes possible i acompleix amb els estàndards de metadades Dublin Core per contribuir a facilitar la web semàntica.
+Aquests principis s'estendran als altres conjunts de dades, els gestors dels quals aprofitaran de l'experiència i competència dels responsables de BCNROC.
 
-* Similarly, the Barcelona Economia data will be more usable, and the ongoing register of indicators will be made available to the public in an organised series of data, as well as the information and evaluation of methodological changes carried out to obtain them, which are relevant for interpreting their evolution over time.
+* De la mateixa manera, les dades de Barcelona Economia seran mes utilitzables, posant a la disposició del públic el registre continuat d'indicadors en un conjunt ordenat de dades seriades, però també la informació i valoració dels canvis metodològics fets en la seva obtenció i que són rellevants per a interpretar-ne l'evolució temporal.
 
-In this sense, initiatives for the external publication and evaluation of data include actions such as:
+En aquest sentit, les iniciatives per a la publicació i posada en valor «externa» de dades contempla accions com:
 
-* Using and correlating existing data-science initiatives under the name of the City Council, in order to generate a space in the Open Data BCN portal where selected scientists can contribute and maintain data.
-* Using the “NUMA DataCity” programme to set challenges for resolving city problems and promote the conscious positioning of the common-data programme's objectives for entrepreneurs and emerging companies.
-* Opening WiFi data: an API service providing access to Barcelona WiFi data while also complying with privacy obligations.
-* Opening Sentilo data: will be made accessible to a wider public, with a protocol and API for official access to Sentilo, in order to consult information, and the appropriate documentation of all the datasets present on the platform.
+* Utilitzar i vincular les iniciatives científiques de dades (data science) existents sota el paraigua de l'Ajuntament, per generar un espai al portal Open Data BCN on els científics seleccionats poden aportar dades i mantenir-lo.
+* Utilitzar el programa «NUMA DataCity» per a posar reptes per resoldre problemes de la ciutat i promoure el posicionament conscient dels objectius del programa de les dades comunes per a emprenedors i _start-ups_.
+* _Opening WiFi data_: un servei API per a donar accés a les dades de BCN Wifi, complint igualment les obligacions de privacitat.
+* _Opening Sentilo data_: Es fera accessible per a un públic més ampli, amb un protocol i API per l'accés oficial a Sentilo per realitzar consultes, i una documentació adequada de tots els conjunts de dades presents a la plataforma.
 
-The emblematic projects in this area are:
+Els projectes emblemàtics en aquest eix:
 
-* *BCN Data Store:* this will be the public library for services, easy to use and scalable as the services offered by the Municipal Data Office are developed.
-* *BCNOpenData:* the improvements to BCNOpenData's functionality make it possible to access and reuse the data generated or kept by public bodies, for the common good of interested people and organisations.
-* *Data City Challenges:* ensuring the utmost efficiency in the services offered by the City Council, we will use datasets and the city as an experimental model for seeking solutions to major urban problems.
+* *BCN Data Store:* serà la biblioteca pública de serveis, fàcil d'usar i escalable a mesura que els serveis oferts per l'Oficina Municipal de Dades vagin desenvolupant-se.
+* *BCNOpenData:* millores en les funcionalitats de BNCOpenData que permetent l'accés i reutilització per al bé comú i per al benefici de persones i entitats interessades de les dades generades o custodiades pels organismes públics.
+* *Data City Challenges:* procurant la millor l'eficiència en els serveis que proveeix l'Ajuntament, utilitzarem conjunts de dades i la ciutat com a model d'experimentació, per a cercar solucions als principals reptes urbans

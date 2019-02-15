@@ -1,4 +1,4 @@
-= Objectives of the measure
+= Objectius de la mesura
 ifndef::env-site,env-github[]
 include::_attributes.adoc[]
 endif::[]

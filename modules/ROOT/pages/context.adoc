@@ -40,7 +40,7 @@ En l'àmbit de la governança es necessita un organisme, en aquest cas una Direc
 Aquest òrgan ha de realitzar la supervisió d'alt nivell i estar facultat per prendre decisions sobre possibles conflictes de dades de les licitacions públiques.
 Aquest òrgan de govern hauria de conduir un canvi de mentalitat a l'Ajuntament a aconseguir un enfocament basat en dades per informar i prendre decisions respecte dels problemes de la ciutat.
 
-Finalment i pel que fa a l'intercanvi de dades, fins ara, el paper de l'Ajuntament ha estat discret. D'una banda, es va mantenir un portal de dades obert, però els estàndards del portal eren baixos i el suport polític a l'obertura de dades era discret.
+Finalment i pel que fa a l'Intercanvi de dades, fins ara, el paper de l'Ajuntament ha estat discret. D'una banda, es va mantenir un portal de dades obert, però els estàndards del portal eren baixos i el suport polític a l'obertura de dades era discret.
 
 == Motivacions de l'Estratègia de dades
 
