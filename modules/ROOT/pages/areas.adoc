@@ -165,7 +165,7 @@ Aquests únics punts d'ingesta o d'accés permetrà enfortir la seguretat i teni
 A més, el _data lake_, que ha d'estar basat en infraestructura _Big Data_, ha de permetre disposar d'un mapa precís de les dades de l'Ajuntament.
 Això implica que el CDO prioritzarà els possibles desenvolupaments o definicions de data-sets i els drets d'accés i explotació de les dades que s'inclouen o s'exclouen del _data lake_.
 També serà el responsable d'assegurar la qualitat de les dades. Aquest data lake és el projecte emblemàtic actual *CityOS*.
-//Revisar idioma d'imatge
+
 image::CityOS_infograph_{lang}.svg[Diagrama conceptual de CityOS]
 Diagrama conceptual de CityOS
 
