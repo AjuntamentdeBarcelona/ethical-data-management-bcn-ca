@@ -1,6 +1,21 @@
 {
     "cSpell.words": [
-        "ctid"
+        "bcnroc",
+        "carto",
+        "ctdi",
+        "ctid",
+        "d'app",
+        "eiae",
+        "iglu",
+        "l'imi",
+        "l'internet",
+        "l'omd",
+        "numa",
+        "pseudonimització",
+        "rgpd",
+        "rrhh",
+        "securitzats",
+        "sedac"
     ],
     "cSpell.enabledLanguageIds": [
         "asciidoc",
@@ -30,5 +45,5 @@
         "typescriptreact",
         "yml"
     ],
-    "cSpell.language": "es-ES,ca,en,es,en-US,en-GB"
+    "cSpell.language": "es-ES,en,es,en-US,en-GB,ca"
 }

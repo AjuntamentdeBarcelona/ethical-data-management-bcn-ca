@@ -15,7 +15,7 @@ Això ha de permetre assegurar la democràcia, els plens drets dels ciutadans i 
 Les dades municipals són un actiu estratègic i un recurs valuós que habilita al govern local a dur a terme la seva missió i programes de forma efectiva.
 L'accés apropiat a les dades municipals millora significativament el valor de la informació i el retorn de la inversió de la seva generació.
 Seguint el pla «Barcelona Ciutat Digital»footnote:[Accessible a http://www.slideshare.net/Barcelona_cat/pla‐barcelona‐ciutat‐digital.]  i el seu èmfasi en la innovació pública, l'economia digital i l'apoderament ciutadà, les següents consideracions sustenten aquesta Estratègia de Gestió de Dades.
-
+//enllaç trencat
 Dins d'aquest context, la nova gestió i ús de les dades han de respectar i complir amb els valors essencials aplicables a les dades.
 Per a l'Ajuntament de Barcelona, aquests valors són:
 

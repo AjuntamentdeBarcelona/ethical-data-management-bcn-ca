@@ -46,7 +46,6 @@ Finalment, ha de poder mostrar exemples concrets de l'aplicació d'aquesta visi�
 Això es farà també reconeixent la necessitat de retornar el control de les dades als ciutadans que les produeixen, de manera que puguin decidir quines dades volen mantenir en privat i quines volen compartir, amb qui i amb quina finalitat.
 Aquesta visió, basada en el concepte de la sobirania de dades dels ciutadans, es durà a terme en projectes experimentals com DECODE (veure a continuació) i la integració de noves tecnologies, com ara registres distribuïts o _blockchain_ i el xifrat de dades.
 
-//Revisar enllaç imatge
 .El Barcelona Data Commons
 image::infografia_{lang}.svg[El Barcelona Data Commons, width=80%]
 
