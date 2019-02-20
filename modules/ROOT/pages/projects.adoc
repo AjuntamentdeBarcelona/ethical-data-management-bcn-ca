@@ -1,4 +1,7 @@
-include::_partials/README.adoc[tag=metadata]
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+include::{partials}/README.adoc[tag=metadata]
 = Projectes emblemàtics
 
 El programa relatiu a la implementació d'una nova estratègia que posa en valor les dades per a la presa de decisions, descrit en els apartats anteriors, es desenvolupa a tota l‘organització de forma transversal i multidisciplinari, mitjançant la posada en marxa d'un conjunt de projectes.

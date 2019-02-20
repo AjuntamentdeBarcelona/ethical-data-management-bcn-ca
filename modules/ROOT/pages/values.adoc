@@ -1,4 +1,7 @@
-include::_partials/README.adoc[tag=metadata]
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+include::{partials}/README.adoc[tag=metadata]
 = Valors essencials del programa
 
 L'actual facilitat per a captar dades, la ubiqüitat i el volum de les mateixes, així com les possibilitats que la ciència de dades està obrint noves perspectives, especialment en referència a la provisió de serveis, també facilita la segmentació de persones, la identificació i la vigilància de les mateixes.

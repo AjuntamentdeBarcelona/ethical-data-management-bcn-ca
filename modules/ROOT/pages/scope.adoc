@@ -1,4 +1,7 @@
-include::_partials/README.adoc[tag=metadata]
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+include::{partials}/README.adoc[tag=metadata]
 = Àmbits d'aplicació
 
 Aquesta mesura és d'aplicació a les següents entitats i dades.

@@ -1,8 +1,8 @@
-= Eixos Estratègics
 ifndef::env-site,env-github[]
 include::_attributes.adoc[]
 endif::[]
 include::{partialsdir}/README.adoc[tag=metadata]
+= Eixos Estratègics
 
 Per a desplegar *l'Estratègia de Gestió Responsable i Ètica de Dades*, s'han establert els eixos d'actuació que ampliem a continuació, juntament amb les seves accions i projectes emblemàtics associats.
 
