@@ -1,7 +1,8 @@
 ifndef::env-site,env-github[]
 include::_attributes.adoc[]
 endif::[]
-include::{partials}/README.adoc[tag=metadata]
+include::{partialsdir}/README.adoc[tag=metadata]
+
 = Resum executiu
 
 Al setembre de 2016 l'Ajuntament de Barcelona endegà un important procés de transformació digital: va anunciar que els serveis públics han de ser proveïts, ja des de inici, a través de canals digitals seguint una nova directriu basada en l'orientació al ciutadà, l'ús d'estàndards oberts i programari obert, i d'acord amb una estratègia de dades ètica que posa la privacitat, transparència i els drets digitals al bell mig.

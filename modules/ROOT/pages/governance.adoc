@@ -1,7 +1,8 @@
 ifndef::env-site,env-github[]
 include::_attributes.adoc[]
 endif::[]
-include::{partials}/README.adoc[tag=metadata]
+include::{partialsdir}/README.adoc[tag=metadata]
+
 = Governança de les dades municipals: la Direcció Municipal de Dades
 
 Aquesta *_Estratègia de gestió i ús ètica i responsable de les dades_* implica un canvi organitzatiu que ha de permetre la correcta aplicació de les disposicions que la inclouen.

@@ -2,6 +2,7 @@ ifndef::env-site,env-github[]
 include::_attributes.adoc[]
 endif::[]
 include::{partialsdir}/README.adoc[tag=metadata]
+
 = Objectius de la mesura
 
 Aquesta mesura estableix la política general per a la governança, planificació, obtenció, gestió, anàlisi, ús i protecció, accés i preservació, fins que sigui necessari, i reutilització  de les dades municipals per afegir valor a la informació digital municipal al llarg del seu cicle de vida, com també els aspectes que se'n deriven en relació als recursos humans, les infraestructures i recursos TI, la gestió econòmica i els serveis de suport.services.footnote:[Malgrat que aquesta mesura es refereix a diversos aspectes dels recursos TIC com ara la privacitat, confidencialitat, qualitat de la informació, disseminació o política estadística, aquests conceptes estaran recollits i desenvolupats en instruccions posteriors. Les unitats hauran d'implementar les polítiques d'aquesta mesura i de les instruccions i guies de manera coherent i consistent]
