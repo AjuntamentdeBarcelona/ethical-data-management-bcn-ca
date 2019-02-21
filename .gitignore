@@ -1,6 +1,10 @@
 *.html
+
 *.pdf
+
 .vscode
-Thumbs.db
+Thumbs
+.db
 .DS_store
-!modules/*/assets/attachments/*.pdf
+!modules/*/assets/attachments/
+*.pdf
