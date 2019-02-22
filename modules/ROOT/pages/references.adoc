@@ -5,4 +5,4 @@ include::{partialsdir}/README.adoc[tag=metadata]
 
 = References
 
-* http://hdl.handle.net/11703/108746[*Directiva sobre gobernanza de datos municipales en las oficinas de datos municipales*]
+* http://hdl.handle.net/11703/108746[*Directiva sobre gobernanza de dades municipals a les oficines de dades municipals*]
