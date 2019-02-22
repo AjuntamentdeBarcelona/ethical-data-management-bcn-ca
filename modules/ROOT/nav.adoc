@@ -17,7 +17,7 @@ include::{partialsdir}/README.adoc[tag=metadata]
 * xref:governance.adoc[Governança de les dades municipals: la Direcció Municipal de Dades]
 * xref:areas.adoc[Eixos Estratègics]
 * xref:projects.adoc[Projectes emblemàtics]
-* xref:references.adoc[References]
+* xref:references.adoc[Referències]
 
 .$$BOTTOM
 * xref:{lang}/glossary:ROOT:glossary.adoc[Guides glossary]
