@@ -113,42 +113,4 @@ Es vol contribuir, d'una banda a completar els "forats negres" d'informació, i 
 
 A continuació és presenta el calendari d'execució dels projectes emblemàtics relatius a la nova estratègia de dades municipal.
 
-////
- No trobem la imatge en català.
-image::schedule.svg[Schedule, width=70%]
-////
-
-|===
-2.2+| Projecte 2.2+|Pressupost 2018 4.+| 2018 2.+|2019
-.1+|T1 |T2 |T3 |T4 |T1 |T2
-2.+| Oficina Municipal de Dades
-2.+|680 K|X|X|X|X| |
-
-2.+|Serveis CityOS
-2.+|1.132 K|X|X|X|X|X|X
-
-2.+|BCNOpenData
-2.+|56 K|X|X|X|X|X|X
-
-2.+|DECODE
-2.+|545 K|X|X|X|X||
-
-2.+|Data City Challenges
-2.+|180 K|X|X|X|X|X|
-
-2.+|BCN Data Exchange
-2.+|130 K|X|X||||
-
-2.+|Quadre de Comandament per a la gerència municipal
-2.+|235 K|X|X|X|||
-
-2.+|Monitoratge Gentrificació
-2.+|Recursos Propis|X|X|X|X|X |
-
-2.+|Censo/EIAE
-2.+|500 K|X|X|X|X||
-
-2.+|Observatori Habitatge
-2.+|349 K|X|X|X|X||
-
-|===
+image::schedule_{lang}.svg[Calendari projectes, width=70%]
