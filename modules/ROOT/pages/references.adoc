@@ -3,6 +3,6 @@ include::_attributes.adoc[]
 endif::[]
 include::{partialsdir}/README.adoc[tag=metadata]
 
-= References
+= Referències
 
 * http://hdl.handle.net/11703/108746[*Directiva sobre governança de dades municipals a les oficines de dades municipals*]
