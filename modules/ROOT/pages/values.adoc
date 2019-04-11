@@ -1,90 +1,89 @@
+= Valors essencials del programa
 ifndef::env-site,env-github[]
 include::_attributes.adoc[]
 endif::[]
 include::{partialsdir}/README.adoc[tag=metadata]
 
-= Valors essencials del programa
-
-L'actual facilitat per a captar dades, la ubiqüitat i el volum de les mateixes, així com les possibilitats que la ciència de dades està obrint noves perspectives, especialment en referència a la provisió de serveis, també facilita la segmentació de persones, la identificació i la vigilància de les mateixes.
+La facilitat actual per captar dades, la ubiqüitat i el volum de les mateixes, així com les possibilitats de la ciència de dades, estan obrint noves perspectives, especialment en referència a la provisió de serveis. També facilita, però, que se segmentin les persones, s'identifiquin i es vigilin.
 Això planteja molts interrogants i desafiaments a la societat en general, i en particular a les administracions públiques.
-La dimensió virtual i la sobirania dels ciutadans en aquest àmbit, és un tema d'interès per les implicacions que aquests aspectes poden tenir en el món analògic, i les administracions han d'estar preparades i dedicar esforços per compondre una estratègia consistent en aquest àmbit.
-Això ha de permetre assegurar la democràcia, els plens drets dels ciutadans i la confiança d'aquest envers les institucions públiques.
+La dimensió virtual i la sobirania dels ciutadans en aquest àmbit, és un tema d'interès per les repercussions que aquests aspectes poden tenir en el món analògic, i les administracions han d'estar preparades i dedicar esforços per compondre una estratègia consistent en aquest àmbit.
+Això ha de permetre assegurar la democràcia, els drets plens de la ciutadania i la confiança d'aquesta envers les institucions públiques.
 
 == Els valors essencials
 
-Les dades municipals són un actiu estratègic i un recurs valuós que habilita al govern local a dur a terme la seva missió i programes de forma efectiva.
+Les dades municipals són un actiu estratègic i un recurs valuós que habilita al govern local a dur a terme la seva missió i els seus programes de forma efectiva.
 L'accés apropiat a les dades municipals millora significativament el valor de la informació i el retorn de la inversió de la seva generació.
-Seguint el pla «Barcelona Ciutat Digital»footnote:[Accessible a http://www.slideshare.net/Barcelona_cat/pla‐barcelona‐ciutat‐digital.]  i el seu èmfasi en la innovació pública, l'economia digital i l'apoderament ciutadà, les següents consideracions sustenten aquesta Estratègia de Gestió de Dades.
-//enllaç trencat
+Seguint el pla «Barcelona Ciutat Digital»footnote:[Accessible a http://hdl.handle.net/11703/98713] i el seu èmfasi en la innovació pública, l'economia digital i l'apoderament ciutadà, aquesta estratègia de gestió de dades se sustenta en les consideracions següents.
+
 Dins d'aquest context, la nova gestió i ús de les dades han de respectar i complir amb els valors essencials aplicables a les dades.
 Per a l'Ajuntament de Barcelona, aquests valors són:
 
 * *Coneixement municipal compartit*.
-Les dades municipals, en el seu sentit més ampli, tenen una gran dimensió social i proveeixen a la ciutadania coneixement –passat, present i futur– del govern, la ciutat, la societat, l'economia i el medi ambient.
+Les dades municipals, en el seu sentit més ampli, tenen una gran dimensió social i proveeixen a la ciutadania coneixement –passat, present i futur– sobre el govern, la ciutat, la societat, l'economia i el medi ambient.
 
-* *Valor estratègic de les dades*:
-Gestionar les dades com a valor estratègic per a la Corporació amb visió innovadora per convertir-les en actius intel·lectuals de l'organització.
+* *Valor estratègic de les dades*.
+Gestionar les dades com a valor estratègic per a la corporació amb visió innovadora per convertir-les en actius intel·lectuals de l'organització.
 
 * *Orientat a resultats*.
-Les dades municipals també són un mitjà per assegurar la rendició de resultats i la transparència de l'administració, per gestionar els serveis i les inversions, per mantenir i millorar el rendiment de l'economia, la riquesa i el benestar dels ciutadans.
+Les dades municipals també són un mitjà per assegurar la rendició de resultats i la transparència de l'Administració, per gestionar els serveis i les inversions, per mantenir i millorar el rendiment de l'economia, la riquesa i el benestar dels ciutadans.
 
 * *Dades com a bé comú*.
 La ciutadania i el bé comú ha d'estar en el cor dels plans i les plataformes tecnològiques del municipi de Barcelona.
 Les dades són una font de riquesa que apodera a qui hi accedeix.
 Fer possible el control ciutadà de les dades, minimitzar l'escletxa digital i evitar pràctiques discriminatòries o no ètiques és l'essència de la sobirania tecnològica municipal.
 
-* *Transparència i Interoperabilitat*
+* *Transparència i interoperabilitat*
 Les institucions públiques han de ser obertes, transparents i responsables amb la ciutadania.
-La promoció de l'obertura i la interoperabilitat, subjecta als requeriments tècnics i legals, incrementa l'eficiència de les operacions, redueix els costos, millora els serveis, suporta les necessitats i incrementen l'accés públic a la informació municipal de valor, i d'aquesta manera, promocionant la participació pública en el govern.
+La promoció de l'obertura i la interoperabilitat, subjecta als requeriments tècnics i legals, incrementa l'eficiència de les operacions, redueix els costos, millora els serveis, suporta les necessitats i incrementa l'accés públic a la informació municipal de valor i, d'aquesta manera, promociona la participació pública en el govern.
 
 * *Reutilització i llicències d'ús obertes.*
 Fer la informació municipal accessible, usable per totes i tots per defecte, sense haver de demanar permís previ per fer-ho i analitzable per a qui ho desitgi, pot alimentar l'emprenedoria, la innovació social i digital, els lloc de treball i l'excel·lència en la recerca científica, millorar la vida dels ciutadans de Barcelona i contribuir de forma significativa en l'estabilitat i la prosperitat de la ciutat.
 
 * *Qualitat i seguretat.*
-El govern de la ciutat ha de prendre passos ferms per tal d'assegurar i maximitzar la qualitat, l'objectivitat, la utilitat, la integritat i la seguretat de la informació municipal abans de disseminar-la i mantenir els processos per tal d'efectuar les peticions d'esmena de la informació disseminada públicament.
+El govern de la ciutat ha de prendre passos ferms per tal d'assegurar i maximitzar la qualitat, l'objectivitat, la utilitat, la integritat i la seguretat de la informació municipal abans de divulgar-la, i mantenir els processos per tal d'efectuar les peticions d'esmena de la informació divulgada públicament.
 
 * *Organització responsable.*
 Per afegir valor a les dades i transformar-les en un actiu amb l'objectiu de promoure la rendició de comptes i els drets de la ciutadania, calen noves accions, nous procediments integrats amb que les noves plataformes creixin de forma orgànica, transversal i transparent.
-Una estratègia de governança comprensiva és la que possibilita la promoció de la revisió, evita les redundàncies, els increments del cost, la ineficiència o les males practiques.
+Una estratègia de governança comprensiva és la que possibilita la promoció de la revisió, evita les redundàncies, els increments del cost, la ineficiència o les males pràctiques.
 
 * *Cura del cicle de vida de les dades.*
-L'atenció a la gestió dels registres municipals des de la creació fins a la seva destrucció o preservació és un component essencial de la gestió de dades de promoció de la responsabilitat pública.
-Les accions de curació durant el cicle de vida, unides a les activitats que asseguren l'accés continuat als materials digitals tant temps com sigui necessari, ajuda a l'explotació analítica de les dades però, també a la protecció responsable dels registres històrics del govern municipal i salvaguarda els drets econòmics i legals del govern i de la ciutadania.
+L'atenció a la gestió dels registres municipals des que es creen fins que es destrueixen o es preserven és un component essencial de la gestió de dades i de la promoció de la responsabilitat pública.
+Les accions de cura durant el cicle de vida, unides a les activitats que asseguren l'accés continuat als materials digitals tant temps com sigui necessari, ajuden a una explotació analítica de les dades però també a la protecció responsable dels registres històrics del govern municipal i a la salvaguarda els drets econòmics i legals del govern i de la ciutadania.
 
 * *Privacitat “des del disseny”.*
 Protegir la privacitat és de màxima importància.
 L'Ajuntament ha de considerar i protegir la privacitat individual i col·lectiva durant el cicle de vida de les dades de forma sistemàtica i comprovable, tal com s'especifica en el Reglament General de Protecció de Dades (Reglament 2016/679 del Parlament Europeu i del Consell), amb una èmfasi particular en el consentiment informat, minimització de la informació, limitació al propòsit, explicable, segura, i ajustada a la llei.
 
-* *Seguretat.* La informació municipal és un actiu estratègic subjecte a riscos i ha de ser gestionat per tal de minimitzar-los.
+* *Seguretat.* La informació municipal és un actiu estratègic subjecte a riscos i s'ha de gestionar de manera que aquests riscos es minimitzin.
 Això inclou privacitat, protecció de les dades, discriminació algorítmica i riscos de ciberseguretat que cal fixar de forma específica, promovent arquitectures de dades ètiques i responsables, tècniques de millora de la privacitat i l'avaluació dels efectes socials.
 Mentre que la seguretat i la privacitat són dues disciplines separades i independents, estan fortament relacionades i és essencial per a les unitats prendre una aproximació coordinada per identificar i gestionar la ciberseguretat i els riscos sobre la privacitat amb requeriments i estàndards aplicables.
 
 * *Sobirania tecnològica.*
 Quan es planifiqui, pressuposti o es compri nou equipament, recursos de TI o infraestructures o serveis de suport, el procés de contractació i els plecs procedents han d'estar en línia amb les prioritats del Pla «Barcelona Ciutat Digital».
-Per complir amb l'objectiu de sobirania tecnològica enunciada en l'Estratègia de transformació digital àgil i els estàndards de serveis digitals, especialment per evitar la dependència de proveïdors _(vendor lock-in)_, les directrius són expandir els principis que guien l'IMI en matèria de tecnologia i innovació: interoperabilitat, agilitat, ètica i obertura de coneixements i tecnologies (tant programari com dades).
+Per complir amb l'objectiu de sobirania tecnològica enunciada en l'estratègia de transformació digital àgil i els estàndards de serveis digitals, especialment per evitar la dependència de proveïdors _(vendor lock-in)_, hi ha les directrius següents, que amplien els principis que guien l'Institut Municipal d'Informàtica (IMI) en matèria de tecnologia i innovació: interoperabilitat, agilitat, ètica i obertura de coneixements i tecnologies (tant programari com dades).
 
 * *Estàndards oberts.*
  Els serveis digitals de l'Ajuntament utilitzaran de manera obligatòria estàndards oberts, i en especial els continguts del catàleg d'estàndards de la Norma tècnica d'interoperabilitat (desenvolupats sota el Reial Decret 4/2010) o els estàndards oberts acceptats internacionalment que actualitzin, substitueixin o complementin aquests estàndards.
  Quan no hi hagi un estàndard obert aprovat per al format requerit es presentarà una proposta del format que es vol utilitzar, atenent al que estableix la normativa aplicable i els requisits per a estàndards oberts de l'IMI.
 
 * *Metodologia Àgil.*
- Els projectes tecnològics que s'hagin de desenvolupar al voltant de la gestió, anàlisi i difusió de dades corporatives caldrà que es realitzin de forma preferent seguint la metodologia tal i com està definida en el xref:{lang}/tech-practices:ROOT:aim-and-scope.adoc[Codi de Pràctiques Tecnològiques], publicat a la Mesura de Govern de l'Ajuntament de Barcelona en octubre del 2017.
+ Els projectes tecnològics que s'hagin de desenvolupar al voltant de la gestió, anàlisi i difusió de dades corporatives caldrà que es realitzin de forma preferent seguint la metodologia tal i com està definida en el xref:{lang}/tech-practices:ROOT:aim-and-scope.adoc[Codi de Pràctiques Tecnològiques], publicat a la Mesura de Govern de l'Ajuntament de Barcelona a l'octubre del 2017.
 
 == Sobirania de dades
 
-La «sobirania de dades» és el concepte vinculat amb el dret constitucional alemany, l'autodeterminació informativa – quan la seva informació en forma digital no està subjecta al control d'un tercer, i en particular de persones o sistemes on es tracten les dades en un país tercer, amb una regulació aliena d'on es troba.
+La "sobirania de dades" és el concepte vinculat al dret constitucional alemany, el dret a l'autodeterminació informativa (quan la informació en forma digital d'una persona no està subjecta al control d'un tercer i, en particular, de persones o sistemes que tracten les dades en un país tercer, amb una regulació aliena al lloc on es troba la persona).
 
-La majoria de les preocupacions actuals al voltant de la sobirania de dades es refereixen a fer complir les normes de privacitat i evitar que les dades emmagatzemades en un país estranger siguin interceptades o accedides pel govern del país amfitrió.
-Però el concepte de sobirania de dades és més ample que aquesta dimensió internacional, i implica la necessitat de tenir el control en tot moment i en tots els sistemes rellevants sobre la recopilació, emmagatzematge, ús i transferència i/o publicació de les seves dades, que siguin dades tècniques, científiques, econòmiques, socials o personals.
+La major part de les preocupacions actuals al voltant de la sobirania de dades es refereixen a fer complir les normes de privacitat i evitar que les dades emmagatzemades en un país estranger siguin interceptades o accedides pel govern del país amfitrió.
+Però el concepte de sobirania de dades és més ampli que aquesta dimensió internacional i implica la necessitat que una persona tingui el control, en tot moment i en tots els sistemes rellevants, sobre la recopilació, l'emmagatzematge, l'ús i la transferència o publicació de les seves dades, tant si són dades tècniques, científiques, econòmiques o socials com personals.
 
 Les organitzacions adopten cada vegada més serveis basats en sistemes informàtics aliens, en particular al núvol, per aprofitar dels beneficis de no haver de comprar, gestionar, actualitzar i reemplaçar sistemes i aplicacions.
-Com que un objectiu principal d'utilitzar el cloud computing és permetre l'accés a la informació i als sistemes en qualsevol moment i en qualsevol lloc, moltes organitzacions no pensen molt bé on s'emmagatzemen les seves dades, que podrien sortir del seu control «únic» i ser accedides per persones no autoritzades, o fins i tot, ser difoses públicament.
+Com que un objectiu principal d'utilitzar el _cloud computing_ és permetre l'accés a la informació i als sistemes en qualsevol moment i en qualsevol lloc, moltes organitzacions no pensen molt bé on s'emmagatzemen les seves dades, que podrien sortir del seu control "únic" i ser accedides per persones no autoritzades, o fins i tot, ser difoses públicament.
 
 La sobirania de dades presenta desafiaments tècnics i legals quan es mouen els sistemes locals i els magatzems d'informació de tercers, en particular al núvol.
 
-En aquest context els sistemes d'informació de l'Ajuntament han de ser determinats i configurats en tot moment per tal de garantir a l'Ajuntament la sobirania de les seves dades, i en particular sobre les dades dels ciutadans – dades de caràcter personal - que gestioni l'Ajuntament en la prestació dels seus serveis.
-L'Ajuntament ha de tenir en tot moment la capacitat d'accedir i tractar les seves dades, i en fer còpies «locals» de seguretat.
-A més, les entitats i ens de l'Ajuntament han de respectar en tot moment la normativa aplicable de protecció de dades pel que fa a l'accés i el tractament de les dades per tercers, i les transferències internacionals de dades.
+En aquest context els sistemes d'informació de l'Ajuntament han de ser determinats i configurats en tot moment per tal de garantir a l'Ajuntament la sobirania de les seves dades, i en particular sobre les dades de la ciutadania (de caràcter personal), que gestioni l'Ajuntament en la prestació dels seus serveis.
+L'Ajuntament ha de tenir en tot moment la capacitat d'accedir a les seves dades, tractar-les i fer-ne còpies "locals" de seguretat.
+A més, les entitats i ens de l'Ajuntament han de respectar en tot moment la normativa aplicable de protecció de dades pel que fa a l'accés i al tractament de les dades per tercers, així com pel que fa a les transferències internacionals de dades.
 
 == L'ús ètic de les dades
 
@@ -92,27 +91,27 @@ L'Ajuntament de Barcelona està compromès amb l'ús ètic de les dades.
 Aquest principi s'estructura segons els següents valors principals:
 
 * Transparència: tant l'Ajuntament com el ciutadà sap en tot moment per què es recullen les dades i per a què, i les mesures aplicables per a garantir el seu ús ètic.
-* Traçabilitat: l'Ajuntament sap a tot moment l'origen de les dades, els usos permesos i les restriccions aplicables.
+* Traçabilitat: l'Ajuntament sap en tot moment l'origen de les dades, els usos permesos i les restriccions aplicables.
 * Diligència: els col·laboradors i proveïdors de serveis relacionats amb dades compleixen amb els mateixos principis i obligacions que l'Ajuntament, i aquest vigila aquest compliment.
-* Privadesa: qualsevol ús de dades de caràcter personal haurà de complir amb la normativa de protecció de dades, i en particular els principis aplicable al tractament, incloent els de l'ús just _(fairness)_, integritat i exactitud, limitació de finalitats de tractament, i minimització de dades.
-* Confiança: l'ús de dades sempre es realitzarà conforme les expectatives dels ciutadans i l'Ajuntament implementa sistemes de control i retroalimentació per mesurar la seva conformitat amb les mateixes.
+* Privadesa: qualsevol ús de dades de caràcter personal haurà de complir amb la normativa de protecció de dades, i en particular els principis aplicables al seu tractament, inclosos els d'ús just  _(fairness)_, integritat i exactitud, limitació de finalitats de tractament, i minimització de dades.
+* Confiança: l'ús de dades sempre s'ha de dur a terme conforme a les expectatives de la ciutadania, i l'Ajuntament ha d'implantar sistemes de control i retroalimentació per mesurar aquesta conformitat.
 * Responsabilitat: l'Ajuntament assumeix responsabilitat per tots els usos de les dades que realitzi.
-* Benefici: les dades sempre s'utilitzaran en benefici dels ciutadans i de la societat.
+* Benefici: les dades sempre s'utilitzaran en benefici de la ciutadania i de la societat.
 
 Tots el projectes que impliquin tractament de dades de la Ciutat compliran amb aquests principis.
 
-A més, avui en dia, moltes operacions i decisions, abans deixades als éssers humans, són cada cop més delegades a algoritmes, els quals poden aconsellar, si no decidir sobre com les dades recollides i tractades per sistemes d'informació haurien de ser interpretades i quines accions haurien de ser preses com a resultat.
-Més i més sovint, aquests algoritmes afecten els processos socials, les transaccions empresarials, i les decisions governamentals, així com la manera en que percebem, entenem i interactuem entre nosaltres i amb el nostre entorn.
-Les diferencies entre el disseny i la operació d'aquests algoritmes i la nostra comprensió de les seves implicacions, poden tenir conseqüències ètiques severes que afecten als individus així com a grups de ciutadans.
-És essencial que les decisions preses per l'Ajuntament, utilitzant algoritmes basats en les nostres dades, han de ser _accountable_ (aplicant el concepte de _“algorítmic accountability”_), i garanteixen els principis ètics del respecte dels drets, la justícia, el _fairness_, el benestar i la virtut.
+A més, avui en dia, moltes operacions i decisions, abans deixades als éssers humans, són cada cop més delegades a algoritmes, els quals poden aconsellar, si no decidir, sobre com les dades recollides i tractades per sistemes d'informació s'haurien d'interpretar i quines accions s'haurien de prendre com a resultat.
+Cada vegada més sovint, aquests algoritmes afecten els processos socials, les transaccions empresarials, i les decisions governamentals, així com la manera com percebem, entenem i interactuem entre nosaltres i amb el nostre entorn.
+Les diferencies entre el disseny i la operació d'aquests algoritmes i la nostra comprensió de les seves implicacions, poden tenir conseqüències ètiques severes que afecten tant persones individuals com grups de ciutadans i ciutadanes.
+És essencial que les decisions que prengui l'Ajuntament, utilitzant algoritmes basats en les nostres dades, siguin _accountable_ (aplicant el concepte d'_algorithmic accountability_), i garanteixin els principis ètics del respecte dels drets, la justícia, el _fairness_, el benestar i la virtut.
 
-Dins del marc d'aquesta Mesura, s'establirà al sí de la OMD un grup de treball per a identificar els temes aixecats pel determinisme algorítmic relacionat amb les decisions automatitzades preses per l'Ajuntament, i per a identificar les mesures necessàries per a garantir els següents principis ètics, amb vistes a determinar si, més endavant, fos necessari una instrucció sobre el tema, amb l'objectiu d'establir les regles aplicables per a l'ús ètic de dades i algoritmes dins de l'Ajuntament:
+Dins del marc d'aquesta mesura, s'establirà al sí de l'OMD un grup de treball per identificar els temes plantejats pel determinisme algorítmic relacionat amb les decisions automatitzades preses per l'Ajuntament, i per identificar les mesures necessàries per garantir els principis ètics següents, amb vista a determinar si més endavant seria necessària una instrucció sobre el tema, amb l'objectiu d'establir les regles aplicables per a l'ús ètic de dades i algoritmes dins de l'Ajuntament:
 
-* _Transparència:_ el dret dels ciutadans (incloent personal de l'Ajuntament i entitats relacionades) de ser informats sobre les decisions automatitzades i pel que fa als algoritmes subjacents.
-* _Due Process (processos deguts):_ el dret dels ciutadans de prendre accions i iniciar recursos en relació al tractament de dades i les decisions automatitzades que els afecten.
-* _Accountability_ i _proporcionalitat:_ garantir que les decisions automatitzades siguin justes i proporcionades, i no perjudiquen als ciutadans - en particular, que no siguin discriminatoris en qualsevol respecte.
+* Transparència: el dret dels ciutadans (incloent personal de l'Ajuntament i entitats relacionades) de ser informats sobre les decisions automatitzades i pel que fa als algoritmes subjacents.
+* _Due Process_ (processos deguts): el dret dels ciutadans de prendre accions i iniciar recursos en relació al tractament de dades i les decisions automatitzades que els afecten.
+* _Accountability_ i proporcionalitat: garantir que les decisions automatitzades siguin justes i proporcionades, i no perjudiquin als ciutadans (en particular, que no siguin discriminatoris des de cap punt de vista).
 
-En aquest context, l'_algorithmic accountability_ serà reforçat per la transparència del codi font obert dels sistemes informàtics d l'Ajuntament implicats en la presa de decisió (o el suport a la presa de decisió).
-On sigui possible, els projectes basats en dades _(data driven)_ permetran testejar els algoritmes mitjançant simulacions basades en les dades de la Ciutat; així mateix, els tercers proveïdors de tecnologia hauran de revelar – a través del codi font obert o d'altres maneres – la lògica subjacent darrere de qualsevol dels processos informàtics de presa automatitzada de decisió o de suport a la presa de decisió dels seus sistemes utilitzats per l'Ajuntament.
+Dins d'aquest context, l'_algorithmic accountability_ serà reforçat per la transparència del codi font obert dels sistemes informàtics de l'Ajuntament implicats en la presa de decisió (o el suport a la presa de decisió).
+On sigui possible, els projectes basats en dades _(data driven)_ permetran testejar els algoritmes mitjançant simulacions basades en les dades de la ciutat; així mateix, els proveïdors tercers de tecnologia hauran de revelar – a través del codi font obert o d'altres maneres – la lògica subjacent darrere de qualsevol dels processos informàtics de presa automatitzada de decisió (o de suport a la presa de decisió) dels seus sistemes utilitzats per l'Ajuntament.
 
 Els valors i principis ètics han de ser considerats com a elements intrínsecs del model de dades i de la governança de les dades de l'Ajuntament, i el grup de treball ajudarà a construir aquest model de dades i els controls adequats per la seva governança, així com a establir un procés per a proporcionar una valoració ètica per a qualsevol projecte de desenvolupament.
