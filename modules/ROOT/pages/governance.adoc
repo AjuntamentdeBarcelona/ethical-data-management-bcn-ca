@@ -1,53 +1,52 @@
+= Governança de les dades municipals: la Direcció Municipal de Dades
 ifndef::env-site,env-github[]
 include::_attributes.adoc[]
 endif::[]
 include::{partialsdir}/README.adoc[tag=metadata]
 
-= Governança de les dades municipals: la Direcció Municipal de Dades
-
-Aquesta *_Estratègia de gestió i ús ètica i responsable de les dades_* implica un canvi organitzatiu que ha de permetre la correcta aplicació de les disposicions que la inclouen.
+Aquesta *_Estratègia de l'ús responsable i ètic de les dades_* implica un canvi organitzatiu que ha de permetre la correcta aplicació de les disposicions que la inclouen.
 
 == Organització: l'Oficina Municipal de Dades
 
-Es crea *l'Oficina Municipal de Dades* («OMD»), una direcció que integra diverses direccions i departaments que fins ara tenien missions sobre les dades corporatives.
-La Direcció de Dades Municipals està ubicada a la Gerència Municipal i respon a la Comissionada de Tecnologia i Innovació Digital (CTID).
+Es crea *l'Oficina Municipal de Dades* (OMD), una direcció que integra diverses direccions i departaments que fins ara tenien missions sobre les dades corporatives.
+L'Oficina Municipal de Dades està ubicada a la Gerència Municipal i respon a la Comissionada de Tecnologia i Innovació Digital (CTID).
 
 L'OMD és responsable de la gestió, qualitat, governança i explotació de les dades relacionades amb l'Ajuntament de Barcelona i tots els seus ens associats (públics o privats) que donen servei als ciutadans.
-El Director de Dades Municipals, o Chief Data Officer («*CDO*»), realitzarà aquesta tasca mitjançant:
+El Director de Dades Municipals, o (_Chief Data Officer_, *CDO*), realitzarà aquesta tasca mitjançant:
 
-* La promoció, execució i supervisió dels projectes d'explotació de dades necessaris pels departaments de l'ajuntament.
+* La promoció, execució i supervisió dels projectes d'explotació de dades necessaris pels departaments de l'Ajuntament.
 També interpel·larà actors rellevants de la ciutat en el sector de les dades.
-Per a realitzar aquesta tasca, comptarà amb una oficina de suport multi-disciplinar.
+Per a realitzar aquesta tasca, comptarà amb una oficina de suport multidisciplinària.
 
-* L'establiment de protocols estandarditzats a tota l'organització i un mapatge precís de tota la riquesa de dades existents sota el paraigua de l'Ajuntament, creant una classificació de totes les dades i impulsant les polítiques de tractament, curació i preservació adequades per a cadascuna d'elles.
+* L'establiment de protocols estandarditzats a tota l'organització i un mapeig precís de tota la riquesa de dades existents sota el paraigua de l'Ajuntament, amb la creació d'una classificació de totes les dades i l'impuls a les polítiques de tractament, cura i preservació adequades per a cadascuna.
 
 * Així mateix, la seva oficina vetllarà per la gestió responsable de dades d'acord a les lleis vigents en matèria de privacitat a través de la coordinació amb el Delegat de Protecció de Dades (DPD) i supervisarà la integració de dades a l'estructura municipal generades en nous contractes i serveis.
 
 * Gestió i seguiment de la governança de dades corporativa.
 
-L'Oficina del Director Municipal de Dades és una oportunitat per a destacar a nivell municipal, nacional, estatal i europeu en l'àmbit de les dades, i coincideix en un bon moment en el temps.
-Es tracta clarament d'una aposta de present i de futur, ja que les dades envaeixen tots i cadascun dels àmbits de la nostra vida, i en un futur molt proper cadascun dels serveis municipals serà susceptible de generar-ne, per la qual cosa com a organització hem d'estar preparats i tenir una estratègia consistent sobre com gestionar-les i, si cal, explotar-les per millorar el servei prestat als ciutadans.
+L'Oficina Municipal de Dades és una oportunitat per a destacar, en els nivells municipal, nacional, estatal i europeu, en l'àmbit de les dades i coincideix en un bon moment en el temps.
+Es tracta clarament d'una aposta de present i de futur, ja que les dades envaeixen tots i cadascun dels àmbits de la nostra vida i, en un futur molt proper, cadascun dels serveis municipals serà susceptible de generar-ne, per la qual cosa hem d'estar preparats i preparades,  com a organització, i tenir una estratègia sòlida de com gestionar-les i, si cal, explotar-les per millorar el servei prestat a la ciutadania.
 
-Per la naturalesa de les activitats de l'Oficina, aquesta ha d'estar dotada d'un equip interdisciplinari i consistent.
-Típicament, els perfils que s'hauran d'abordar (des l'oficina o en contacte amb altres unitats de l'ajuntament) seran de caire administratiu (governança de dades, plecs), legal (aspectes de privacitat i llicències), tècnic de diverses disciplines (caldrà un coneixement de l'arquitectura de dades existent de les accions necessàries durant el seu cicle de vida per transformar-les en un actiu, dels procediments tècnics per garantir l'ús _FAIR_ de les dades), analític (un dels objectius últims de l'oficina és fer ciència de dades), gràfic (hi haurà una necessitat constant de comunicar coneixement extret de dades mitjançant visualitzacions) i finalment una visió de negoci (l'oficina haurà de proveir servei a diverses unitats de l'ajuntament).
+Per la naturalesa de les seves activitats, l'Oficina ha d'estar dotada d'un equip interdisciplinari i coherent.
+Normalment, els perfils que s'hauran de cercar (des de l'Oficina o en contacte amb altres unitats de l'Ajuntament) seran de caire administratiu (governança de dades, plecs), legal (aspectes de privacitat i llicències), tècnic de diverses disciplines (caldrà un coneixement de l'arquitectura de dades existent de les accions necessàries durant el seu cicle de vida per transformar-les en un actiu, dels procediments tècnics per garantir l'ús _FAIR_ de les dades), analític (un dels objectius últims de l'Oficina és fer ciència de dades), gràfic (hi haurà una necessitat constant de comunicar coneixement extret de dades mitjançant visualitzacions) i finalment una visió de negoci (l'Oficina haurà de proveir servei a diverses unitats de l'ajuntament).
 
-Així mateix, l'Impuls de la gestió del canvi serà un dels altres objectius de l'Oficina, amb l'objectiu de transformar la cultura de l'organització, promoure l'estandardització de protocols de gestió de dades i incitar els diversos actors municipals a compartir dades i formar-los en aquest aspecte.
-Això necessita d'un suport polític decisiu, que doti de recursos i autoritat la nova oficina per dur a terme les ambicioses tasques que té encomanades.
+Així mateix, l'impuls de la gestió del canvi serà un dels altres objectius de l'Oficina, amb l'objectiu de transformar la cultura de l'organització, promoure l'estandardització de protocols de gestió de dades i incitar els diversos actors municipals a compartir dades i formar-los en aquest aspecte.
+Això requereix un suport polític decidit, que doti de recursos i autoritat la nova oficina per dur a terme les ambicioses tasques que té encomanades.
 
-Més enllà de suport polític, per aconseguir aquesta fita, l'oficina del CDO ha de ser vista per les altres unitats de l'Ajuntament com un proveïdor de serveis.
-Això implica que l'oficina ha de proporcionar informació útil i treballar colze amb colze amb ells per educar-los en la cultura de les dades i animar-los a seguir pel seu compte un cop finalitzada la col·laboració.
-Per això s'ha d'ubicar en un lloc adequat i amb dependències adequades.
+Més enllà del suport polític, per aconseguir aquesta fita, l'Oficina del CDO ha de ser considerada per les altres unitats de l'Ajuntament com un proveïdor de serveis.
+Això implica que l'Oficina ha de proporcionar informació útil i treballar de costat amb les altres unitats per educar-les en la cultura de les dades i animar-les a continuar pel seu compte un cop acabin la col·laboració.
+Per això, s'ha d'ubicar en un lloc adequat i amb dependències adequades.
 
-Properament s'aprovarà una *Instrucció* que complementarà aquesta mesura i establirà els rols principals i responsabilitats de l'OMD.
+En la *Instrucció* que acompanya aquesta mesura, i s'estableixen les funcions i responsabilitats principals de l'OMD.
 
 == Supervisió: Comissionat per a la Tecnologia i la Innovació Digital (CTID)
 
-El CTID ha de formar part de les taules de governança que informin de decisions i que incloguin recursos IT i dades per tal de facilitar informació avançada dels recursos amb els objectius dels programes.
+El CTID ha de formar part de les taules de governança que informin de decisions i que incloguin recursos TI i dades per tal de facilitar informació avançada dels recursos amb els objectius dels programes.
 El CTID, en consulta amb altres gerents, podrà delegar en altres tècnics les seves funcions.
 
-El CTID requereix que la seguretat i la privacitat de les dades estiguin completament integrades en el sistema de mesures d'ús i avaluació de les dades a nivell municipal i pot recomanar als gerents de les entitats la modificació, pausa o finalització de qualsevol compra, inversió o activitat que inclogui uns components IT significatius, basant-se en les avaluacions del CTID dins dels termes dels contractes i legislació vigents.
+El CTID requereix que la seguretat i la privacitat de les dades estiguin completament integrades en el sistema de mesures d'ús i avaluació de les dades a escala municipal, i pot recomanar a les gerències de les entitats que modifiquin, aturin o finalitzin qualsevol compra, inversió o activitat que inclogui uns components TI significatius, basant-se en les avaluacions del CTID dins dels termes dels contractes i legislació vigents.
 
-S'establirà un procés que de forma regular coordinarà el CTID amb els gestors dels projectes per tal d'avaluar els recursos IT i processos de gestió de dades que donen suport a les finalitats i missió de cada entitat municipal.
-Cal que el CTID i els responsables de programa comparteixin la responsabilitat d'assegurar que els recursos IT i conjunts de dades municipals presents i futurs proporcionin de forma adequada el valor que apliquen a les gerències i ens municipals.
+S'establirà un procés que de forma regular coordinarà el CTID amb els gestors dels projectes per tal d'avaluar els recursos TI i processos de gestió de dades que donen suport a les finalitats i missió de cada entitat municipal.
+Cal que el CTID i les persones responsables de programa comparteixin la responsabilitat d'assegurar que els recursos TI i conjunts de dades municipals presents i futurs proporcionen adequadament el valor que apliquen a les gerències i als ens municipals.
 
-Les gerències i els ens municipals hauran de complir els reglaments i instruccions de l'OMD respecte a la gestió de dades, de la informació i dels documents municipals que es derivin des dels òrgans executius, que es desenvoluparan a partir d'aquesta Estratègia de Gestió Responsable de Dades liderada per la Comissionada de Tecnologia i Innovació Digital.
+Les gerències i els ens municipals hauran de complir els reglaments i instruccions de l'OMD respecte a la gestió de dades, de la informació i dels documents municipals que es derivin des dels òrgans executius, que es desenvoluparan a partir d'aquesta estratègia de gestió responsable de dades liderada per la Comissionada de Tecnologia i Innovació Digital.
