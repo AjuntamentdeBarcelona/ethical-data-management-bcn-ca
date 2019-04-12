@@ -1,9 +1,8 @@
+= Àmbits d'aplicació
 ifndef::env-site,env-github[]
 include::_attributes.adoc[]
 endif::[]
 include::{partialsdir}/README.adoc[tag=metadata]
-
-= Àmbits d'aplicació
 
 Aquesta mesura és d'aplicació a les següents entitats i dades.
 
@@ -11,45 +10,45 @@ Aquesta mesura és d'aplicació a les següents entitats i dades.
 
 És responsabilitat de l'estructura executiva municipal i dels seus ens dependents, la implementació de les accions i els requeriments que es deriven d'aquesta mesura.
 
-Són d'aplicació a les activitats de gestió en les que s'utilitzin qualsevol recurs TI de qualsevol mitjà (a no ser que estigui expressament exclòs) que recullen, emmagatzemen, utilitzen o publiquen dades, incloent informació en suports paper i electrònic.
-Quan alguna entitat dugui a terme un encàrrec o actuï com a proveïdor d'un servei la responsabilitat última en l'aplicació dels requeriments d'aquesta estratègia es manté la gerència o entitat receptora.
+Són aplicables a les activitats de gestió en què s'utilitzi qualsevol recurs de TI de qualsevol mitjà (a no ser que n'estigui exclòs expressament) que reculli, emmagatzemi, utilitzi o publiqui dades, inclosa la informació en suports de paper i electrònic.
+Quan alguna entitat dugui a terme un encàrrec o actuï com a proveïdor d'un servei la responsabilitat última en l'aplicació dels requeriments d'aquesta estratègia es manté en la gerència o entitat receptora.
 
-En relació als sistemes de seguretat i protecció, cal aplicar les directives i ordres executives definides en les directrius i reglaments municipals.
+En relació amb els sistemes de seguretat i protecció, cal aplicar les directives i ordres executives definides en les directrius i reglaments municipals.
 
 == Dades
 
-El conjunt de dades a les quals fa referència aquesta mesura són totes les dades municipals, entenent per dades tant les pròpies dades, metadades, com els sistemes de gestió de dades que en permeten el seu accés continuat, ús, reutilització i preservació.
-Entre les dades municipals podem distingir, a efectes conceptuals, diferents grans dipòsits d'informació / grups:
+El conjunt de dades a les quals fa referència aquesta mesura són totes les dades municipals; s'entenen com a dades tant les dades i metadades pròpies com els sistemes de gestió de dades que en permeten l'accés continuat, l'ús, la reutilització i la preservació.
+Entre les dades municipals podem distingir, a efectes conceptuals, diferents grans dipòsits / grups d'informació:
 
 * *Dades de gestió, administratives i tècniques:*
-són aquells conjunts de dades que les diferents gerències i entitats municipals usen per al desenvolupament de la seva missió.
-Aquestes dades provenen, per exemple, d'expedients, de sensors, o dels propis ciutadans. Dins d'aquest conjunt s'inclou el concepte de _big-data_.
+Són aquells conjunts de dades que les diferents gerències i entitats municipals usen per al desenvolupament de la seva missió.
+Aquestes dades provenen, per exemple, d'expedients, de sensors, o dels propis ciutadans. Dins d'aquest conjunt s'inclou el concepte de _big data_.
 
 * *Open Data i conjunts de dades bruts i metadades obertes:*
-són els conjunts de dades que la corporació municipal posa a disposició del públic.
+Són els conjunts de dades que la corporació municipal posa a disposició del públic.
 La plataforma web que les serveix disposa a més d'un sistema de cerca, visualització i descàrrega.
 També es proporciona una API que hi dona accés.
 
 * *Estadística oficial:*
-és el conjunt d'estadístiques obtingudes per l'Ajuntament sobre diversos conjunts de dades i que estan catalogats com a Estadística Oficial des de l'entitat catalana d'Estadística Oficial IDESCAT.
+És el conjunt d'estadístiques obtingudes per l'Ajuntament sobre diversos conjunts de dades i que estan catalogats com a estadística oficial des de l'entitat catalana d'estadística oficial, l'IDESCAT.
 
 * *Open Content (BCNROC):*
-són les dades de producció municipal publicades en documents d'autoria municipal.
-Són continguts de tot tipus: textuals, numèrics, visuals, etc. que es troben, o configuren, els documents  públics produïts, o finançats, per l'Ajuntament de Barcelona, de les quals aquest en té l'autoria i els posa accessibles, de forma digital i permanent, a la ciutadania, amb esquemes de metadades estàndard per garantir la interoperabilitat, amb llicències Creative Commons per permetre la reutilització dels documents, amb URIs que garanteixen l'enllaç permanent a les xarxes digitals i amb l´ús de formats oberts per facilitar la web semàntica.
+Són les dades de producció municipal publicades en documents d'autoria municipal.
+Són continguts de tot tipus, textuals, numèrics, visuals, etc. que es troben o es configuren en els documents públics produïts o finançats per l'Ajuntament de Barcelona; així, l'Ajuntament en té l'autoria i els fa accessibles, de forma digital i permanent, a la ciutadania, amb esquemes de metadades estàndard per garantir-ne la interoperabilitat, amb llicències Creative Commons per permetre la reutilització dels documents, amb identificadors uniformes de recursos (URI) que garanteixen l'enllaç permanent a les xarxes digitals i amb l´ús de formats oberts per facilitar la web semàntica.
 
 * *Dades externes (CBAB):*
-són els recursos d'informació de fonts externes a l'Ajuntament, de tercers autors, que recull l'organització perquè es necessiten per al treball intern i que es troben organitzats i accessibles des del Catàleg corporatiu del SEDAC.
+Són els recursos d'informació de fonts externes a l'Ajuntament, de tercers autors, que recull l'organització perquè es necessiten per al treball intern i que es troben organitzats i accessibles des del catàleg corporatiu del SEDAC.
 
 
 == Entorn i ecosistema
 
 Quan parlem de dades avui, hem de parlar de tecnologia.
-El Pla de Transformació Digital (*PTD*) vol canviar la forma en què l'Ajuntament compra i gestiona la tecnologia i es relaciona amb els ciutadans.
-Actualment, Barcelona és un pol d'atracció important de les empreses tecnològiques que tenen una varietat de mides, i a més s'estan generant noves pràctiques en el mercat relacionades amb models de negoci que pivoten sobre codi obert i pràctiques de servei obert.footnote:[Veure la Mesura de Govern d'octubre del 2017.]
+El Pla de Transformació Digital (*PTD*) vol canviar la forma com l'Ajuntament compra i gestiona la tecnologia i es relaciona amb la ciutadania.
+Actualment, Barcelona és un pol d'atracció important de les empreses tecnològiques que tenen de mides diverses i, a més, s'estan generant noves pràctiques en el mercat relacionades amb models de negoci que pivoten sobre codi obert i pràctiques de servei obert.footnote:[Veure la Mesura de Govern d'octubre del 2017.]
 El PTD té com a objectiu establir un camp de joc on les PIMES i altres actors econòmics, diferents de les grans corporacions, puguin entrar al "joc" amb possibilitats de guanyar ofertes públiques relacionades amb la tecnologia i les dades.
-Això té l'avantatge de diversificar els proveïdors de l'Ajuntament, evitar el tancament de proveïdors, i també promoure una economia circular, on els beneficis dels diners públics es reinverteixen en actors de la ciutat, mentre que els diners públics invertits en el desenvolupament de serveis es mantenen oberts de manera predeterminada a comunitat.
-La relació entre la compra de dades i la tecnologia és, per tant, important per a l'abast del programa, encara que, òbviament, no sigui la seva principal preocupació.
+Això té l'avantatge de diversificar els proveïdors de l'Ajuntament, evitar el tancament de proveïdors, i també promoure una economia circular, on els beneficis dels diners públics es reinverteixen en actors de la ciutat, mentre que els diners públics invertits en el desenvolupament de serveis es mantenen oberts de manera predeterminada a la comunitat.
+Per tant, la relació entre la compra de dades i la tecnologia és important per a l'abast del programa, encara que, òbviament, no en sigui la preocupació principal.
 
-En aquest sentit, les disposicions d'aquesta mesura s'aplicaran a tots els contractes d'adquisició i de gestió de tecnologia i serveis que gestionin dades, i les entitats de l'Ajuntament hauran de descriure en els plecs d'aplicació les responsabilitats dels proveïdors de serveis front les dades, i el seu rol, si escau, com encarregats del tractament de dades.
+En aquest sentit, les disposicions d'aquesta mesura s'han d'aplicar a tots els contractes d'adquisició i de gestió de tecnologia i serveis que treballin amb dades, i les entitats de l'Ajuntament hauran de descriure en els plecs d'aplicació les responsabilitats dels proveïdors de serveis pel que fa a les dades i la seva funció, si escau, com encarregats del tractament de dades.
 
-A més a més, aquestes disposicions s'estenen a totes les interaccions de l'Ajuntament amb la “comunitat” amb la que interactua, és a dir, tots els possibles nous usuaris “prosumers” de dades que l'Ajuntament fa públic com a dades obertes, incloent: activistes, periodistes de dades, ONGs, fundacions i associacions del costat purament no econòmic; també empresaris, empreses emergents, empreses relacionades amb la ciència de la informació; i també grans empreses en general; i, finalment, institucions de recerca del prisma acadèmic.
+A més, aquestes disposicions s'estenen a totes les interaccions de l'Ajuntament amb la “comunitat” amb la que interactua, és a dir, totes les possibles persones reusuàries o consumidores proactives (_prosumers_) de dades que l'Ajuntament fa públiques com a dades obertes: activistes, periodistes de dades, ONG, fundacions i associacions de l'àmbit purament no econòmic; també empresaris, empreses emergents, empreses relacionades amb la ciència de la informació i també empreses importants de l'àmbit empresarial, i, finalment, institucions de recerca de l'àmbit acadèmic.
