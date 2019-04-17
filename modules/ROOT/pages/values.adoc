@@ -13,7 +13,7 @@ Això ha de permetre assegurar la democràcia, els drets plens de la ciutadania 
 
 Les dades municipals són un actiu estratègic i un recurs valuós que habilita al govern local a dur a terme la seva missió i els seus programes de forma efectiva.
 L'accés apropiat a les dades municipals millora significativament el valor de la informació i el retorn de la inversió de la seva generació.
-Seguint el pla «Barcelona Ciutat Digital»footnote:[Accessible a http://hdl.handle.net/11703/98713] i el seu èmfasi en la innovació pública, l'economia digital i l'apoderament ciutadà, aquesta estratègia de gestió de dades se sustenta en les consideracions següents.
+Seguint el pla "Barcelona Ciutat Digital"footnote:[Accessible a http://hdl.handle.net/11703/98713] i el seu èmfasi en la innovació pública, l'economia digital i l'apoderament ciutadà, aquesta estratègia de gestió de dades se sustenta en les consideracions següents.
 
 Dins d'aquest context, la nova gestió i ús de les dades han de respectar i complir amb els valors essencials aplicables a les dades.
 Per a l'Ajuntament de Barcelona, aquests valors són:
@@ -59,7 +59,7 @@ Això inclou privacitat, protecció de les dades, discriminació algorítmica i 
 Mentre que la seguretat i la privacitat són dues disciplines separades i independents, estan fortament relacionades i és essencial per a les unitats prendre una aproximació coordinada per identificar i gestionar la ciberseguretat i els riscos sobre la privacitat amb requeriments i estàndards aplicables.
 
 * *Sobirania tecnològica.*
-Quan es planifiqui, pressuposti o es compri nou equipament, recursos de TI o infraestructures o serveis de suport, el procés de contractació i els plecs procedents han d'estar en línia amb les prioritats del Pla «Barcelona Ciutat Digital».
+Quan es planifiqui, pressuposti o es compri nou equipament, recursos de TI o infraestructures o serveis de suport, el procés de contractació i els plecs procedents han d'estar en línia amb les prioritats del Pla "Barcelona Ciutat Digital".
 Per complir amb l'objectiu de sobirania tecnològica enunciada en l'estratègia de transformació digital àgil i els estàndards de serveis digitals, especialment per evitar la dependència de proveïdors _(vendor lock-in)_, hi ha les directrius següents, que amplien els principis que guien l'Institut Municipal d'Informàtica (IMI) en matèria de tecnologia i innovació: interoperabilitat, agilitat, ètica i obertura de coneixements i tecnologies (tant programari com dades).
 
 * *Estàndards oberts.*

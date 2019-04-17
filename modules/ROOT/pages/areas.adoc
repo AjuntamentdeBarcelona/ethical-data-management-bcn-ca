@@ -167,8 +167,8 @@ A més, el _data lake_, que ha d'estar basat en una infraestructura de tipus _bi
 Això implica que el o la CDO ha de prioritzar els possibles desenvolupaments o definicions de _data sets_, o conjunts de dades, i els drets d'accés i explotació de les dades que s'inclouen o s'exclouen del _data lake_.
 També serà responsable d'assegurar la qualitat de les dades. Aquest data lake és el l'emblemàtic projecte actual *CityOS*.
 
+.Diagrama conceptual de CityOS
 image::CityOS_infograph_{lang}.svg[Diagrama conceptual de CityOS]
-Diagrama conceptual de CityOS
 
 _City OS és un projecte de dipòsit i arquitectura transversal per a l'emmagatzematge i l'accés centralitzat i uniforme a les dades de la Ciutat.
 És el repositori analític únic de dades municipals.
