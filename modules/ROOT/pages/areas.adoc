@@ -324,6 +324,6 @@ En aquest sentit, les iniciatives per a la publicació i valorització "externa"
 
 Els projectes emblemàtics en aquest eix són:
 
-* *_BCN Data Store:_* serà la biblioteca pública de serveis, fàcil d'usar i escalable a mesura que es desenvolupin els serveis oferts per l'Oficina Municipal de Dades.
+* *_BCN Data Exchange:_* serà la biblioteca pública de serveis, fàcil d'usar i escalable a mesura que es desenvolupin els serveis oferts per l'Oficina Municipal de Dades.
 * *_Open Data BCN:_* les millores en les funcionalitats de Open Data BCN permeten l'accés i la reutilització, per al bé comú i per al benefici de persones i entitats interessades, de les dades generades o custodiades pels organismes públics.
 * *_Data City Challenges:_* procurant tenir la millor eficiència en els serveis que presta l'Ajuntament, utilitzarem conjunts de dades i la ciutat com a model d'experimentació per cercar solucions als principals reptes urbans.

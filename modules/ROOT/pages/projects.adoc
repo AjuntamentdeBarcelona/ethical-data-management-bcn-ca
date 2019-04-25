@@ -13,7 +13,7 @@ En aquesta secció presentem els projectes més rellevants que es duran a terme,
 |===
 | 1. Oficina Municipal de Dades  | 2. City OS
 | 3. Open Data BCN | 4. Decode
-| 5. Data City Challenge | 6. Data Exchange
+| 5. Data City Challenge | 6. BCN Data Exchange
 | 7. Quadre de Comandament de la Gerència Municipal | 8. Monitoratge de la gentrificació
 | 9. Cens d'Activitats Econòmiques  | 10. Observatori de l'Habitatge
 |===
@@ -65,12 +65,12 @@ Aquests projectes (_challenges_) ens permetrà fer proves i posteriorment adopta
 
 == BCN Data Exchange
 
-El BCN Data Store que desenvoluparà l'Ajuntament de Barcelona és un pas més enllà en el camí iniciat amb el projecte Open Data BCN.
+El BCN Data Exchange que desenvoluparà l'Ajuntament de Barcelona és un pas més enllà en el camí iniciat amb el projecte Open Data BCN.
 El seu objectiu és tractar de facilitar l'accés a les dades custodiades per la ciutat, a les persones i a les organitzacions per al bé comú (_data commons_).
 
 També desenvoluparà una filosofia que emfatitza l'explotació de les dades de la ciutat a totes les àrees de l'activitat política de la ciutat i ajudarà a promoure una cultura d'intercanvi clara del "mercat de dades de la ciutat" tant en el sector públic com en el privat.
 
-BCN Data Store serà una biblioteca pública de serveis, fàcil d'usar i escalable a mesura que es desenvolupin els serveis oferts per l'Oficina Municipal de Dades.
+BCN Data Exchange serà una biblioteca pública de serveis, fàcil d'usar i escalable a mesura que es desenvolupin els serveis oferts per l'Oficina Municipal de Dades.
 Per poder fer-ho realitat es treballarà sota el concepte _"Platform as a Service"_ (PaaS).
 
 Integrarà comunitats i components socials en tots els lliuraments i buscarà establir una xarxa de persones i ens socis, membres, revisors, amics i seguidors.
